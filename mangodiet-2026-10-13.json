@@ -1,16 +1,16 @@
 {
   "date": "2026-10-13",
-  "calories": 1800,
+  "calories": 1200,
   "meals": [
     {
       "name": "Śniadanie",
-      "baseDietCaloriesMealId": 249,
+      "baseDietCaloriesMealId": 247,
       "options": [
         {
-          "dietCaloriesMealId": 249,
+          "dietCaloriesMealId": 247,
           "name": "Owsianka pieczona brownie z musem owoce leśne",
           "label": "Odchudzająca 5 posiłków",
-          "info": "431 kcal • B:16g • W:55g • T:16g",
+          "info": "274 kcal • B:10g • W:35g • T:10g",
           "thermo": "COLD_WARM",
           "reviewsNumber": 408,
           "reviewsScore": 91.42,
@@ -77,12 +77,12 @@
                 ]
               },
               {
-                "name": "Mieszanka wieloowocowa (mrożona) (jeżyna, jabłko, gruszka, śliwka, wiśnia, aronia, porzeczka czarna, porzeczka czerwona, morele, truskawka, agrest)",
+                "name": "Czekolada gorzka 60% (miazga kakaowa, cukier, kakao w proszku o obniżonej zawartości tłuszczu, tłuszcz kakaowy, emulgatory: lecytyny (z SOI) i E476; aromat)",
                 "major": false,
                 "exclusion": []
               },
               {
-                "name": "Czekolada gorzka 60% (miazga kakaowa, cukier, kakao w proszku o obniżonej zawartości tłuszczu, tłuszcz kakaowy, emulgatory: lecytyny (z SOI) i E476; aromat)",
+                "name": "Mieszanka wieloowocowa (mrożona) (jeżyna, jabłko, gruszka, śliwka, wiśnia, aronia, porzeczka czarna, porzeczka czerwona, morele, truskawka, agrest)",
                 "major": false,
                 "exclusion": []
               },
@@ -120,17 +120,6 @@
                 ]
               },
               {
-                "name": "Skrobia ziemniaczana",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 515,
-                    "name": "skrobia",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
                 "name": "Kakao (proszek 10-12%)",
                 "major": false,
                 "exclusion": [
@@ -140,25 +129,36 @@
                     "chosen": false
                   }
                 ]
+              },
+              {
+                "name": "Skrobia ziemniaczana",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 515,
+                    "name": "skrobia",
+                    "chosen": false
+                  }
+                ]
               }
             ],
             "imageUrl": "",
-            "calories": "431.01 kcal / 1803 kJ",
-            "carbohydrate": "55.23g",
-            "dietaryFiber": "7.0g",
-            "fat": "16.16g",
-            "protein": "15.87g",
-            "salt": "0.29g",
-            "saturatedFattyAcids": "7.19g",
-            "sugar": "27.34g",
+            "calories": "273.96 kcal / 1146 kJ",
+            "carbohydrate": "34.71g",
+            "dietaryFiber": "4.33g",
+            "fat": "10.47g",
+            "protein": "9.94g",
+            "salt": "0.18g",
+            "saturatedFattyAcids": "4.73g",
+            "sugar": "17.31g",
             "thermo": "COLD_WARM"
           }
         },
         {
-          "dietCaloriesMealId": 219,
+          "dietCaloriesMealId": 220,
           "name": "Sałatka z pieczoną marchewką, serem typu feta, grzankami i dressingiem miodowo-musztardowym",
           "label": "Standard 5 posiłków",
-          "info": "454 kcal • B:15g • W:47g • T:24g",
+          "info": "293 kcal • B:9g • W:28g • T:17g",
           "thermo": "COLD",
           "reviewsNumber": 105,
           "reviewsScore": 96.19,
@@ -192,12 +192,12 @@
                 "exclusion": []
               },
               {
-                "name": "Pieczywo tostowe (graham) (mąka (PSZENNA 53%, PSZENNA graham 12%, ŻYTNIA), woda, olej rzepakowy, drożdże, nasiona słonecznika, siemię lniane, sól, cukier, ekstrakt słodu JĘCZMIENNEGO (słód JĘCZMIENNY, woda), mąka z prażonego słodu PSZENNEGO, środek do przetwarzania mąki: kwas askorbinowy)",
+                "name": "Ser typu feta (Ser (mleko pasteryzowane, regulator kwasowości E575, sól morska, podpuszczka mikrobiologiczna), zalewa solankowa (woda, sól, regulator kwasowości: kwas mlekowy).)",
                 "major": false,
                 "exclusion": []
               },
               {
-                "name": "Ser typu feta (Ser (mleko pasteryzowane, regulator kwasowości E575, sól morska, podpuszczka mikrobiologiczna), zalewa solankowa (woda, sól, regulator kwasowości: kwas mlekowy).)",
+                "name": "Pieczywo tostowe (graham) (mąka (PSZENNA 53%, PSZENNA graham 12%, ŻYTNIA), woda, olej rzepakowy, drożdże, nasiona słonecznika, siemię lniane, sól, cukier, ekstrakt słodu JĘCZMIENNEGO (słód JĘCZMIENNY, woda), mąka z prażonego słodu PSZENNEGO, środek do przetwarzania mąki: kwas askorbinowy)",
                 "major": false,
                 "exclusion": []
               },
@@ -218,6 +218,17 @@
                 ]
               },
               {
+                "name": "Szpinak (świeży)",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 557,
+                    "name": "szpinak",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
                 "name": "Kukurydza",
                 "major": false,
                 "exclusion": [
@@ -229,17 +240,6 @@
                   {
                     "dietaryExclusionId": 277,
                     "name": "kukurydza",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
-                "name": "Szpinak (świeży)",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 557,
-                    "name": "szpinak",
                     "chosen": false
                   }
                 ]
@@ -387,14 +387,14 @@
               }
             ],
             "imageUrl": "",
-            "calories": "454.42 kcal / 1901 kJ",
-            "carbohydrate": "47.03g",
-            "dietaryFiber": "4.96g",
-            "fat": "23.98g",
-            "protein": "14.51g",
-            "salt": "3.32g",
-            "saturatedFattyAcids": "6.56g",
-            "sugar": "6.94g",
+            "calories": "292.58 kcal / 1224 kJ",
+            "carbohydrate": "27.85g",
+            "dietaryFiber": "2.98g",
+            "fat": "16.82g",
+            "protein": "9.49g",
+            "salt": "2.1g",
+            "saturatedFattyAcids": "5.08g",
+            "sugar": "5.97g",
             "thermo": "COLD"
           }
         }
@@ -402,13 +402,13 @@
     },
     {
       "name": "II śniadanie",
-      "baseDietCaloriesMealId": 255,
+      "baseDietCaloriesMealId": 253,
       "options": [
         {
-          "dietCaloriesMealId": 255,
+          "dietCaloriesMealId": 253,
           "name": "Zupa marchewkowa z camembertem i serowymi grzankami",
           "label": "Odchudzająca 5 posiłków",
-          "info": "342 kcal • B:13g • W:23g • T:23g",
+          "info": "241 kcal • B:9g • W:16g • T:16g",
           "thermo": "WARM",
           "reviewsNumber": 57,
           "reviewsScore": 91.23,
@@ -480,11 +480,6 @@
                 ]
               },
               {
-                "name": "Pieczywo tostowe (graham) (mąka (PSZENNA 53%, PSZENNA graham 12%, ŻYTNIA), woda, olej rzepakowy, drożdże, nasiona słonecznika, siemię lniane, sól, cukier, ekstrakt słodu JĘCZMIENNEGO (słód JĘCZMIENNY, woda), mąka z prażonego słodu PSZENNEGO, środek do przetwarzania mąki: kwas askorbinowy)",
-                "major": false,
-                "exclusion": []
-              },
-              {
                 "name": "Por",
                 "major": false,
                 "exclusion": [
@@ -494,6 +489,11 @@
                     "chosen": false
                   }
                 ]
+              },
+              {
+                "name": "Pieczywo tostowe (graham) (mąka (PSZENNA 53%, PSZENNA graham 12%, ŻYTNIA), woda, olej rzepakowy, drożdże, nasiona słonecznika, siemię lniane, sól, cukier, ekstrakt słodu JĘCZMIENNEGO (słód JĘCZMIENNY, woda), mąka z prażonego słodu PSZENNEGO, środek do przetwarzania mąki: kwas askorbinowy)",
+                "major": false,
+                "exclusion": []
               },
               {
                 "name": "Vegetop 33%",
@@ -600,22 +600,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "341.7 kcal / 1429 kJ",
-            "carbohydrate": "22.67g",
-            "dietaryFiber": "4.53g",
-            "fat": "22.65g",
-            "protein": "12.76g",
-            "salt": "1.48g",
-            "saturatedFattyAcids": "12.01g",
-            "sugar": "4.77g",
+            "calories": "240.64 kcal / 1006 kJ",
+            "carbohydrate": "15.77g",
+            "dietaryFiber": "3.19g",
+            "fat": "16.04g",
+            "protein": "8.99g",
+            "salt": "1.04g",
+            "saturatedFattyAcids": "8.54g",
+            "sugar": "3.4g",
             "thermo": "WARM"
           }
         },
         {
-          "dietCaloriesMealId": 227,
+          "dietCaloriesMealId": 225,
           "name": "Deser z chia i brzoskwinią",
           "label": "Standard 5 posiłków",
-          "info": "195 kcal • B:13g • W:17g • T:8g",
+          "info": "131 kcal • B:9g • W:12g • T:5g",
           "thermo": "COLD",
           "reviewsNumber": 224,
           "reviewsScore": 90.18,
@@ -682,14 +682,14 @@
               }
             ],
             "imageUrl": "",
-            "calories": "194.77 kcal / 814 kJ",
-            "carbohydrate": "17.04g",
-            "dietaryFiber": "2.77g",
-            "fat": "8.21g",
-            "protein": "12.87g",
-            "salt": "0.11g",
-            "saturatedFattyAcids": "0.52g",
-            "sugar": "14.39g",
+            "calories": "130.69 kcal / 546 kJ",
+            "carbohydrate": "11.6g",
+            "dietaryFiber": "1.87g",
+            "fat": "5.41g",
+            "protein": "8.7g",
+            "salt": "0.07g",
+            "saturatedFattyAcids": "0.32g",
+            "sugar": "9.82g",
             "thermo": "COLD"
           }
         }
@@ -697,13 +697,13 @@
     },
     {
       "name": "Obiad",
-      "baseDietCaloriesMealId": 261,
+      "baseDietCaloriesMealId": 260,
       "options": [
         {
-          "dietCaloriesMealId": 261,
+          "dietCaloriesMealId": 260,
           "name": "Kluseczki spatzle podane z wieprzowiną w sosie pieczeniowym i fasolką szparagową",
           "label": "Odchudzająca 5 posiłków",
-          "info": "507 kcal • B:32g • W:44g • T:22g",
+          "info": "365 kcal • B:24g • W:30g • T:16g",
           "thermo": "WARM",
           "reviewsNumber": 25,
           "reviewsScore": 80,
@@ -813,17 +813,6 @@
                 ]
               },
               {
-                "name": "Pieprz czarny mielony",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 419,
-                    "name": "pieprz",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
                 "name": "Sól",
                 "major": false,
                 "exclusion": [
@@ -841,6 +830,17 @@
                   {
                     "dietaryExclusionId": 112,
                     "name": "czosnek",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Pieprz czarny mielony",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 419,
+                    "name": "pieprz",
                     "chosen": false
                   }
                 ]
@@ -895,22 +895,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "507.41 kcal / 2123 kJ",
-            "carbohydrate": "44.09g",
-            "dietaryFiber": "4.84g",
-            "fat": "21.8g",
-            "protein": "32.41g",
-            "salt": "3.08g",
-            "saturatedFattyAcids": "9.64g",
-            "sugar": "7.64g",
+            "calories": "365.41 kcal / 1528 kJ",
+            "carbohydrate": "30.19g",
+            "dietaryFiber": "3.61g",
+            "fat": "16.25g",
+            "protein": "23.73g",
+            "salt": "2.24g",
+            "saturatedFattyAcids": "7.2g",
+            "sugar": "5.57g",
             "thermo": "WARM"
           }
         },
         {
-          "dietCaloriesMealId": 229,
+          "dietCaloriesMealId": 234,
           "name": "Pieczone udko z kurczaka z sosem rozmarynowym, kuskusem i surówką z kiszonej kapusty",
           "label": "Standard 5 posiłków",
-          "info": "547 kcal • B:28g • W:47g • T:27g",
+          "info": "388 kcal • B:20g • W:31g • T:20g",
           "thermo": "WARM",
           "reviewsNumber": 79,
           "reviewsScore": 92.41,
@@ -999,6 +999,11 @@
                 "exclusion": []
               },
               {
+                "name": "Marchew obrana",
+                "major": false,
+                "exclusion": []
+              },
+              {
                 "name": "Cebula",
                 "major": false,
                 "exclusion": [
@@ -1008,11 +1013,6 @@
                     "chosen": false
                   }
                 ]
-              },
-              {
-                "name": "Marchew obrana",
-                "major": false,
-                "exclusion": []
               },
               {
                 "name": "Cebula czerwona obrana",
@@ -1063,17 +1063,6 @@
                 ]
               },
               {
-                "name": "Sól",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 531,
-                    "name": "sól",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
                 "name": "Natka pietruszki",
                 "major": false,
                 "exclusion": [
@@ -1096,6 +1085,17 @@
                 ]
               },
               {
+                "name": "Sól",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 531,
+                    "name": "sól",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
                 "name": "Pieprz czarny mielony",
                 "major": false,
                 "exclusion": [
@@ -1108,6 +1108,22 @@
               },
               {
                 "name": "Sos sojowy jasny (woda, ekstrakt z nasion SOI, sól, mąka PSZENNA, glutaminian sodu, barwnik: karmel, sorbinian potasu. )",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Mielona słodka papryka",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 395,
+                    "name": "papryka",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Musztarda dijon (woda, GORCZYCA mielona, ocet spirytusowy, woda, sól, regulator kwasowości: kwas cytrynowy, substancja konserwująca: PIROASIARCZYN potasu)",
                 "major": false,
                 "exclusion": []
               },
@@ -1132,33 +1148,17 @@
                     "chosen": false
                   }
                 ]
-              },
-              {
-                "name": "Mielona słodka papryka",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 395,
-                    "name": "papryka",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
-                "name": "Musztarda dijon (woda, GORCZYCA mielona, ocet spirytusowy, woda, sól, regulator kwasowości: kwas cytrynowy, substancja konserwująca: PIROASIARCZYN potasu)",
-                "major": false,
-                "exclusion": []
               }
             ],
             "imageUrl": "",
-            "calories": "547.1 kcal / 2289 kJ",
-            "carbohydrate": "46.51g",
-            "dietaryFiber": "6.64g",
-            "fat": "27.07g",
-            "protein": "28.06g",
-            "salt": "2.96g",
-            "saturatedFattyAcids": "6.91g",
-            "sugar": "6.33g",
+            "calories": "388.13 kcal / 1623 kJ",
+            "carbohydrate": "30.73g",
+            "dietaryFiber": "4.85g",
+            "fat": "20.05g",
+            "protein": "20.33g",
+            "salt": "2.18g",
+            "saturatedFattyAcids": "5.03g",
+            "sugar": "4.71g",
             "thermo": "WARM"
           }
         }
@@ -1166,13 +1166,13 @@
     },
     {
       "name": "Podwieczorek",
-      "baseDietCaloriesMealId": 266,
+      "baseDietCaloriesMealId": 264,
       "options": [
         {
-          "dietCaloriesMealId": 266,
+          "dietCaloriesMealId": 264,
           "name": "Orzechowo-kakaowy pudding z tapioki z owocami",
           "label": "Odchudzająca 5 posiłków",
-          "info": "187 kcal • B:2g • W:26g • T:8g",
+          "info": "134 kcal • B:1g • W:19g • T:6g",
           "thermo": "COLD",
           "reviewsNumber": 43,
           "reviewsScore": 93.02,
@@ -1200,11 +1200,6 @@
                 ]
               },
               {
-                "name": "Mleczko kokosowe (ekstrakt z orzecha kokosowego, woda)",
-                "major": false,
-                "exclusion": []
-              },
-              {
                 "name": "Jabłko (może zawierać pestki)",
                 "major": false,
                 "exclusion": []
@@ -1219,6 +1214,11 @@
                     "chosen": false
                   }
                 ]
+              },
+              {
+                "name": "Mleczko kokosowe (ekstrakt z orzecha kokosowego, woda)",
+                "major": false,
+                "exclusion": []
               },
               {
                 "name": "Napój kokosowy bez cukru (ekstrakt z orzecha kokosowego, woda)",
@@ -1275,22 +1275,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "186.67 kcal / 781 kJ",
-            "carbohydrate": "25.63g",
-            "dietaryFiber": "2.42g",
-            "fat": "8.37g",
-            "protein": "1.95g",
-            "salt": "0.04g",
-            "saturatedFattyAcids": "4.89g",
-            "sugar": "14.01g",
+            "calories": "134.33 kcal / 562 kJ",
+            "carbohydrate": "18.86g",
+            "dietaryFiber": "1.9g",
+            "fat": "5.83g",
+            "protein": "1.43g",
+            "salt": "0.03g",
+            "saturatedFattyAcids": "3.38g",
+            "sugar": "10.79g",
             "thermo": "COLD"
           }
         },
         {
-          "dietCaloriesMealId": 238,
+          "dietCaloriesMealId": 239,
           "name": "Łazanki z pieczarkami i szpinakiem",
           "label": "Standard 5 posiłków",
-          "info": "263 kcal • B:11g • W:33g • T:11g",
+          "info": "182 kcal • B:7g • W:23g • T:7g",
           "thermo": "WARM",
           "reviewsNumber": 0,
           "reviewsScore": 0,
@@ -1433,14 +1433,14 @@
               }
             ],
             "imageUrl": "",
-            "calories": "262.77 kcal / 1099 kJ",
-            "carbohydrate": "33.24g",
-            "dietaryFiber": "3.26g",
-            "fat": "10.79g",
-            "protein": "10.61g",
-            "salt": "0.45g",
-            "saturatedFattyAcids": "5.78g",
-            "sugar": "3.22g",
+            "calories": "181.61 kcal / 759 kJ",
+            "carbohydrate": "22.98g",
+            "dietaryFiber": "2.26g",
+            "fat": "7.45g",
+            "protein": "7.34g",
+            "salt": "0.31g",
+            "saturatedFattyAcids": "3.99g",
+            "sugar": "2.23g",
             "thermo": "WARM"
           }
         }
@@ -1448,13 +1448,13 @@
     },
     {
       "name": "Kolacja",
-      "baseDietCaloriesMealId": 267,
+      "baseDietCaloriesMealId": 270,
       "options": [
         {
-          "dietCaloriesMealId": 267,
+          "dietCaloriesMealId": 270,
           "name": "Sałatka z groszkiem, pestkami i paprykowym dressingiem",
           "label": "Odchudzająca 5 posiłków",
-          "info": "363 kcal • B:19g • W:31g • T:21g",
+          "info": "237 kcal • B:11g • W:19g • T:15g",
           "thermo": "COLD",
           "reviewsNumber": 53,
           "reviewsScore": 79.25,
@@ -1530,25 +1530,14 @@
                 "exclusion": []
               },
               {
-                "name": "Pestki dyni",
-                "major": false,
-                "exclusion": []
-              },
-              {
                 "name": "Sok z cytryny (woda, zagęszczony sok z cytryny, substancje konserwujące: pirosiarczyn potasu)",
                 "major": false,
                 "exclusion": []
               },
               {
-                "name": "Natka pietruszki",
+                "name": "Pestki dyni",
                 "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 361,
-                    "name": "natka",
-                    "chosen": false
-                  }
-                ]
+                "exclusion": []
               },
               {
                 "name": "Oregano",
@@ -1557,6 +1546,17 @@
                   {
                     "dietaryExclusionId": 374,
                     "name": "oregano",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Natka pietruszki",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 361,
+                    "name": "natka",
                     "chosen": false
                   }
                 ]
@@ -1607,22 +1607,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "363.05 kcal / 1519 kJ",
-            "carbohydrate": "31.01g",
-            "dietaryFiber": "10.47g",
-            "fat": "20.91g",
-            "protein": "19.41g",
-            "salt": "2.54g",
-            "saturatedFattyAcids": "8.06g",
-            "sugar": "12.46g",
+            "calories": "237.12 kcal / 992 kJ",
+            "carbohydrate": "18.82g",
+            "dietaryFiber": "6.6g",
+            "fat": "15.36g",
+            "protein": "11.44g",
+            "salt": "1.73g",
+            "saturatedFattyAcids": "5.86g",
+            "sugar": "7.54g",
             "thermo": "COLD"
           }
         },
         {
-          "dietCaloriesMealId": 246,
+          "dietCaloriesMealId": 241,
           "name": "Zapiekanka ziemniaczana z boczkiem i cebulą podana z sosem remoulade",
           "label": "Standard 5 posiłków",
-          "info": "370 kcal • B:18g • W:28g • T:21g",
+          "info": "235 kcal • B:11g • W:18g • T:13g",
           "thermo": "WARM",
           "reviewsNumber": 159,
           "reviewsScore": 88.05,
@@ -1656,6 +1656,17 @@
                 "exclusion": []
               },
               {
+                "name": "Jogurt naturalny (MLEKO)",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 214,
+                    "name": "jogurt",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
                 "name": "Jaja kurze",
                 "major": false,
                 "exclusion": []
@@ -1671,15 +1682,9 @@
                 "exclusion": []
               },
               {
-                "name": "Jogurt naturalny (MLEKO)",
+                "name": "Majonez (woda, olej słonecznikowy (29%), cukier, ocet spirytusowy, żółtko JAJA (3,5%), musztarda (woda, GORCZYCA, ocet spirytusowy, sól, aromaty, przyprawy), sól, skrobia modyfikowana, emulgator (polirycynooleinian poliglicerolu), substancja zagęszczająca (guma ksantanowa), zagęszczony sok z cytryny, substancja konserwująca (sorbinian potasu), aromaty, przeciwutleniacz (sól wapniowo-disodowa EDTA), ekstrakt z papryki, barwnik (karoteny))",
                 "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 214,
-                    "name": "jogurt",
-                    "chosen": false
-                  }
-                ]
+                "exclusion": []
               },
               {
                 "name": "Cebula",
@@ -1688,22 +1693,6 @@
                   {
                     "dietaryExclusionId": 74,
                     "name": "cebula",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
-                "name": "Majonez (woda, olej słonecznikowy (29%), cukier, ocet spirytusowy, żółtko JAJA (3,5%), musztarda (woda, GORCZYCA, ocet spirytusowy, sól, aromaty, przyprawy), sól, skrobia modyfikowana, emulgator (polirycynooleinian poliglicerolu), substancja zagęszczająca (guma ksantanowa), zagęszczony sok z cytryny, substancja konserwująca (sorbinian potasu), aromaty, przeciwutleniacz (sól wapniowo-disodowa EDTA), ekstrakt z papryki, barwnik (karoteny))",
-                "major": false,
-                "exclusion": []
-              },
-              {
-                "name": "Skrobia ziemniaczana",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 515,
-                    "name": "skrobia",
                     "chosen": false
                   }
                 ]
@@ -1720,12 +1709,28 @@
                 ]
               },
               {
+                "name": "Skrobia ziemniaczana",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 515,
+                    "name": "skrobia",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
                 "name": "Ketchup (Woda, koncentrat pomidorowy (w przeliczeniu na pomidora 135g na 100g ketchupu), cukier, skrobia modyfikowana, mieszanka octowa (ocet spirytusowy, ocet winny biały), sól, przyprawy, regulator kwasowości (kwas cytrynowy), substancja konserwująca (benzoesan sodu))",
                 "major": false,
                 "exclusion": []
               },
               {
                 "name": "Musztarda sarepska (woda, GORCZYCA, ocet spirytusowy, cukier, sól, przyprawy, naturalne aromaty)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Sok z cytryny (woda, zagęszczony sok z cytryny, substancje konserwujące: pirosiarczyn potasu)",
                 "major": false,
                 "exclusion": []
               },
@@ -1746,25 +1751,9 @@
                 ]
               },
               {
-                "name": "Sok z cytryny (woda, zagęszczony sok z cytryny, substancje konserwujące: pirosiarczyn potasu)",
-                "major": false,
-                "exclusion": []
-              },
-              {
                 "name": "Chrzan tarty (Korzeń tary chrzanu (60%), woda, olej rzepakowy, ocet spirytusowy, cukier, mleko w proszku, sól, białka mleka, substancje zagęszczające (guma guar, guma ksantanowa, mączka chleba świętojańskiego), regulator kwasowości (kwas cytrynowy), substancja konserwująca (pirosiarczyn sodu, zawiera siarczyny).)",
                 "major": false,
                 "exclusion": []
-              },
-              {
-                "name": "Natka pietruszki",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 361,
-                    "name": "natka",
-                    "chosen": false
-                  }
-                ]
               },
               {
                 "name": "Czosnek",
@@ -1773,6 +1762,17 @@
                   {
                     "dietaryExclusionId": 112,
                     "name": "czosnek",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Natka pietruszki",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 361,
+                    "name": "natka",
                     "chosen": false
                   }
                 ]
@@ -1856,14 +1856,14 @@
               }
             ],
             "imageUrl": "",
-            "calories": "370.47 kcal / 1550 kJ",
-            "carbohydrate": "28.38g",
-            "dietaryFiber": "0.75g",
-            "fat": "20.5g",
-            "protein": "17.87g",
-            "salt": "0.87g",
-            "saturatedFattyAcids": "4.52g",
-            "sugar": "8.97g",
+            "calories": "235.14 kcal / 983 kJ",
+            "carbohydrate": "17.69g",
+            "dietaryFiber": "0.57g",
+            "fat": "13.34g",
+            "protein": "10.92g",
+            "salt": "0.61g",
+            "saturatedFattyAcids": "2.81g",
+            "sugar": "6.02g",
             "thermo": "WARM"
           }
         }

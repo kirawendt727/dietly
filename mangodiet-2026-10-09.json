@@ -1,16 +1,16 @@
 {
   "date": "2026-10-09",
-  "calories": 1800,
+  "calories": 1200,
   "meals": [
     {
       "name": "Śniadanie",
-      "baseDietCaloriesMealId": 249,
+      "baseDietCaloriesMealId": 247,
       "options": [
         {
-          "dietCaloriesMealId": 249,
+          "dietCaloriesMealId": 247,
           "name": "Smoothie bowl mango-banan z muesli i owocami",
           "label": "Odchudzająca 5 posiłków",
-          "info": "399 kcal • B:11g • W:63g • T:12g",
+          "info": "282 kcal • B:8g • W:44g • T:9g",
           "thermo": "COLD",
           "reviewsNumber": 356,
           "reviewsScore": 96.91,
@@ -62,6 +62,11 @@
                 ]
               },
               {
+                "name": "Jabłko (może zawierać pestki)",
+                "major": false,
+                "exclusion": []
+              },
+              {
                 "name": "Banany",
                 "major": false,
                 "exclusion": [
@@ -71,11 +76,6 @@
                     "chosen": false
                   }
                 ]
-              },
-              {
-                "name": "Jabłko (może zawierać pestki)",
-                "major": false,
-                "exclusion": []
               },
               {
                 "name": "Pulpa mango (mango, regulator kwasowości- kwas cytrynowy)",
@@ -185,22 +185,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "398.61 kcal / 1667 kJ",
-            "carbohydrate": "62.6g",
-            "dietaryFiber": "6.89g",
-            "fat": "12.26g",
-            "protein": "10.91g",
-            "salt": "0.13g",
-            "saturatedFattyAcids": "3.55g",
-            "sugar": "33.38g",
+            "calories": "281.67 kcal / 1178 kJ",
+            "carbohydrate": "43.94g",
+            "dietaryFiber": "4.92g",
+            "fat": "8.79g",
+            "protein": "7.61g",
+            "salt": "0.08g",
+            "saturatedFattyAcids": "2.4g",
+            "sugar": "22.87g",
             "thermo": "COLD"
           }
         },
         {
-          "dietCaloriesMealId": 219,
+          "dietCaloriesMealId": 220,
           "name": "Twarożek ziołowy podany z ciemnym paluszkiem i słupkami warzywnymi",
           "label": "Standard 5 posiłków",
-          "info": "438 kcal • B:18g • W:44g • T:21g",
+          "info": "293 kcal • B:12g • W:29g • T:14g",
           "thermo": "COLD",
           "reviewsNumber": 221,
           "reviewsScore": 96.83,
@@ -332,14 +332,14 @@
               }
             ],
             "imageUrl": "",
-            "calories": "437.56 kcal / 1830 kJ",
-            "carbohydrate": "43.72g",
-            "dietaryFiber": "2.5g",
-            "fat": "20.57g",
-            "protein": "17.73g",
-            "salt": "1.24g",
-            "saturatedFattyAcids": "2.88g",
-            "sugar": "6.75g",
+            "calories": "293.24 kcal / 1226 kJ",
+            "carbohydrate": "29.38g",
+            "dietaryFiber": "1.84g",
+            "fat": "13.73g",
+            "protein": "11.89g",
+            "salt": "0.84g",
+            "saturatedFattyAcids": "1.92g",
+            "sugar": "4.63g",
             "thermo": "COLD"
           }
         }
@@ -347,13 +347,13 @@
     },
     {
       "name": "II śniadanie",
-      "baseDietCaloriesMealId": 255,
+      "baseDietCaloriesMealId": 253,
       "options": [
         {
-          "dietCaloriesMealId": 255,
+          "dietCaloriesMealId": 253,
           "name": "Wegetariański smalec z suszoną śliwką i orzeszkami podany z talarkami orkiszowymi",
           "label": "Odchudzająca 5 posiłków",
-          "info": "233 kcal • B:8g • W:22g • T:10g",
+          "info": "143 kcal • B:5g • W:14g • T:6g",
           "thermo": "COLD",
           "reviewsNumber": 84,
           "reviewsScore": 89.29,
@@ -491,22 +491,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "232.61 kcal / 973 kJ",
-            "carbohydrate": "22.16g",
-            "dietaryFiber": "2.91g",
-            "fat": "9.91g",
-            "protein": "8.24g",
-            "salt": "0.44g",
-            "saturatedFattyAcids": "1.32g",
-            "sugar": "7.05g",
+            "calories": "142.94 kcal / 598 kJ",
+            "carbohydrate": "13.8g",
+            "dietaryFiber": "1.9g",
+            "fat": "6.01g",
+            "protein": "5.11g",
+            "salt": "0.27g",
+            "saturatedFattyAcids": "0.81g",
+            "sugar": "4.55g",
             "thermo": "COLD"
           }
         },
         {
-          "dietCaloriesMealId": 227,
+          "dietCaloriesMealId": 225,
           "name": "Jogurt z bakaliami, musem z kiwi i nerkowcami",
           "label": "Standard 5 posiłków",
-          "info": "253 kcal • B:9g • W:29g • T:11g",
+          "info": "174 kcal • B:6g • W:20g • T:8g",
           "thermo": "COLD",
           "reviewsNumber": 194,
           "reviewsScore": 90.21,
@@ -594,14 +594,14 @@
               }
             ],
             "imageUrl": "",
-            "calories": "252.65 kcal / 1057 kJ",
-            "carbohydrate": "28.55g",
-            "dietaryFiber": "3.25g",
-            "fat": "11.34g",
-            "protein": "8.54g",
-            "salt": "0.15g",
-            "saturatedFattyAcids": "3.91g",
-            "sugar": "20.06g",
+            "calories": "173.88 kcal / 727 kJ",
+            "carbohydrate": "19.73g",
+            "dietaryFiber": "2.23g",
+            "fat": "7.75g",
+            "protein": "5.93g",
+            "salt": "0.11g",
+            "saturatedFattyAcids": "2.71g",
+            "sugar": "14.11g",
             "thermo": "COLD"
           }
         }
@@ -609,13 +609,13 @@
     },
     {
       "name": "Obiad",
-      "baseDietCaloriesMealId": 261,
+      "baseDietCaloriesMealId": 260,
       "options": [
         {
-          "dietCaloriesMealId": 261,
+          "dietCaloriesMealId": 260,
           "name": "Udko z kurczaka sosie bazyliowym podane z ziemniakami i mixem warzyw",
           "label": "Odchudzająca 5 posiłków",
-          "info": "523 kcal • B:29g • W:39g • T:27g",
+          "info": "352 kcal • B:19g • W:25g • T:19g",
           "thermo": "WARM",
           "reviewsNumber": 44,
           "reviewsScore": 90.91,
@@ -741,23 +741,23 @@
                 ]
               },
               {
-                "name": "Sól",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 531,
-                    "name": "sól",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
                 "name": "Koper ogrodowy",
                 "major": false,
                 "exclusion": [
                   {
                     "dietaryExclusionId": 264,
                     "name": "koper",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Sól",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 531,
+                    "name": "sól",
                     "chosen": false
                   }
                 ]
@@ -817,11 +817,6 @@
                 ]
               },
               {
-                "name": "Sos sojowy jasny (woda, ekstrakt z nasion SOI, sól, mąka PSZENNA, glutaminian sodu, barwnik: karmel, sorbinian potasu. )",
-                "major": false,
-                "exclusion": []
-              },
-              {
                 "name": "Tymianek",
                 "major": false,
                 "exclusion": [
@@ -842,25 +837,30 @@
                     "chosen": false
                   }
                 ]
+              },
+              {
+                "name": "Sos sojowy jasny (woda, ekstrakt z nasion SOI, sól, mąka PSZENNA, glutaminian sodu, barwnik: karmel, sorbinian potasu. )",
+                "major": false,
+                "exclusion": []
               }
             ],
             "imageUrl": "",
-            "calories": "523.22 kcal / 2189 kJ",
-            "carbohydrate": "38.52g",
-            "dietaryFiber": "8.22g",
-            "fat": "27.28g",
-            "protein": "29.13g",
-            "salt": "2.78g",
-            "saturatedFattyAcids": "6.25g",
-            "sugar": "6.4g",
+            "calories": "352.02 kcal / 1472 kJ",
+            "carbohydrate": "25.14g",
+            "dietaryFiber": "5.5g",
+            "fat": "18.78g",
+            "protein": "19.43g",
+            "salt": "1.84g",
+            "saturatedFattyAcids": "4.42g",
+            "sugar": "4.51g",
             "thermo": "WARM"
           }
         },
         {
-          "dietCaloriesMealId": 229,
+          "dietCaloriesMealId": 234,
           "name": "Kurczak w sosie maślano-serowym z komosą ryżową i brokułem",
           "label": "Standard 5 posiłków",
-          "info": "557 kcal • B:36g • W:33g • T:30g",
+          "info": "371 kcal • B:25g • W:20g • T:20g",
           "thermo": "WARM",
           "reviewsNumber": 218,
           "reviewsScore": 96.33,
@@ -889,6 +889,17 @@
             ],
             "ingredients": [
               {
+                "name": "Brokuł różyczka",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 58,
+                    "name": "brokuł",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
                 "name": "Komosa ryżowa (Quinoa)",
                 "major": false,
                 "exclusion": [
@@ -900,17 +911,6 @@
                   {
                     "dietaryExclusionId": 487,
                     "name": "ryż",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
-                "name": "Brokuł różyczka",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 58,
-                    "name": "brokuł",
                     "chosen": false
                   }
                 ]
@@ -1063,14 +1063,14 @@
               }
             ],
             "imageUrl": "",
-            "calories": "556.5 kcal / 2328 kJ",
-            "carbohydrate": "33.35g",
-            "dietaryFiber": "9.03g",
-            "fat": "30.34g",
-            "protein": "35.81g",
-            "salt": "4.73g",
-            "saturatedFattyAcids": "9.91g",
-            "sugar": "0.51g",
+            "calories": "370.83 kcal / 1551 kJ",
+            "carbohydrate": "20.45g",
+            "dietaryFiber": "6.19g",
+            "fat": "20.38g",
+            "protein": "25.39g",
+            "salt": "3.45g",
+            "saturatedFattyAcids": "6.35g",
+            "sugar": "0.33g",
             "thermo": "WARM"
           }
         }
@@ -1078,13 +1078,13 @@
     },
     {
       "name": "Podwieczorek",
-      "baseDietCaloriesMealId": 266,
+      "baseDietCaloriesMealId": 264,
       "options": [
         {
-          "dietCaloriesMealId": 266,
+          "dietCaloriesMealId": 264,
           "name": "Rozgrzewające dyniowe ragout z warzywami i grzankami",
           "label": "Odchudzająca 5 posiłków",
-          "info": "271 kcal • B:8g • W:29g • T:13g",
+          "info": "197 kcal • B:6g • W:21g • T:10g",
           "thermo": "WARM",
           "reviewsNumber": 0,
           "reviewsScore": 0,
@@ -1221,6 +1221,17 @@
                 ]
               },
               {
+                "name": "Natka pietruszki",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 361,
+                    "name": "natka",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
                 "name": "Pieprz czarny mielony",
                 "major": false,
                 "exclusion": [
@@ -1238,17 +1249,6 @@
                   {
                     "dietaryExclusionId": 531,
                     "name": "sól",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
-                "name": "Natka pietruszki",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 361,
-                    "name": "natka",
                     "chosen": false
                   }
                 ]
@@ -1299,22 +1299,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "270.74 kcal / 1132 kJ",
-            "carbohydrate": "28.72g",
-            "dietaryFiber": "8.22g",
-            "fat": "13.44g",
-            "protein": "7.82g",
-            "salt": "1.17g",
-            "saturatedFattyAcids": "1.22g",
-            "sugar": "8.37g",
+            "calories": "196.79 kcal / 823 kJ",
+            "carbohydrate": "20.99g",
+            "dietaryFiber": "5.92g",
+            "fat": "9.73g",
+            "protein": "5.67g",
+            "salt": "0.86g",
+            "saturatedFattyAcids": "0.89g",
+            "sugar": "5.99g",
             "thermo": "WARM"
           }
         },
         {
-          "dietCaloriesMealId": 238,
+          "dietCaloriesMealId": 239,
           "name": "Smoothie morelowe",
           "label": "Standard 5 posiłków",
-          "info": "153 kcal • B:1g • W:37g • T:0g",
+          "info": "117 kcal • B:1g • W:28g • T:0g",
           "thermo": "COLD",
           "reviewsNumber": 76,
           "reviewsScore": 98.68,
@@ -1351,14 +1351,14 @@
               }
             ],
             "imageUrl": "",
-            "calories": "153.14 kcal / 640 kJ",
-            "carbohydrate": "36.75g",
-            "dietaryFiber": "1.77g",
-            "fat": "0.33g",
-            "protein": "1.0g",
+            "calories": "116.57 kcal / 487 kJ",
+            "carbohydrate": "27.98g",
+            "dietaryFiber": "1.35g",
+            "fat": "0.26g",
+            "protein": "0.77g",
             "salt": "0.0g",
             "saturatedFattyAcids": "0.0g",
-            "sugar": "32.69g",
+            "sugar": "24.88g",
             "thermo": "COLD"
           }
         }
@@ -1366,13 +1366,13 @@
     },
     {
       "name": "Kolacja",
-      "baseDietCaloriesMealId": 267,
+      "baseDietCaloriesMealId": 270,
       "options": [
         {
-          "dietCaloriesMealId": 267,
+          "dietCaloriesMealId": 270,
           "name": "Sałatka z polędwicą sopocką, kukurydzą, selerem naciowym i żurawiną",
           "label": "Odchudzająca 5 posiłków",
-          "info": "378 kcal • B:17g • W:31g • T:21g",
+          "info": "253 kcal • B:11g • W:21g • T:14g",
           "thermo": "COLD",
           "reviewsNumber": 83,
           "reviewsScore": 90.36,
@@ -1459,6 +1459,11 @@
                 "exclusion": []
               },
               {
+                "name": "Mix sałat",
+                "major": false,
+                "exclusion": []
+              },
+              {
                 "name": "Papryka (świeża)",
                 "major": false,
                 "exclusion": [
@@ -1468,11 +1473,6 @@
                     "chosen": false
                   }
                 ]
-              },
-              {
-                "name": "Mix sałat",
-                "major": false,
-                "exclusion": []
               },
               {
                 "name": "Koper ogrodowy",
@@ -1514,22 +1514,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "377.95 kcal / 1581 kJ",
-            "carbohydrate": "31.31g",
-            "dietaryFiber": "4.47g",
-            "fat": "20.55g",
-            "protein": "16.7g",
-            "salt": "2.8g",
-            "saturatedFattyAcids": "3.32g",
-            "sugar": "21.32g",
+            "calories": "253.12 kcal / 1059 kJ",
+            "carbohydrate": "21.01g",
+            "dietaryFiber": "3.05g",
+            "fat": "13.73g",
+            "protein": "11.19g",
+            "salt": "1.87g",
+            "saturatedFattyAcids": "2.21g",
+            "sugar": "14.35g",
             "thermo": "COLD"
           }
         },
         {
-          "dietCaloriesMealId": 246,
+          "dietCaloriesMealId": 241,
           "name": "Makaron fusilli podany z sosem napoletana z mięsem wołowo-wieprzowym",
           "label": "Standard 5 posiłków",
-          "info": "412 kcal • B:22g • W:47g • T:15g",
+          "info": "264 kcal • B:14g • W:29g • T:10g",
           "thermo": "WARM",
           "reviewsNumber": 132,
           "reviewsScore": 96.21,
@@ -1623,6 +1623,11 @@
                 ]
               },
               {
+                "name": "Ser typu parmezan (MLEKO pasteryzowane, sól, stabilizator- chlorek wapnia, bakterie fermentacji mlekowej, substancja konserwująca: lizozym (z JAJA))",
+                "major": false,
+                "exclusion": []
+              },
+              {
                 "name": "Cebula",
                 "major": false,
                 "exclusion": [
@@ -1632,11 +1637,6 @@
                     "chosen": false
                   }
                 ]
-              },
-              {
-                "name": "Ser typu parmezan (MLEKO pasteryzowane, sól, stabilizator- chlorek wapnia, bakterie fermentacji mlekowej, substancja konserwująca: lizozym (z JAJA))",
-                "major": false,
-                "exclusion": []
               },
               {
                 "name": "Marchew (kostka, mrożony)",
@@ -1665,6 +1665,17 @@
                 ]
               },
               {
+                "name": "Miód pszczeli",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 340,
+                    "name": "miód",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
                 "name": "Olej rzepakowy",
                 "major": false,
                 "exclusion": [
@@ -1676,17 +1687,6 @@
                   {
                     "dietaryExclusionId": 488,
                     "name": "rzepa",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
-                "name": "Miód pszczeli",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 340,
-                    "name": "miód",
                     "chosen": false
                   }
                 ]
@@ -1708,23 +1708,23 @@
                 ]
               },
               {
-                "name": "Sól",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 531,
-                    "name": "sól",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
                 "name": "Natka pietruszki",
                 "major": false,
                 "exclusion": [
                   {
                     "dietaryExclusionId": 361,
                     "name": "natka",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Sól",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 531,
+                    "name": "sól",
                     "chosen": false
                   }
                 ]
@@ -1769,14 +1769,14 @@
               }
             ],
             "imageUrl": "",
-            "calories": "412.45 kcal / 1725 kJ",
-            "carbohydrate": "46.94g",
-            "dietaryFiber": "1.14g",
-            "fat": "14.69g",
-            "protein": "21.7g",
-            "salt": "1.28g",
-            "saturatedFattyAcids": "3.51g",
-            "sugar": "6.24g",
+            "calories": "264.05 kcal / 1104 kJ",
+            "carbohydrate": "28.51g",
+            "dietaryFiber": "0.75g",
+            "fat": "9.95g",
+            "protein": "14.24g",
+            "salt": "0.85g",
+            "saturatedFattyAcids": "2.58g",
+            "sugar": "3.93g",
             "thermo": "WARM"
           }
         }
