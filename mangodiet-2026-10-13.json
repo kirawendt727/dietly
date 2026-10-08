@@ -397,6 +397,748 @@
             "sugar": "6.94g",
             "thermo": "COLD"
           }
+        },
+        {
+          "dietCaloriesMealId": 196,
+          "name": "Chałka podana z kremem pistacjowym",
+          "label": "Wegetariańska 5 posiłków",
+          "info": "474 kcal • B:16g • W:56g • T:20g",
+          "thermo": "COLD",
+          "reviewsNumber": 340,
+          "reviewsScore": 90.88,
+          "details": {
+            "name": "Chałka podana z kremem pistacjowym",
+            "allergens": "Mleko, Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies, Jaja, Orzechy",
+            "allergensWithExcluded": [
+              {
+                "dietaryExclusionId": 1,
+                "companyAllergenName": "Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies",
+                "dietlyAllergenName": "gluten",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 7,
+                "companyAllergenName": "Orzechy",
+                "dietlyAllergenName": "orzechy",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 3,
+                "companyAllergenName": "Mleko",
+                "dietlyAllergenName": "mleko",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 4,
+                "companyAllergenName": "Jaja",
+                "dietlyAllergenName": "jajka",
+                "excluded": false
+              }
+            ],
+            "ingredients": [
+              {
+                "name": "Chałka drożdżowa (kromki) (mąka PSZENNA, woda, cukier, olej rzepakowy, kruszonka 4% [cukier, mąka PSZENNA, margaryna [oleje roślinne (słonecznikowy, rzepakowy), całkowicie uwodorniony olej słonecznikowy, woda, tłuszcz kokosowy, emulgator: lecytyna słonecznikowa, sól, kwas: E330, aromat], olej rzepakowy, aromat, sól, środek do przetwarzania mąki: kwas askorbinowy], masło (MLEKO), pasteryzowana masa JAJOWA, drożdże, MLEKO w proszku pełne, sól)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Twaróg sernikowy (MLEKO, śmietanka, kultury mleczarskie)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Jogurt naturalny (MLEKO)",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 214,
+                    "name": "jogurt",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "krem z prażonych pistacji (granulat z prażonych PISTACJI, olej słonecznikowy, PISTACJE [12,5%], odtłuszczone MLEKO w proszku, SERWATKA w proszku, LAKTOZA, kurkumina, naturalny aromat)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Erytrol / Erytrytol",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 130,
+                    "name": "erytrol",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Ser mascarpone (śmietanka pasteryzowana (MLEKO), regulator kwasowości: kwas cytrynowy)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Pistacje",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 424,
+                    "name": "pistacje",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Matcha (zielona herbata)",
+                "major": false,
+                "exclusion": []
+              }
+            ],
+            "imageUrl": "",
+            "calories": "473.54 kcal / 1981 kJ",
+            "carbohydrate": "56.43g",
+            "dietaryFiber": "2.11g",
+            "fat": "19.78g",
+            "protein": "16.09g",
+            "salt": "0.63g",
+            "saturatedFattyAcids": "5.56g",
+            "sugar": "18.53g",
+            "thermo": "COLD"
+          }
+        },
+        {
+          "dietCaloriesMealId": 328,
+          "name": "Ziołowy twarożek podany z ciemnym pieczywem i pomidorem",
+          "label": "Niski IG 5 posiłków",
+          "info": "403 kcal • B:15g • W:37g • T:21g",
+          "thermo": "COLD",
+          "reviewsNumber": 243,
+          "reviewsScore": 97.53,
+          "details": {
+            "name": "Ziołowy twarożek podany z ciemnym pieczywem i pomidorem",
+            "allergens": "Soja, Mleko, Sezam, Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies",
+            "allergensWithExcluded": [
+              {
+                "dietaryExclusionId": 1,
+                "companyAllergenName": "Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies",
+                "dietlyAllergenName": "gluten",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": null,
+                "companyAllergenName": "Sezam",
+                "dietlyAllergenName": "Sezam",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 5,
+                "companyAllergenName": "Soja",
+                "dietlyAllergenName": "soja",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 3,
+                "companyAllergenName": "Mleko",
+                "dietlyAllergenName": "mleko",
+                "excluded": false
+              }
+            ],
+            "ingredients": [
+              {
+                "name": "Twaróg sernikowy (MLEKO, śmietanka, kultury mleczarskie)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Chleb żytni (zakwas ŻYTNI (45 %) (mąka ŻYTNIA, woda), mąka ŻYTNIA (26 %), woda, mąka ŻYTNIA razowa (12 %), sól, drożdże (1 %), mąka PSZENNA ekstrudowana (0,6 %). Produkt może zawierać NASIONA SEZAMU, SOJĘ, MLEKO)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Pomidor",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 441,
+                    "name": "pomidor",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Jogurt naturalny (MLEKO)",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 214,
+                    "name": "jogurt",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Oliwa z oliwek",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 372,
+                    "name": "oliwa",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Natka pietruszki",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 361,
+                    "name": "natka",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Szczypiorek",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 554,
+                    "name": "szczypiorek",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Czosnek",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 112,
+                    "name": "czosnek",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Sól",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 531,
+                    "name": "sól",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Zioła prowansalskie (tymianek, bazylia, cząber, rozmaryn, oregano, estragon)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Pieprz czarny mielony",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 419,
+                    "name": "pieprz",
+                    "chosen": false
+                  }
+                ]
+              }
+            ],
+            "imageUrl": "",
+            "calories": "403.12 kcal / 1686 kJ",
+            "carbohydrate": "37.25g",
+            "dietaryFiber": "5.63g",
+            "fat": "21.43g",
+            "protein": "15.24g",
+            "salt": "1.71g",
+            "saturatedFattyAcids": "3.11g",
+            "sugar": "9.22g",
+            "thermo": "COLD"
+          }
+        },
+        {
+          "dietCaloriesMealId": 353,
+          "name": "Placki omletowe z serem i salami z sosem ziołowym",
+          "label": "Low Carb 5 posiłków",
+          "info": "489 kcal • B:26g • W:6g • T:41g",
+          "thermo": "WARM",
+          "reviewsNumber": 251,
+          "reviewsScore": 90.84,
+          "details": {
+            "name": "Placki omletowe z serem i salami z sosem ziołowym",
+            "allergens": "Mleko, Seler, Gorczyca, Jaja",
+            "allergensWithExcluded": [
+              {
+                "dietaryExclusionId": 6,
+                "companyAllergenName": "Seler",
+                "dietlyAllergenName": "seler",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 12,
+                "companyAllergenName": "Gorczyca",
+                "dietlyAllergenName": "gorczyca",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 3,
+                "companyAllergenName": "Mleko",
+                "dietlyAllergenName": "mleko",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 4,
+                "companyAllergenName": "Jaja",
+                "dietlyAllergenName": "jajka",
+                "excluded": false
+              }
+            ],
+            "ingredients": [
+              {
+                "name": "Jaja kurze",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Jogurt grecki (MLEKO odtłuszczone pasteryzowane, tłuszcz rośliny : palmowy, skrobia modyfikowana, odtłuszczone MLEKO w proszku, substancje zagęszczające: guma guar, guma gellan, konserwant: sorbinian potasu, kultury bakterii  jogurtowe)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Ser cheddar tarty (pełnotłusty) (MLEKO pasteryzowane, sól, stabilizator: chlorek wapnia, kultury bakterii, podpuszczka mikrobiologiczna, barwnik: karoteny)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Papryka paski (mrożona)",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 395,
+                    "name": "papryka",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Salami (popularne)",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 494,
+                    "name": "salami",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Majonez (woda, olej słonecznikowy (29%), cukier, ocet spirytusowy, żółtko JAJA (3,5%), musztarda (woda, GORCZYCA, ocet spirytusowy, sól, aromaty, przyprawy), sól, skrobia modyfikowana, emulgator (polirycynooleinian poliglicerolu), substancja zagęszczająca (guma ksantanowa), zagęszczony sok z cytryny, substancja konserwująca (sorbinian potasu), aromaty, przeciwutleniacz (sól wapniowo-disodowa EDTA), ekstrakt z papryki, barwnik (karoteny))",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Vegetop 33%",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Rukola",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 482,
+                    "name": "rukola",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Cebula czerwona obrana",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 74,
+                    "name": "cebula",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Erytrol / Erytrytol",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 130,
+                    "name": "erytrol",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Zielone papryczki ostre (jalapeno)",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 209,
+                    "name": "jalapeno",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Oregano",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 374,
+                    "name": "oregano",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Sok z cytryny (woda, zagęszczony sok z cytryny, substancje konserwujące: pirosiarczyn potasu)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Bazylia (suszona)",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 45,
+                    "name": "bazylia",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Czosnek granulowany",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 112,
+                    "name": "czosnek",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Koper ogrodowy",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 264,
+                    "name": "koper",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Mięta (świeża)",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 336,
+                    "name": "mięta",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Natka pietruszki",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 361,
+                    "name": "natka",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Papryka słodka (mielona, wędzona)",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 395,
+                    "name": "papryka",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Sól",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 531,
+                    "name": "sól",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Mielona słodka papryka",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 395,
+                    "name": "papryka",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Pieprz czarny mielony",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 419,
+                    "name": "pieprz",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Olej rzepakowy tłoczony",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 371,
+                    "name": "olej",
+                    "chosen": false
+                  },
+                  {
+                    "dietaryExclusionId": 488,
+                    "name": "rzepa",
+                    "chosen": false
+                  }
+                ]
+              }
+            ],
+            "imageUrl": "",
+            "calories": "489.31 kcal / 2047 kJ",
+            "carbohydrate": "5.59g",
+            "dietaryFiber": "1.43g",
+            "fat": "40.51g",
+            "protein": "25.57g",
+            "salt": "2.11g",
+            "saturatedFattyAcids": "16.42g",
+            "sugar": "3.71g",
+            "thermo": "WARM"
+          }
+        },
+        {
+          "dietCaloriesMealId": 482,
+          "name": "Domowa granola miodowa z jogurtem i musem porzeczkowym",
+          "label": "Domowa 5 posiłków",
+          "info": "440 kcal • B:13g • W:36g • T:27g",
+          "thermo": "COLD",
+          "reviewsNumber": 54,
+          "reviewsScore": 92.59,
+          "details": {
+            "name": "Domowa granola miodowa z jogurtem i musem porzeczkowym",
+            "allergens": "Mleko, Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies, Orzechy",
+            "allergensWithExcluded": [
+              {
+                "dietaryExclusionId": 1,
+                "companyAllergenName": "Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies",
+                "dietlyAllergenName": "gluten",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 7,
+                "companyAllergenName": "Orzechy",
+                "dietlyAllergenName": "orzechy",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 3,
+                "companyAllergenName": "Mleko",
+                "dietlyAllergenName": "mleko",
+                "excluded": false
+              }
+            ],
+            "ingredients": [
+              {
+                "name": "Jogurt naturalny (MLEKO)",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 214,
+                    "name": "jogurt",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Porzeczki czarne (mrożone)",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 443,
+                    "name": "por",
+                    "chosen": false
+                  },
+                  {
+                    "dietaryExclusionId": 445,
+                    "name": "porzeczki",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Ser mascarpone (śmietanka pasteryzowana (MLEKO), regulator kwasowości: kwas cytrynowy)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Płatki owsiane",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 429,
+                    "name": "płatki",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Miód pszczeli",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 340,
+                    "name": "miód",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Olej rzepakowy",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 371,
+                    "name": "olej",
+                    "chosen": false
+                  },
+                  {
+                    "dietaryExclusionId": 488,
+                    "name": "rzepa",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Woda",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 625,
+                    "name": "woda",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Migdały w płatkach",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 338,
+                    "name": "migdały",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Nasiona słonecznika",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 360,
+                    "name": "nasiona",
+                    "chosen": false
+                  },
+                  {
+                    "dietaryExclusionId": 522,
+                    "name": "słonecznik",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Cukier",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 100,
+                    "name": "cukier",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Pestki dyni",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Żurawina suszona (żurawina suszona, cukier trzcinowy, olej słonecznikowy)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Orzechy laskowe (może zawierać łupiny)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Owies ekspandowany",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 650,
+                    "name": "owies",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Guma ksantanowa",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Ekstrakt waniliowy (bez alkoholu)",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 127,
+                    "name": "ekstrakt",
+                    "chosen": false
+                  }
+                ]
+              }
+            ],
+            "imageUrl": "",
+            "calories": "439.54 kcal / 1839 kJ",
+            "carbohydrate": "36.44g",
+            "dietaryFiber": "8.08g",
+            "fat": "26.91g",
+            "protein": "12.51g",
+            "salt": "0.44g",
+            "saturatedFattyAcids": "10.67g",
+            "sugar": "23.14g",
+            "thermo": "COLD"
+          }
         }
       ]
     },
@@ -691,6 +1433,444 @@
             "saturatedFattyAcids": "0.52g",
             "sugar": "14.39g",
             "thermo": "COLD"
+          }
+        },
+        {
+          "dietCaloriesMealId": 198,
+          "name": "Sałatka z kukurydzą, serem typu feta, brokułami i słonecznikiem",
+          "label": "Wegetariańska 5 posiłków",
+          "info": "304 kcal • B:9g • W:16g • T:23g",
+          "thermo": "COLD",
+          "reviewsNumber": 48,
+          "reviewsScore": 91.67,
+          "details": {
+            "name": "Sałatka z kukurydzą, serem typu feta, brokułami i słonecznikiem",
+            "allergens": "Mleko, Gorczyca, Jaja",
+            "allergensWithExcluded": [
+              {
+                "dietaryExclusionId": 12,
+                "companyAllergenName": "Gorczyca",
+                "dietlyAllergenName": "gorczyca",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 3,
+                "companyAllergenName": "Mleko",
+                "dietlyAllergenName": "mleko",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 4,
+                "companyAllergenName": "Jaja",
+                "dietlyAllergenName": "jajka",
+                "excluded": false
+              }
+            ],
+            "ingredients": [
+              {
+                "name": "Brokuł różyczka",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 58,
+                    "name": "brokuł",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Majonez (woda, olej słonecznikowy (29%), cukier, ocet spirytusowy, żółtko JAJA (3,5%), musztarda (woda, GORCZYCA, ocet spirytusowy, sól, aromaty, przyprawy), sól, skrobia modyfikowana, emulgator (polirycynooleinian poliglicerolu), substancja zagęszczająca (guma ksantanowa), zagęszczony sok z cytryny, substancja konserwująca (sorbinian potasu), aromaty, przeciwutleniacz (sól wapniowo-disodowa EDTA), ekstrakt z papryki, barwnik (karoteny))",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Kukurydza",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 486,
+                    "name": "rydz",
+                    "chosen": false
+                  },
+                  {
+                    "dietaryExclusionId": 277,
+                    "name": "kukurydza",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Ser typu feta (Ser (mleko pasteryzowane, regulator kwasowości E575, sól morska, podpuszczka mikrobiologiczna), zalewa solankowa (woda, sól, regulator kwasowości: kwas mlekowy).)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Jogurt naturalny (MLEKO)",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 214,
+                    "name": "jogurt",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Nasiona słonecznika",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 360,
+                    "name": "nasiona",
+                    "chosen": false
+                  },
+                  {
+                    "dietaryExclusionId": 522,
+                    "name": "słonecznik",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Czosnek granulowany",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 112,
+                    "name": "czosnek",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Koper ogrodowy",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 264,
+                    "name": "koper",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Pieprz czarny mielony",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 419,
+                    "name": "pieprz",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Sól",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 531,
+                    "name": "sól",
+                    "chosen": false
+                  }
+                ]
+              }
+            ],
+            "imageUrl": "",
+            "calories": "304.01 kcal / 1271 kJ",
+            "carbohydrate": "15.72g",
+            "dietaryFiber": "3.88g",
+            "fat": "23.09g",
+            "protein": "9.43g",
+            "salt": "1.81g",
+            "saturatedFattyAcids": "2.93g",
+            "sugar": "4.23g",
+            "thermo": "COLD"
+          }
+        },
+        {
+          "dietCaloriesMealId": 333,
+          "name": "Kulki mocy z masłem orzechowym i wiórkami kokosowymi podane z musem śliwkowym",
+          "label": "Niski IG 5 posiłków",
+          "info": "278 kcal • B:11g • W:9g • T:21g",
+          "thermo": "COLD",
+          "reviewsNumber": 151,
+          "reviewsScore": 92.72,
+          "details": {
+            "name": "Kulki mocy z masłem orzechowym i wiórkami kokosowymi podane z musem śliwkowym",
+            "allergens": "Orzeszki ziemne (arachidowe), Sezam, Orzechy",
+            "allergensWithExcluded": [
+              {
+                "dietaryExclusionId": null,
+                "companyAllergenName": "Orzeszki ziemne (arachidowe)",
+                "dietlyAllergenName": "Orzeszki ziemne (arachidowe)",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 7,
+                "companyAllergenName": "Orzechy",
+                "dietlyAllergenName": "orzechy",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": null,
+                "companyAllergenName": "Sezam",
+                "dietlyAllergenName": "Sezam",
+                "excluded": false
+              }
+            ],
+            "ingredients": [
+              {
+                "name": "Śliwki (bez pestek mrożone)",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 540,
+                    "name": "stek",
+                    "chosen": false
+                  },
+                  {
+                    "dietaryExclusionId": 519,
+                    "name": "śliwki",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Pasta orzechowa (Orzeszki ziemne (arachidowe) prażone 84%, orzeszki ziemne (arachidowe) prażone kawałki 16%)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Napój kokosowy bez cukru (ekstrakt z orzecha kokosowego, woda)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Orzechy arachidowe (może zawierać łupiny)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Erytrol / Erytrytol",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 130,
+                    "name": "erytrol",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Siemię lniane (świeżo mielone)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Wiórki kokosowe",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 256,
+                    "name": "kokos",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Kakao (proszek 10-12%)",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 221,
+                    "name": "kakao",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Cynamon",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 107,
+                    "name": "cynamon",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Guma ksantanowa",
+                "major": false,
+                "exclusion": []
+              }
+            ],
+            "imageUrl": "",
+            "calories": "277.72 kcal / 1161 kJ",
+            "carbohydrate": "9.42g",
+            "dietaryFiber": "4.8g",
+            "fat": "20.95g",
+            "protein": "11.36g",
+            "salt": "0.32g",
+            "saturatedFattyAcids": "5.22g",
+            "sugar": "5.06g",
+            "thermo": "COLD"
+          }
+        },
+        {
+          "dietCaloriesMealId": 358,
+          "name": "Koktajl z awokado, kiwi, brzoskwinią i kokosem",
+          "label": "Low Carb 5 posiłków",
+          "info": "185 kcal • B:3g • W:24g • T:9g",
+          "thermo": "COLD",
+          "reviewsNumber": 20,
+          "reviewsScore": 100,
+          "details": {
+            "name": "Koktajl z awokado, kiwi, brzoskwinią i kokosem",
+            "allergens": "",
+            "allergensWithExcluded": [],
+            "ingredients": [
+              {
+                "name": "Woda źródlana niegazowana",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 625,
+                    "name": "woda",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Kiwi kostka",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 250,
+                    "name": "kiwi",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Sok pomarańczowy (sok pomarańczowy (100%) z zagęszczonego soku pomarańczowego, witamina C )",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Awokado kostka (mrożone) (awokado, sól, przeciwutleniacz (kwas askorbinowy), regulator kwasowości (kwas cytrynowy))",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Brzoskwinia (może zawierać pestki)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Napój kokosowy bez cukru (ekstrakt z orzecha kokosowego, woda)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Sok z cytryny (woda, zagęszczony sok z cytryny, substancje konserwujące: pirosiarczyn potasu)",
+                "major": false,
+                "exclusion": []
+              }
+            ],
+            "imageUrl": "",
+            "calories": "184.63 kcal / 772 kJ",
+            "carbohydrate": "24.07g",
+            "dietaryFiber": "4.22g",
+            "fat": "8.88g",
+            "protein": "2.61g",
+            "salt": "0.03g",
+            "saturatedFattyAcids": "1.15g",
+            "sugar": "13.22g",
+            "thermo": "COLD"
+          }
+        },
+        {
+          "dietCaloriesMealId": 487,
+          "name": "Fasolka szparagowa z masełkiem i bułką tartą",
+          "label": "Domowa 5 posiłków",
+          "info": "238 kcal • B:6g • W:14g • T:17g",
+          "thermo": "COLD_WARM",
+          "reviewsNumber": 71,
+          "reviewsScore": 87.32,
+          "details": {
+            "name": "Fasolka szparagowa z masełkiem i bułką tartą",
+            "allergens": "Mleko, Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies",
+            "allergensWithExcluded": [
+              {
+                "dietaryExclusionId": 1,
+                "companyAllergenName": "Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies",
+                "dietlyAllergenName": "gluten",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 3,
+                "companyAllergenName": "Mleko",
+                "dietlyAllergenName": "mleko",
+                "excluded": false
+              }
+            ],
+            "ingredients": [
+              {
+                "name": "Fasolka szparagowa cięta żółta (mrożona)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Masło extra 83%",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 326,
+                    "name": "masło",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Bułka tarta (Mąka PSZENNA , sól, drożdże)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Sól",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 531,
+                    "name": "sól",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Natka pietruszki",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 361,
+                    "name": "natka",
+                    "chosen": false
+                  }
+                ]
+              }
+            ],
+            "imageUrl": "",
+            "calories": "237.54 kcal / 993 kJ",
+            "carbohydrate": "13.65g",
+            "dietaryFiber": "7.57g",
+            "fat": "16.87g",
+            "protein": "5.91g",
+            "salt": "2.0g",
+            "saturatedFattyAcids": "11.07g",
+            "sugar": "4.29g",
+            "thermo": "COLD_WARM"
           }
         }
       ]
@@ -1161,6 +2341,1158 @@
             "sugar": "6.33g",
             "thermo": "WARM"
           }
+        },
+        {
+          "dietCaloriesMealId": 202,
+          "name": "Kotleciki dyniowo-ciecierzycowe z sosem szpinakowym, ziemniakami i surówką z pekinki",
+          "label": "Wegetariańska 5 posiłków",
+          "info": "487 kcal • B:21g • W:48g • T:23g",
+          "thermo": "WARM",
+          "reviewsNumber": 21,
+          "reviewsScore": 80.95,
+          "details": {
+            "name": "Kotleciki dyniowo-ciecierzycowe z sosem szpinakowym, ziemniakami i surówką z pekinki",
+            "allergens": "Soja, Mleko, Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies, Gorczyca, Jaja",
+            "allergensWithExcluded": [
+              {
+                "dietaryExclusionId": 1,
+                "companyAllergenName": "Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies",
+                "dietlyAllergenName": "gluten",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 5,
+                "companyAllergenName": "Soja",
+                "dietlyAllergenName": "soja",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 12,
+                "companyAllergenName": "Gorczyca",
+                "dietlyAllergenName": "gorczyca",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 3,
+                "companyAllergenName": "Mleko",
+                "dietlyAllergenName": "mleko",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 4,
+                "companyAllergenName": "Jaja",
+                "dietlyAllergenName": "jajka",
+                "excluded": false
+              }
+            ],
+            "ingredients": [
+              {
+                "name": "Ziemniak obrany",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Ciecierzyca (w zalewie) (ciecierzyca, woda, sól )",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Szpinak liście",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 557,
+                    "name": "szpinak",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Kapusta pekińska",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 227,
+                    "name": "kapusta",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Woda",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 625,
+                    "name": "woda",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Dynia mrożona",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 123,
+                    "name": "dynia",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Jabłko (może zawierać pestki)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Ser żółty tarty (MLEKO pasteryzowane, sól, stabilizator: chlorek wapnia, kultury bakterii, podpuszczka mikrobiologiczna)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Mleko UHT(1.5% tł.) (MLEKO krowie)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Jaja kurze",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Cebula",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 74,
+                    "name": "cebula",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Papryka (świeża)",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 395,
+                    "name": "papryka",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Mąka orkiszowa",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 376,
+                    "name": "orkisz",
+                    "chosen": false
+                  },
+                  {
+                    "dietaryExclusionId": 306,
+                    "name": "mąka",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Ogórek kiszony",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Vegetop 33%",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Oliwa z oliwek",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 372,
+                    "name": "oliwa",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Bułka tarta (Mąka PSZENNA , sól, drożdże)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Olej rzepakowy",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 371,
+                    "name": "olej",
+                    "chosen": false
+                  },
+                  {
+                    "dietaryExclusionId": 488,
+                    "name": "rzepa",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Sok z cytryny (woda, zagęszczony sok z cytryny, substancje konserwujące: pirosiarczyn potasu)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Siemię lniane (świeżo mielone)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Musztarda francuska (woda, GORCZYCA biała, GORCZYCA czarna, ocet spirytusowy, ocet jabłkowy, sól, cukier, stabilizator (guma ksantanowa, guma guar), przyprawy, barwnik (kurkumina))",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Masło extra 83%",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 326,
+                    "name": "masło",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Pieprz czarny mielony",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 419,
+                    "name": "pieprz",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Sól",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 531,
+                    "name": "sól",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Sos sojowy jasny (woda, ekstrakt z nasion SOI, sól, mąka PSZENNA, glutaminian sodu, barwnik: karmel, sorbinian potasu. )",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Czosnek",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 112,
+                    "name": "czosnek",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Bulion warzywny (woda, marchew, cebula, por, sól, ekstrakt drożdżowy, pasternak, skrobia, czosnek, olej słonecznikowy)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Bazylia (suszona)",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 45,
+                    "name": "bazylia",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Mielona gałka muszkatołowa",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 597,
+                    "name": "uszka",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Tymianek",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 593,
+                    "name": "tymianek",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Kurkuma",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 282,
+                    "name": "kurkuma",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Papryka słodka (mielona, wędzona)",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 395,
+                    "name": "papryka",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Olej rzepakowy tłoczony",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 371,
+                    "name": "olej",
+                    "chosen": false
+                  },
+                  {
+                    "dietaryExclusionId": 488,
+                    "name": "rzepa",
+                    "chosen": false
+                  }
+                ]
+              }
+            ],
+            "imageUrl": "",
+            "calories": "486.5 kcal / 2035 kJ",
+            "carbohydrate": "48.13g",
+            "dietaryFiber": "9.82g",
+            "fat": "23.09g",
+            "protein": "20.51g",
+            "salt": "2.43g",
+            "saturatedFattyAcids": "8.34g",
+            "sugar": "7.94g",
+            "thermo": "WARM"
+          }
+        },
+        {
+          "dietCaloriesMealId": 337,
+          "name": "Indyk w sosie z zielonego pieprzu z puree warzywnym i surówką z czerwonej kapusty po tajsku",
+          "label": "Niski IG 5 posiłków",
+          "info": "501 kcal • B:27g • W:14g • T:37g",
+          "thermo": "WARM",
+          "reviewsNumber": 86,
+          "reviewsScore": 93.02,
+          "details": {
+            "name": "Indyk w sosie z zielonego pieprzu z puree warzywnym i surówką z czerwonej kapusty po tajsku",
+            "allergens": "Orzeszki ziemne (arachidowe), Soja, Mleko, Sezam, Orzechy",
+            "allergensWithExcluded": [
+              {
+                "dietaryExclusionId": null,
+                "companyAllergenName": "Orzeszki ziemne (arachidowe)",
+                "dietlyAllergenName": "Orzeszki ziemne (arachidowe)",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 7,
+                "companyAllergenName": "Orzechy",
+                "dietlyAllergenName": "orzechy",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": null,
+                "companyAllergenName": "Sezam",
+                "dietlyAllergenName": "Sezam",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 5,
+                "companyAllergenName": "Soja",
+                "dietlyAllergenName": "soja",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 3,
+                "companyAllergenName": "Mleko",
+                "dietlyAllergenName": "mleko",
+                "excluded": false
+              }
+            ],
+            "ingredients": [
+              {
+                "name": "Filet z piersi indyka (bez skóry)",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 203,
+                    "name": "indyk",
+                    "chosen": false
+                  },
+                  {
+                    "dietaryExclusionId": 138,
+                    "name": "filet",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Kapusta czerwona",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 227,
+                    "name": "kapusta",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Kalafior mrożony",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 223,
+                    "name": "kalafior",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Vegetop 33%",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Pietruszka korzeń",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 422,
+                    "name": "pietruszka",
+                    "chosen": false
+                  },
+                  {
+                    "dietaryExclusionId": 597,
+                    "name": "uszka",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Woda",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 625,
+                    "name": "woda",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Marchew tarta",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Mleko UHT(1.5% tł.) (MLEKO krowie)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Cebula",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 74,
+                    "name": "cebula",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Masło extra 83%",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 326,
+                    "name": "masło",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Czosnek",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 112,
+                    "name": "czosnek",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Pieprz zielony konserwowy",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 506,
+                    "name": "ser",
+                    "chosen": false
+                  },
+                  {
+                    "dietaryExclusionId": 419,
+                    "name": "pieprz",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Pasta orzechowa (Orzeszki ziemne (arachidowe) prażone 84%, orzeszki ziemne (arachidowe) prażone kawałki 16%)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Oliwa z oliwek",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 372,
+                    "name": "oliwa",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Sezam",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 509,
+                    "name": "sezam",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Olej rzepakowy",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 371,
+                    "name": "olej",
+                    "chosen": false
+                  },
+                  {
+                    "dietaryExclusionId": 488,
+                    "name": "rzepa",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Skrobia ziemniaczana",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 515,
+                    "name": "skrobia",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Pieprz czarny mielony",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 419,
+                    "name": "pieprz",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Sól",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 531,
+                    "name": "sól",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Olej sezamowy",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 371,
+                    "name": "olej",
+                    "chosen": false
+                  },
+                  {
+                    "dietaryExclusionId": 509,
+                    "name": "sezam",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Sok z cytryny (woda, zagęszczony sok z cytryny, substancje konserwujące: pirosiarczyn potasu)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Sos sojowy jasny (woda, ekstrakt z nasion SOI, sól, mąka PSZENNA, glutaminian sodu, barwnik: karmel, sorbinian potasu. )",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Erytrol / Erytrytol",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 130,
+                    "name": "erytrol",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Imbir mielony",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 202,
+                    "name": "imbir",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Mielona słodka papryka",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 395,
+                    "name": "papryka",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Tymianek",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 593,
+                    "name": "tymianek",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Mielona gałka muszkatołowa",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 597,
+                    "name": "uszka",
+                    "chosen": false
+                  }
+                ]
+              }
+            ],
+            "imageUrl": "",
+            "calories": "501.46 kcal / 2098 kJ",
+            "carbohydrate": "14.2g",
+            "dietaryFiber": "7.84g",
+            "fat": "37.33g",
+            "protein": "26.89g",
+            "salt": "1.86g",
+            "saturatedFattyAcids": "14.84g",
+            "sugar": "6.07g",
+            "thermo": "WARM"
+          }
+        },
+        {
+          "dietCaloriesMealId": 366,
+          "name": "Ryba w sosie bakłażanowo-pomidorowym z żółtym kalafiorem",
+          "label": "Low Carb 5 posiłków",
+          "info": "510 kcal • B:43g • W:12g • T:32g",
+          "thermo": "WARM",
+          "reviewsNumber": 8,
+          "reviewsScore": 100,
+          "details": {
+            "name": "Ryba w sosie bakłażanowo-pomidorowym z żółtym kalafiorem",
+            "allergens": "Soja, Mleko, Ryby, Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies",
+            "allergensWithExcluded": [
+              {
+                "dietaryExclusionId": 1,
+                "companyAllergenName": "Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies",
+                "dietlyAllergenName": "gluten",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 5,
+                "companyAllergenName": "Soja",
+                "dietlyAllergenName": "soja",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 3,
+                "companyAllergenName": "Mleko",
+                "dietlyAllergenName": "mleko",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 2,
+                "companyAllergenName": "Ryby",
+                "dietlyAllergenName": "ryby",
+                "excluded": false
+              }
+            ],
+            "ingredients": [
+              {
+                "name": "Ryba tilapia filet bez skóry ((może zawierać ości))",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Kalafior (mrożony)",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 223,
+                    "name": "kalafior",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Pulpa pomidorowa (przecier pomidorowy, sól morska)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Vegetop 33%",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Bakłażan (mrożony)",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 35,
+                    "name": "bakłażan",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Olej rzepakowy",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 371,
+                    "name": "olej",
+                    "chosen": false
+                  },
+                  {
+                    "dietaryExclusionId": 488,
+                    "name": "rzepa",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Cebula",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 74,
+                    "name": "cebula",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Sos ponzu (Woda, sos SOJOWY (woda, ziarno SOI, PSZENICA, sól) (31%), cukier, ocet spirytusowy, koncentrat cytrynowy (3,1%), sól, naturalny aromat cytrynowy, ekstrakt drodżowy.)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Erytrol / Erytrytol",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 130,
+                    "name": "erytrol",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Sól",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 531,
+                    "name": "sól",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Czosnek granulowany",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 112,
+                    "name": "czosnek",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Kurkuma",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 282,
+                    "name": "kurkuma",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Pieprz cytrynowy (Sól, cebula, cukier, czosnek, pasternak, pieprz czarny, regulator kwasowości: kwas cytrynowy, kurkuma)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Pieprz czarny mielony",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 419,
+                    "name": "pieprz",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Chili płatki",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 429,
+                    "name": "płatki",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Sok z cytryny (woda, zagęszczony sok z cytryny, substancje konserwujące: pirosiarczyn potasu)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Kmin rzymski (kumin)",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 253,
+                    "name": "kmin",
+                    "chosen": false
+                  },
+                  {
+                    "dietaryExclusionId": 278,
+                    "name": "kumin",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Mielona słodka papryka",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 395,
+                    "name": "papryka",
+                    "chosen": false
+                  }
+                ]
+              }
+            ],
+            "imageUrl": "",
+            "calories": "510.45 kcal / 2135 kJ",
+            "carbohydrate": "12.14g",
+            "dietaryFiber": "6.77g",
+            "fat": "32.28g",
+            "protein": "42.65g",
+            "salt": "2.47g",
+            "saturatedFattyAcids": "9.14g",
+            "sugar": "9.51g",
+            "thermo": "WARM"
+          }
+        },
+        {
+          "dietCaloriesMealId": 492,
+          "name": "Makaron penne ze schabem i sosem cukiniowym z dodatkiem sera pleśniowego",
+          "label": "Domowa 5 posiłków",
+          "info": "604 kcal • B:38g • W:38g • T:33g",
+          "thermo": "WARM",
+          "reviewsNumber": 19,
+          "reviewsScore": 100,
+          "details": {
+            "name": "Makaron penne ze schabem i sosem cukiniowym z dodatkiem sera pleśniowego",
+            "allergens": "Soja, Mleko, Seler, Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies",
+            "allergensWithExcluded": [
+              {
+                "dietaryExclusionId": 1,
+                "companyAllergenName": "Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies",
+                "dietlyAllergenName": "gluten",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 6,
+                "companyAllergenName": "Seler",
+                "dietlyAllergenName": "seler",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 5,
+                "companyAllergenName": "Soja",
+                "dietlyAllergenName": "soja",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 3,
+                "companyAllergenName": "Mleko",
+                "dietlyAllergenName": "mleko",
+                "excluded": false
+              }
+            ],
+            "ingredients": [
+              {
+                "name": "Makaron penne (semolina z PSZENICY durum, woda)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Schab wieprzowy (bez kości)",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 503,
+                    "name": "schab",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Brokuł różyczka",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 58,
+                    "name": "brokuł",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Cukinia kostka (mrożone)",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 102,
+                    "name": "cukinia",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Bulion drobiowo-wołowy, (kości wołowe, kości drobiowe, marchew, SELER, pietruszka, cebula, czosnek, sos sojowy jasny (woda, ekstrakt z nasion SOI, sól, mąka PSZENNA, glutaminian sodu, barwnik: karmel, sorbinian potasu), ziele angielskie, liść laurowy, sól, pieprz czarny)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Vegetop 33%",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Ser Lazur blok (MLEKO, sól, bakterie fermentacji mlekowej, szlachetna pleśń Penicillium roqueufort)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Cebula",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 74,
+                    "name": "cebula",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Sól",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 531,
+                    "name": "sól",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Pieprz czarny mielony",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 419,
+                    "name": "pieprz",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Olej rzepakowy",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 371,
+                    "name": "olej",
+                    "chosen": false
+                  },
+                  {
+                    "dietaryExclusionId": 488,
+                    "name": "rzepa",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Czosnek",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 112,
+                    "name": "czosnek",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Skórka z cytryny (starta)",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 513,
+                    "name": "skórka",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Bazylia (suszona)",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 45,
+                    "name": "bazylia",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Majeranek",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 304,
+                    "name": "majeranek",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Mielona słodka papryka",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 395,
+                    "name": "papryka",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Sos sojowy jasny (woda, ekstrakt z nasion SOI, sól, mąka PSZENNA, glutaminian sodu, barwnik: karmel, sorbinian potasu. )",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Czosnek granulowany",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 112,
+                    "name": "czosnek",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Mielona papryka chili",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 395,
+                    "name": "papryka",
+                    "chosen": false
+                  }
+                ]
+              }
+            ],
+            "imageUrl": "",
+            "calories": "604.33 kcal / 2528 kJ",
+            "carbohydrate": "38.0g",
+            "dietaryFiber": "5.51g",
+            "fat": "33.42g",
+            "protein": "37.53g",
+            "salt": "3.82g",
+            "saturatedFattyAcids": "10.49g",
+            "sugar": "3.31g",
+            "thermo": "WARM"
+          }
         }
       ]
     },
@@ -1442,6 +3774,476 @@
             "saturatedFattyAcids": "5.78g",
             "sugar": "3.22g",
             "thermo": "WARM"
+          }
+        },
+        {
+          "dietCaloriesMealId": 210,
+          "name": "Kakaowy koktajl cynamonowo-bananowy",
+          "label": "Wegetariańska 5 posiłków",
+          "info": "182 kcal • B:5g • W:31g • T:5g",
+          "thermo": "COLD",
+          "reviewsNumber": 11,
+          "reviewsScore": 100,
+          "details": {
+            "name": "Kakaowy koktajl cynamonowo-bananowy",
+            "allergens": "Orzechy",
+            "allergensWithExcluded": [
+              {
+                "dietaryExclusionId": 7,
+                "companyAllergenName": "Orzechy",
+                "dietlyAllergenName": "orzechy",
+                "excluded": false
+              }
+            ],
+            "ingredients": [
+              {
+                "name": "Napój migdałowy (woda, MGDAŁY, mąka z karobu, guma gellan, sól morska, lecytyna ze słonecznika, aromat naturalny)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Banany",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 38,
+                    "name": "banan",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Woda",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 625,
+                    "name": "woda",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Daktyle owoce suszone (może zawierać pestki)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Kakao (proszek 10-12%)",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 221,
+                    "name": "kakao",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Siemię lniane",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Cynamon",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 107,
+                    "name": "cynamon",
+                    "chosen": false
+                  }
+                ]
+              }
+            ],
+            "imageUrl": "",
+            "calories": "181.78 kcal / 760 kJ",
+            "carbohydrate": "30.65g",
+            "dietaryFiber": "6.44g",
+            "fat": "5.07g",
+            "protein": "4.61g",
+            "salt": "0.26g",
+            "saturatedFattyAcids": "0.89g",
+            "sugar": "18.16g",
+            "thermo": "COLD"
+          }
+        },
+        {
+          "dietCaloriesMealId": 346,
+          "name": "Ciasto a'la torcik daim ze świeżym jabłkiem",
+          "label": "Niski IG 5 posiłków",
+          "info": "268 kcal • B:5g • W:12g • T:22g",
+          "thermo": "COLD",
+          "reviewsNumber": 28,
+          "reviewsScore": 82.14,
+          "details": {
+            "name": "Ciasto a'la torcik daim ze świeżym jabłkiem",
+            "allergens": "Soja, Mleko, Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies, Jaja, Orzechy",
+            "allergensWithExcluded": [
+              {
+                "dietaryExclusionId": 1,
+                "companyAllergenName": "Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies",
+                "dietlyAllergenName": "gluten",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 7,
+                "companyAllergenName": "Orzechy",
+                "dietlyAllergenName": "orzechy",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 5,
+                "companyAllergenName": "Soja",
+                "dietlyAllergenName": "soja",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 3,
+                "companyAllergenName": "Mleko",
+                "dietlyAllergenName": "mleko",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 4,
+                "companyAllergenName": "Jaja",
+                "dietlyAllergenName": "jajka",
+                "excluded": false
+              }
+            ],
+            "ingredients": [
+              {
+                "name": "Jabłko (może zawierać pestki)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Rama Professional 35% (MAŚLANKA, oleje roślinne (całkowicie utwardzony olej palmowy, olej kokosowy), MAŚLANKA w proszku, emulgatory (polisorbat 60, mono- i diglicerydy kwasów tłuszczowych, lecytyna SOJOWA), substancje zagęszczające (guma guar, guma ksantanowa), beta-karoten)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Jaja kurze",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Czekolada gorzka 60% (miazga kakaowa, cukier, kakao w proszku o obniżonej zawartości tłuszczu, tłuszcz kakaowy, emulgatory: lecytyny (z SOI) i E476; aromat)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Mąka migdałowa",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 306,
+                    "name": "mąka",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Masło extra 83%",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 326,
+                    "name": "masło",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Ser mascarpone (śmietanka pasteryzowana (MLEKO), regulator kwasowości: kwas cytrynowy)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Erytrol / Erytrytol",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 130,
+                    "name": "erytrol",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Woda",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 625,
+                    "name": "woda",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Vegetop 33%",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Sok z cytryny (woda, zagęszczony sok z cytryny, substancje konserwujące: pirosiarczyn potasu)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Żelatyna (żelatyna spożywcza wieprzowa)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Proszek do pieczenia (Substancje spulchniające: difosforany, węglany sodu, mąka PSZENNA)",
+                "major": false,
+                "exclusion": []
+              }
+            ],
+            "imageUrl": "",
+            "calories": "267.86 kcal / 1120 kJ",
+            "carbohydrate": "12.48g",
+            "dietaryFiber": "2.84g",
+            "fat": "22.16g",
+            "protein": "4.85g",
+            "salt": "0.19g",
+            "saturatedFattyAcids": "10.27g",
+            "sugar": "11.31g",
+            "thermo": "COLD"
+          }
+        },
+        {
+          "dietCaloriesMealId": 369,
+          "name": "Lekka sałatka z wędzonym twarogiem, dressingiem pomarańczowo-balsamicznym i warzywami",
+          "label": "Low Carb 5 posiłków",
+          "info": "195 kcal • B:8g • W:8g • T:16g",
+          "thermo": "COLD",
+          "reviewsNumber": 13,
+          "reviewsScore": 100,
+          "details": {
+            "name": "Lekka sałatka z wędzonym twarogiem, dressingiem pomarańczowo-balsamicznym i warzywami",
+            "allergens": "Mleko",
+            "allergensWithExcluded": [
+              {
+                "dietaryExclusionId": 3,
+                "companyAllergenName": "Mleko",
+                "dietlyAllergenName": "mleko",
+                "excluded": false
+              }
+            ],
+            "ingredients": [
+              {
+                "name": "Ogórek zielony",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Papryka (świeża)",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 395,
+                    "name": "papryka",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Pomidor",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 441,
+                    "name": "pomidor",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Mix sałat",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Twaróg wędzony (MLEKO, sól, kultury bakterii fermentacji mlekowej)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Oliwa z oliwek light",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 372,
+                    "name": "oliwa",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Pestki dyni",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Ocet balsamiczny (Ocet winny, skoncentrowany moszcz winogronowy, barwnik– karmel amoniakalno-siarczynowy, substancja konserwująca – pirosiarczyn potasu)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Sok pomarańczowy (sok pomarańczowy (100%) z zagęszczonego soku pomarańczowego, witamina C )",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Erytrol / Erytrytol",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 130,
+                    "name": "erytrol",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Oregano",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 374,
+                    "name": "oregano",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Sól",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 531,
+                    "name": "sól",
+                    "chosen": false
+                  }
+                ]
+              }
+            ],
+            "imageUrl": "",
+            "calories": "195.28 kcal / 817 kJ",
+            "carbohydrate": "8.23g",
+            "dietaryFiber": "3.42g",
+            "fat": "16.17g",
+            "protein": "8.33g",
+            "salt": "1.04g",
+            "saturatedFattyAcids": "4.81g",
+            "sugar": "4.36g",
+            "thermo": "COLD"
+          }
+        },
+        {
+          "dietCaloriesMealId": 495,
+          "name": "Gzik podany ze słupkami warzyw",
+          "label": "Domowa 5 posiłków",
+          "info": "191 kcal • B:18g • W:8g • T:10g",
+          "thermo": "COLD",
+          "reviewsNumber": 80,
+          "reviewsScore": 95,
+          "details": {
+            "name": "Gzik podany ze słupkami warzyw",
+            "allergens": "Mleko",
+            "allergensWithExcluded": [
+              {
+                "dietaryExclusionId": 3,
+                "companyAllergenName": "Mleko",
+                "dietlyAllergenName": "mleko",
+                "excluded": false
+              }
+            ],
+            "ingredients": [
+              {
+                "name": "Twaróg półtłusty (MLEKO pasteryzowane, kultury bakterii fermentacji mlekowej)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Ogórek zielony",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Papryka (świeża)",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 395,
+                    "name": "papryka",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Śmietana 18% (MLEKO)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Szczypiorek",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 554,
+                    "name": "szczypiorek",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Natka pietruszki",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 361,
+                    "name": "natka",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Pieprz czarny mielony",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 419,
+                    "name": "pieprz",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Sól",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 531,
+                    "name": "sól",
+                    "chosen": false
+                  }
+                ]
+              }
+            ],
+            "imageUrl": "",
+            "calories": "190.82 kcal / 798 kJ",
+            "carbohydrate": "7.75g",
+            "dietaryFiber": "1.43g",
+            "fat": "9.68g",
+            "protein": "18.24g",
+            "salt": "0.4g",
+            "saturatedFattyAcids": "5.65g",
+            "sugar": "5.38g",
+            "thermo": "COLD"
           }
         }
       ]
@@ -1865,6 +4667,872 @@
             "saturatedFattyAcids": "4.52g",
             "sugar": "8.97g",
             "thermo": "WARM"
+          }
+        },
+        {
+          "dietCaloriesMealId": 213,
+          "name": "Chrzanowy wege pasztet z chlebkiem i kiszonym ogórkiem",
+          "label": "Wegetariańska 5 posiłków",
+          "info": "363 kcal • B:13g • W:50g • T:10g",
+          "thermo": "COLD",
+          "reviewsNumber": 0,
+          "reviewsScore": 0,
+          "details": {
+            "name": "Chrzanowy wege pasztet z chlebkiem i kiszonym ogórkiem",
+            "allergens": "Soja, Mleko, Sezam, Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies, Gorczyca, Jaja",
+            "allergensWithExcluded": [
+              {
+                "dietaryExclusionId": 1,
+                "companyAllergenName": "Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies",
+                "dietlyAllergenName": "gluten",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": null,
+                "companyAllergenName": "Sezam",
+                "dietlyAllergenName": "Sezam",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 5,
+                "companyAllergenName": "Soja",
+                "dietlyAllergenName": "soja",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 12,
+                "companyAllergenName": "Gorczyca",
+                "dietlyAllergenName": "gorczyca",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 3,
+                "companyAllergenName": "Mleko",
+                "dietlyAllergenName": "mleko",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 4,
+                "companyAllergenName": "Jaja",
+                "dietlyAllergenName": "jajka",
+                "excluded": false
+              }
+            ],
+            "ingredients": [
+              {
+                "name": "Ogórek kiszony",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Chleb żytni (zakwas ŻYTNI (45 %) (mąka ŻYTNIA, woda), mąka ŻYTNIA (26 %), woda, mąka ŻYTNIA razowa (12 %), sól, drożdże (1 %), mąka PSZENNA ekstrudowana (0,6 %). Produkt może zawierać NASIONA SEZAMU, SOJĘ, MLEKO)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Fasola biała (konserwowa) (fasola biała ziarna, woda, sól)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Kasza jaglana",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 236,
+                    "name": "kasza",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Cebula",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 74,
+                    "name": "cebula",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Jaja kurze",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Rukola",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 482,
+                    "name": "rukola",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Chrzan tarty (Korzeń tary chrzanu (60%), woda, olej rzepakowy, ocet spirytusowy, cukier, mleko w proszku, sól, białka mleka, substancje zagęszczające (guma guar, guma ksantanowa, mączka chleba świętojańskiego), regulator kwasowości (kwas cytrynowy), substancja konserwująca (pirosiarczyn sodu, zawiera siarczyny).)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Olej rzepakowy",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 371,
+                    "name": "olej",
+                    "chosen": false
+                  },
+                  {
+                    "dietaryExclusionId": 488,
+                    "name": "rzepa",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Czosnek",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 112,
+                    "name": "czosnek",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Koper ogrodowy",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 264,
+                    "name": "koper",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Pieprz czarny mielony",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 419,
+                    "name": "pieprz",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Sól",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 531,
+                    "name": "sól",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Liść laurowy",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Majeranek",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 304,
+                    "name": "majeranek",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Mielona gałka muszkatołowa",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 597,
+                    "name": "uszka",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Tymianek",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 593,
+                    "name": "tymianek",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Ziele angielskie",
+                "major": false,
+                "exclusion": []
+              }
+            ],
+            "imageUrl": "",
+            "calories": "363.12 kcal / 1519 kJ",
+            "carbohydrate": "49.56g",
+            "dietaryFiber": "6.45g",
+            "fat": "10.02g",
+            "protein": "13.0g",
+            "salt": "2.86g",
+            "saturatedFattyAcids": "1.34g",
+            "sugar": "5.58g",
+            "thermo": "COLD"
+          }
+        },
+        {
+          "dietCaloriesMealId": 349,
+          "name": "Curry z bakłażanem, papryką i kurczakiem z brązowym ryżem",
+          "label": "Niski IG 5 posiłków",
+          "info": "374 kcal • B:20g • W:38g • T:16g",
+          "thermo": "WARM",
+          "reviewsNumber": 155,
+          "reviewsScore": 91.61,
+          "details": {
+            "name": "Curry z bakłażanem, papryką i kurczakiem z brązowym ryżem",
+            "allergens": "Soja, Sezam, Seler, Ryby, Skorupiaki, Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies",
+            "allergensWithExcluded": [
+              {
+                "dietaryExclusionId": 1,
+                "companyAllergenName": "Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies",
+                "dietlyAllergenName": "gluten",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 6,
+                "companyAllergenName": "Seler",
+                "dietlyAllergenName": "seler",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": null,
+                "companyAllergenName": "Sezam",
+                "dietlyAllergenName": "Sezam",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 5,
+                "companyAllergenName": "Soja",
+                "dietlyAllergenName": "soja",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 2,
+                "companyAllergenName": "Ryby",
+                "dietlyAllergenName": "ryby",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 9,
+                "companyAllergenName": "Skorupiaki",
+                "dietlyAllergenName": "skorupiaki",
+                "excluded": false
+              }
+            ],
+            "ingredients": [
+              {
+                "name": "Ryż brązowy",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 487,
+                    "name": "ryż",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Mięso z udek kurczaka (bez skóry)",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 334,
+                    "name": "mięso",
+                    "chosen": false
+                  },
+                  {
+                    "dietaryExclusionId": 280,
+                    "name": "kurczak",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Bulion drobiowo-wołowy, (kości wołowe, kości drobiowe, marchew, SELER, pietruszka, cebula, czosnek, sos sojowy jasny (woda, ekstrakt z nasion SOI, sól, mąka PSZENNA, glutaminian sodu, barwnik: karmel, sorbinian potasu), ziele angielskie, liść laurowy, sól, pieprz czarny)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Mleczko kokosowe (ekstrakt z orzecha kokosowego, woda)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Bakłażan (mrożony)",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 35,
+                    "name": "bakłażan",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Pulpa pomidorowa (przecier pomidorowy, sól morska)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Papryka paski",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 395,
+                    "name": "papryka",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Cebula",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 74,
+                    "name": "cebula",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Olej rzepakowy",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 371,
+                    "name": "olej",
+                    "chosen": false
+                  },
+                  {
+                    "dietaryExclusionId": 488,
+                    "name": "rzepa",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Sos sojowy jasny (woda, ekstrakt z nasion SOI, sól, mąka PSZENNA, glutaminian sodu, barwnik: karmel, sorbinian potasu. )",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "sos Worcestershire",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 628,
+                    "name": "worcestershire",
+                    "chosen": false
+                  },
+                  {
+                    "dietaryExclusionId": 534,
+                    "name": "sos",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Czosnek",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 112,
+                    "name": "czosnek",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Sól",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 531,
+                    "name": "sól",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Żółta pasta curry",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 103,
+                    "name": "curry",
+                    "chosen": false
+                  },
+                  {
+                    "dietaryExclusionId": 400,
+                    "name": "pasta",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Natka pietruszki",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 361,
+                    "name": "natka",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Imbir mielony",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 202,
+                    "name": "imbir",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Olej sezamowy",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 371,
+                    "name": "olej",
+                    "chosen": false
+                  },
+                  {
+                    "dietaryExclusionId": 509,
+                    "name": "sezam",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Papryka słodka (mielona, wędzona)",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 395,
+                    "name": "papryka",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Pieprz czarny mielony",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 419,
+                    "name": "pieprz",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Kmin rzymski (kumin)",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 253,
+                    "name": "kmin",
+                    "chosen": false
+                  },
+                  {
+                    "dietaryExclusionId": 278,
+                    "name": "kumin",
+                    "chosen": false
+                  }
+                ]
+              }
+            ],
+            "imageUrl": "",
+            "calories": "373.54 kcal / 1562 kJ",
+            "carbohydrate": "37.54g",
+            "dietaryFiber": "3.18g",
+            "fat": "15.63g",
+            "protein": "20.07g",
+            "salt": "1.97g",
+            "saturatedFattyAcids": "5.23g",
+            "sugar": "4.78g",
+            "thermo": "WARM"
+          }
+        },
+        {
+          "dietCaloriesMealId": 376,
+          "name": "Chłopski garnek z kiełbaską",
+          "label": "Low Carb 5 posiłków",
+          "info": "438 kcal • B:21g • W:12g • T:34g",
+          "thermo": "WARM",
+          "reviewsNumber": 323,
+          "reviewsScore": 91.02,
+          "details": {
+            "name": "Chłopski garnek z kiełbaską",
+            "allergens": "Soja, Mleko, Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies",
+            "allergensWithExcluded": [
+              {
+                "dietaryExclusionId": 1,
+                "companyAllergenName": "Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies",
+                "dietlyAllergenName": "gluten",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 5,
+                "companyAllergenName": "Soja",
+                "dietlyAllergenName": "soja",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 3,
+                "companyAllergenName": "Mleko",
+                "dietlyAllergenName": "mleko",
+                "excluded": false
+              }
+            ],
+            "ingredients": [
+              {
+                "name": "Kiełbasa zwyczajna (Mięso wieprzowe 61%, woda, tłuszcz wieprzowy, mięso wołowe, sól, skrobia PSZENNA ,białko SOJOWE, białko MLEKA, LAKTOZA, przyprawy i ekstrakty przypraw, stabilizator: trifosforan, cytrynian trisodu, glukoza, przeciwutleniacz: izoaskorbinian sodu, wzmacniacz smaku: glutaminian sodu, cukier, barwnik: kwas karminowy, substancja konserwująca: azotyn sodu)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Cukinia kostka (mrożone)",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 102,
+                    "name": "cukinia",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Woda",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 625,
+                    "name": "woda",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Marchew (kostka, mrożony)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Papryka paski",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 395,
+                    "name": "papryka",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Pulpa pomidorowa (przecier pomidorowy, sól morska)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Boczek parzony kostka (boczek wieprzowy, sól)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Cebula",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 74,
+                    "name": "cebula",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Olej rzepakowy",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 371,
+                    "name": "olej",
+                    "chosen": false
+                  },
+                  {
+                    "dietaryExclusionId": 488,
+                    "name": "rzepa",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Sos sojowy jasny (woda, ekstrakt z nasion SOI, sól, mąka PSZENNA, glutaminian sodu, barwnik: karmel, sorbinian potasu. )",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Sól",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 531,
+                    "name": "sól",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Koper ogrodowy",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 264,
+                    "name": "koper",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Pieprz czarny mielony",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 419,
+                    "name": "pieprz",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Czosnek",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 112,
+                    "name": "czosnek",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Sambal oelek (chili, woda, sól, skrobia kukurydziana, kwas octowy, ekstrakt z papryki, konserwant- sorbinian potasu)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Majeranek",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 304,
+                    "name": "majeranek",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Mielona słodka papryka",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 395,
+                    "name": "papryka",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Ziele angielskie",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Liść laurowy",
+                "major": false,
+                "exclusion": []
+              }
+            ],
+            "imageUrl": "",
+            "calories": "437.68 kcal / 1831 kJ",
+            "carbohydrate": "12.22g",
+            "dietaryFiber": "3.52g",
+            "fat": "33.93g",
+            "protein": "20.79g",
+            "salt": "3.37g",
+            "saturatedFattyAcids": "8.4g",
+            "sugar": "5.92g",
+            "thermo": "WARM"
+          }
+        },
+        {
+          "dietCaloriesMealId": 501,
+          "name": "Tortilla pełnoziarnista podana z farszem pieczarkowo-serowym",
+          "label": "Domowa 5 posiłków",
+          "info": "342 kcal • B:19g • W:35g • T:14g",
+          "thermo": "COLD_WARM",
+          "reviewsNumber": 58,
+          "reviewsScore": 84.48,
+          "details": {
+            "name": "Tortilla pełnoziarnista podana z farszem pieczarkowo-serowym",
+            "allergens": "Mleko, Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies",
+            "allergensWithExcluded": [
+              {
+                "dietaryExclusionId": 1,
+                "companyAllergenName": "Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies",
+                "dietlyAllergenName": "gluten",
+                "excluded": false
+              },
+              {
+                "dietaryExclusionId": 3,
+                "companyAllergenName": "Mleko",
+                "dietlyAllergenName": "mleko",
+                "excluded": false
+              }
+            ],
+            "ingredients": [
+              {
+                "name": "Pieczarki",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 415,
+                    "name": "pieczarki",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Tortilla pełnoziarnista (mąka PSZENNA pełnoziarnista, woda, olej rzepakowy, stabilizatory: glicerol, guma guar; GLUTEN PSZENNY, sól, glukoza (z PSZENICY), emulgator: mono- i diglicerydy kwasów tłuszczowych; substancje spulchniające: węglany sodu; regulator kwasowości: kwas jabłkowy; środek do przetwarzania mąki: L-cysteina)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Ser żółty tarty (MLEKO pasteryzowane, sól, stabilizator: chlorek wapnia, kultury bakterii, podpuszczka mikrobiologiczna)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Cebula",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 74,
+                    "name": "cebula",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Olej rzepakowy",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 371,
+                    "name": "olej",
+                    "chosen": false
+                  },
+                  {
+                    "dietaryExclusionId": 488,
+                    "name": "rzepa",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Natka pietruszki",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 361,
+                    "name": "natka",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Mielona słodka papryka",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 395,
+                    "name": "papryka",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Pieprz czarny mielony",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 419,
+                    "name": "pieprz",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Sól",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 531,
+                    "name": "sól",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Tymianek",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 593,
+                    "name": "tymianek",
+                    "chosen": false
+                  }
+                ]
+              }
+            ],
+            "imageUrl": "",
+            "calories": "342.2 kcal / 1431 kJ",
+            "carbohydrate": "34.74g",
+            "dietaryFiber": "7.68g",
+            "fat": "14.26g",
+            "protein": "18.75g",
+            "salt": "1.82g",
+            "saturatedFattyAcids": "7.91g",
+            "sugar": "3.75g",
+            "thermo": "COLD_WARM"
           }
         }
       ]
