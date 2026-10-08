@@ -12,8 +12,8 @@
           "label": "SUPREME",
           "info": "405 kcal • B:10g • W:50g • T:18g",
           "thermo": "COLD",
-          "reviewsNumber": 10033,
-          "reviewsScore": 93.75,
+          "reviewsNumber": 31,
+          "reviewsScore": 96.77,
           "details": {
             "name": "Smalczyk z ciecierzycy ze śliwką, prażony słonecznik, chleb razowy, ogórek kiszony",
             "allergens": "Gorczyca",
@@ -152,8 +152,8 @@
           "label": "Dieta Active Pro",
           "info": "369 kcal • B:18g • W:33g • T:18g",
           "thermo": "WARM",
-          "reviewsNumber": 10680,
-          "reviewsScore": 96.74,
+          "reviewsNumber": 10743,
+          "reviewsScore": 96.75,
           "details": {
             "name": "Naleśnik z indykiem i mozzarellą, dip musztardowy, pomidorki koktajlowe",
             "allergens": "",
@@ -543,8 +543,8 @@
           "label": "Dieta Kuchnie Świata",
           "info": "362 kcal • B:40g • W:27g • T:10g",
           "thermo": "COLD",
-          "reviewsNumber": 1118,
-          "reviewsScore": 95.97,
+          "reviewsNumber": 1126,
+          "reviewsScore": 96,
           "details": {
             "name": "Kanapka z pieczonym kurczakiem, twarożkiem szczypiorkowym, bułka musli, papryka",
             "allergens": "",
@@ -688,7 +688,7 @@
           "label": "Dieta Light",
           "info": "367 kcal • B:19g • W:43g • T:13g",
           "thermo": "COLD_WARM",
-          "reviewsNumber": 16991,
+          "reviewsNumber": 17054,
           "reviewsScore": 98.67,
           "details": {
             "name": "Pancakes brzoskwiniowe, twarożek waniliowy, sos porzeczkowy",
@@ -853,8 +853,8 @@
           "label": "Dieta Low Carb & IG",
           "info": "297 kcal • B:27g • W:21g • T:11g",
           "thermo": "COLD",
-          "reviewsNumber": 13238,
-          "reviewsScore": 96.13,
+          "reviewsNumber": 13289,
+          "reviewsScore": 96.15,
           "details": {
             "name": "Kanapka gyros z kurczakiem, bułka graham, warzywa, łagodny sos ziołowy",
             "allergens": "",
@@ -997,8 +997,8 @@
           "label": "Dieta Top Taste",
           "info": "297 kcal • B:16g • W:22g • T:16g",
           "thermo": "COLD",
-          "reviewsNumber": 21216,
-          "reviewsScore": 98.23,
+          "reviewsNumber": 21782,
+          "reviewsScore": 98.24,
           "details": {
             "name": "Kanapka z pastą jajeczną z serem cheddar i szczypiorkiem, pomidorki",
             "allergens": "",
@@ -1355,7 +1355,7 @@
           "label": "SUPREME",
           "info": "321 kcal • B:14g • W:20g • T:21g",
           "thermo": "COLD",
-          "reviewsNumber": 22331,
+          "reviewsNumber": 22457,
           "reviewsScore": 98.33,
           "details": {
             "name": "Croissant z pastą jajeczną ze szczypiorem, pomidorki",
@@ -1450,7 +1450,7 @@
           "label": "Dieta Active Pro",
           "info": "216 kcal • B:16g • W:26g • T:4g",
           "thermo": "COLD",
-          "reviewsNumber": 36074,
+          "reviewsNumber": 36313,
           "reviewsScore": 95.83,
           "details": {
             "name": "Porzeczkowy shake proteinowy",
@@ -1545,14 +1545,14 @@
         },
         {
           "dietCaloriesMealId": 3623,
-          "name": "Krem paprykowy z pieczonym łososiem i bazylią",
+          "name": "Krem paprykowy z pieczonym łososiem",
           "label": "Dieta Fish Low Carb & IG",
           "info": "310 kcal • B:19g • W:11g • T:21g",
           "thermo": "WARM",
-          "reviewsNumber": 1476,
-          "reviewsScore": 92.75,
+          "reviewsNumber": 671,
+          "reviewsScore": 93.44,
           "details": {
-            "name": "Krem paprykowy z pieczonym łososiem i bazylią",
+            "name": "Krem paprykowy z pieczonym łososiem ",
             "allergens": "",
             "allergensWithExcluded": [],
             "ingredients": [
@@ -1685,11 +1685,6 @@
                 ]
               },
               {
-                "name": "Bazylia (może zawierać naturalne części roślin)",
-                "major": false,
-                "exclusion": []
-              },
-              {
                 "name": "Czosnek",
                 "major": false,
                 "exclusion": [
@@ -1757,11 +1752,11 @@
               }
             ],
             "imageUrl": "",
-            "calories": "310.37 kcal / 1298 kJ",
-            "carbohydrate": "10.85g",
-            "dietaryFiber": "2.74g",
-            "fat": "21.3g",
-            "protein": "18.85g",
+            "calories": "309.93 kcal / 1296 kJ",
+            "carbohydrate": "10.83g",
+            "dietaryFiber": "2.71g",
+            "fat": "21.28g",
+            "protein": "18.79g",
             "salt": "0.58g",
             "saturatedFattyAcids": "6.83g",
             "sugar": "3.74g",
@@ -1949,7 +1944,7 @@
           "label": "Dieta Light",
           "info": "388 kcal • B:9g • W:65g • T:9g",
           "thermo": "COLD_WARM",
-          "reviewsNumber": 12562,
+          "reviewsNumber": 12607,
           "reviewsScore": 95.49,
           "details": {
             "name": "Owsianka z truskawkami i granolą owocową, kiwi",
@@ -2045,8 +2040,8 @@
           "label": "Dieta Low Carb & IG",
           "info": "213 kcal • B:13g • W:17g • T:13g",
           "thermo": "COLD",
-          "reviewsNumber": 5391,
-          "reviewsScore": 97.72,
+          "reviewsNumber": 5424,
+          "reviewsScore": 97.73,
           "details": {
             "name": "Twarożek wiśniowo-porzeczkowy z płatkami migdałów",
             "allergens": "",
@@ -2140,8 +2135,8 @@
           "label": "Dieta Top Taste",
           "info": "359 kcal • B:20g • W:50g • T:9g",
           "thermo": "COLD_WARM",
-          "reviewsNumber": 530,
-          "reviewsScore": 99.25,
+          "reviewsNumber": 965,
+          "reviewsScore": 98.55,
           "details": {
             "name": "Naleśnik z twarożkiem słony karmel, świeży ananas",
             "allergens": "",
@@ -2274,8 +2269,8 @@
           "label": "Dieta Śródziemnomorska",
           "info": "257 kcal • B:12g • W:10g • T:19g",
           "thermo": "WARM",
-          "reviewsNumber": 2119,
-          "reviewsScore": 92.78,
+          "reviewsNumber": 2142,
+          "reviewsScore": 92.76,
           "details": {
             "name": "Zupa szczawiowa z jajkiem na twardo",
             "allergens": "",
@@ -2467,7 +2462,7 @@
           "label": "SUPREME",
           "info": "425 kcal • B:25g • W:41g • T:18g",
           "thermo": "WARM",
-          "reviewsNumber": 14769,
+          "reviewsNumber": 14897,
           "reviewsScore": 97.19,
           "details": {
             "name": "Mintaj w panierce, cząstki ziemniaczane, dip remoulade, surówka z kapusty z kukurydzą",
@@ -2807,8 +2802,8 @@
           "label": "Dieta Active Pro",
           "info": "526 kcal • B:34g • W:44g • T:23g",
           "thermo": "WARM",
-          "reviewsNumber": 1199,
-          "reviewsScore": 96.25,
+          "reviewsNumber": 1267,
+          "reviewsScore": 96.37,
           "details": {
             "name": "Pulpety drobiowe w sosie pomidorowym, kuskus perłowy, marchewka baby z koperkiem",
             "allergens": "",
@@ -3412,8 +3407,8 @@
           "label": "Dieta Kuchnie Świata",
           "info": "415 kcal • B:36g • W:37g • T:14g",
           "thermo": "WARM",
-          "reviewsNumber": 848,
-          "reviewsScore": 94.34,
+          "reviewsNumber": 857,
+          "reviewsScore": 94.4,
           "details": {
             "name": "Filet z indyka w sosie myśliwskim, kasza bulgur, surówka z czerwonej kapusty",
             "allergens": "Gorczyca",
@@ -3708,8 +3703,8 @@
           "label": "Dieta Light",
           "info": "423 kcal • B:30g • W:30g • T:20g",
           "thermo": "WARM",
-          "reviewsNumber": 3093,
-          "reviewsScore": 95.34,
+          "reviewsNumber": 3147,
+          "reviewsScore": 95.39,
           "details": {
             "name": "Zielone curry z indykiem, ryż z marchewką, brokuł, sezam",
             "allergens": "",
@@ -3960,7 +3955,7 @@
           "label": "Dieta Low Carb & IG",
           "info": "591 kcal • B:29g • W:36g • T:33g",
           "thermo": "WARM",
-          "reviewsNumber": 9193,
+          "reviewsNumber": 9253,
           "reviewsScore": 95.64,
           "details": {
             "name": "Pełnoziarniste spaghetti bolognese z mięsem wieprzowym, oliwkami i serem włoskim",
@@ -4152,8 +4147,8 @@
           "label": "Dieta Top Taste",
           "info": "451 kcal • B:32g • W:48g • T:14g",
           "thermo": "WARM",
-          "reviewsNumber": 21825,
-          "reviewsScore": 96.63,
+          "reviewsNumber": 22483,
+          "reviewsScore": 96.68,
           "details": {
             "name": "Kotlet schabowy, puree ziemniaczane, kiszona kapusta z jabłkiem",
             "allergens": "",
@@ -4333,8 +4328,8 @@
           "label": "Dieta Śródziemnomorska",
           "info": "519 kcal • B:24g • W:64g • T:18g",
           "thermo": "WARM",
-          "reviewsNumber": 3733,
-          "reviewsScore": 95.63,
+          "reviewsNumber": 3772,
+          "reviewsScore": 95.68,
           "details": {
             "name": "Chili con carne, ryż basmati, guacamole",
             "allergens": "",
@@ -4732,7 +4727,7 @@
           "label": "SUPREME",
           "info": "209 kcal • B:5g • W:19g • T:13g",
           "thermo": "COLD",
-          "reviewsNumber": 15947,
+          "reviewsNumber": 16031,
           "reviewsScore": 95.18,
           "details": {
             "name": "Klasyczny makowiec japoński",
@@ -4865,8 +4860,8 @@
           "label": "Dieta Active Pro",
           "info": "248 kcal • B:23g • W:11g • T:13g",
           "thermo": "COLD",
-          "reviewsNumber": 1359,
-          "reviewsScore": 88.82,
+          "reviewsNumber": 1772,
+          "reviewsScore": 90.24,
           "details": {
             "name": "Proteinowy krem kokosowy",
             "allergens": "",
@@ -4966,8 +4961,8 @@
           "label": "Dieta Fish Low Carb & IG",
           "info": "327 kcal • B:14g • W:20g • T:22g",
           "thermo": "COLD",
-          "reviewsNumber": 3476,
-          "reviewsScore": 87.46,
+          "reviewsNumber": 3500,
+          "reviewsScore": 87.51,
           "details": {
             "name": "Sernik słony karmel",
             "allergens": "",
@@ -5108,8 +5103,8 @@
           "label": "Dieta Kuchnie Świata",
           "info": "263 kcal • B:4g • W:35g • T:12g",
           "thermo": "COLD",
-          "reviewsNumber": 3661,
-          "reviewsScore": 92.62,
+          "reviewsNumber": 3676,
+          "reviewsScore": 92.66,
           "details": {
             "name": "Brownie",
             "allergens": "",
@@ -5171,7 +5166,7 @@
           "label": "Dieta Light",
           "info": "234 kcal • B:6g • W:23g • T:14g",
           "thermo": "COLD",
-          "reviewsNumber": 10972,
+          "reviewsNumber": 11026,
           "reviewsScore": 96.93,
           "details": {
             "name": "Ciasto waniliowo truskawkowe",
@@ -5296,28 +5291,17 @@
         },
         {
           "dietCaloriesMealId": 3606,
-          "name": "Smalczyk z ciecierzycy z śliwką, chleb czystoziarnisty, kalarepa",
+          "name": "Smalczyk z ciecierzycy z śliwką, chleb czystoziarnisty, marchew z ogórkiem",
           "label": "Dieta Low Carb & IG",
-          "info": "287 kcal • B:11g • W:19g • T:17g",
+          "info": "281 kcal • B:10g • W:19g • T:17g",
           "thermo": "COLD",
-          "reviewsNumber": 5030,
-          "reviewsScore": 94.14,
+          "reviewsNumber": 0,
+          "reviewsScore": 0,
           "details": {
-            "name": "Smalczyk z ciecierzycy z śliwką, chleb czystoziarnisty, kalarepa",
+            "name": "Smalczyk z ciecierzycy z śliwką, chleb czystoziarnisty, marchew z ogórkiem",
             "allergens": "",
             "allergensWithExcluded": [],
             "ingredients": [
-              {
-                "name": "Kalarepa",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 224,
-                    "name": "kalarepa",
-                    "chosen": false
-                  }
-                ]
-              },
               {
                 "name": "Woda",
                 "major": false,
@@ -5339,6 +5323,16 @@
                     "chosen": false
                   }
                 ]
+              },
+              {
+                "name": "Marchew",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Ogórek",
+                "major": false,
+                "exclusion": []
               },
               {
                 "name": "Mieszanka czystoziarnista (Sezam, Soja, Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies)",
@@ -5405,14 +5399,14 @@
               }
             ],
             "imageUrl": "",
-            "calories": "286.96 kcal / 1200 kJ",
-            "carbohydrate": "19.34g",
-            "dietaryFiber": "8.33g",
-            "fat": "17.29g",
-            "protein": "10.81g",
-            "salt": "0.36g",
+            "calories": "280.66 kcal / 1174 kJ",
+            "carbohydrate": "18.83g",
+            "dietaryFiber": "8.24g",
+            "fat": "17.2g",
+            "protein": "10.0g",
+            "salt": "0.42g",
             "saturatedFattyAcids": "2.07g",
-            "sugar": "2.52g",
+            "sugar": "3.15g",
             "thermo": "COLD"
           }
         },
@@ -5422,8 +5416,8 @@
           "label": "Dieta Top Taste",
           "info": "291 kcal • B:5g • W:31g • T:16g",
           "thermo": "COLD",
-          "reviewsNumber": 10873,
-          "reviewsScore": 97.77,
+          "reviewsNumber": 11187,
+          "reviewsScore": 97.79,
           "details": {
             "name": "Czekoladowe ciasto z gruszką",
             "allergens": "",
@@ -5633,8 +5627,8 @@
           "label": "SUPREME",
           "info": "445 kcal • B:17g • W:53g • T:18g",
           "thermo": "WARM",
-          "reviewsNumber": 16293,
-          "reviewsScore": 98.43,
+          "reviewsNumber": 16473,
+          "reviewsScore": 98.42,
           "details": {
             "name": "Wrap z gyrosem z kurczaka z dipem czosnkowym",
             "allergens": "",
@@ -5819,7 +5813,7 @@
           "label": "Dieta Active Pro",
           "info": "454 kcal • B:28g • W:60g • T:11g",
           "thermo": "WARM",
-          "reviewsNumber": 9069,
+          "reviewsNumber": 9160,
           "reviewsScore": 96.95,
           "details": {
             "name": "Kluski leniwe z konfiturą truskawkową, proteinowym sosem jogurtowo-bananowym i krajanką",
@@ -6000,7 +5994,7 @@
           "label": "Dieta Fish Low Carb & IG",
           "info": "317 kcal • B:19g • W:25g • T:16g",
           "thermo": "COLD",
-          "reviewsNumber": 3227,
+          "reviewsNumber": 3244,
           "reviewsScore": 94.42,
           "details": {
             "name": "Sałatka z komosą ryżową, krewetkami, pomidorkami, ogórkiem i orzechami nerkowca, dip mango z chili",
@@ -6262,8 +6256,8 @@
           "label": "Dieta Kuchnie Świata",
           "info": "337 kcal • B:20g • W:14g • T:22g",
           "thermo": "COLD",
-          "reviewsNumber": 253,
-          "reviewsScore": 92.89,
+          "reviewsNumber": 255,
+          "reviewsScore": 92.94,
           "details": {
             "name": "Muffinki brokułowe z serem, dip paprykowy, grillowane pieczarki z tymiankiem",
             "allergens": "",
@@ -6455,8 +6449,8 @@
           "label": "Dieta Light",
           "info": "311 kcal • B:19g • W:22g • T:16g",
           "thermo": "COLD",
-          "reviewsNumber": 2563,
-          "reviewsScore": 95.32,
+          "reviewsNumber": 2597,
+          "reviewsScore": 95.34,
           "details": {
             "name": "Sałatka z kurczakiem, batatem, gillowaną papryką, pomidorkami i sosem winegret ziołowym",
             "allergens": "",
@@ -6654,8 +6648,8 @@
           "label": "Dieta Low Carb & IG",
           "info": "437 kcal • B:22g • W:23g • T:29g",
           "thermo": "COLD_WARM",
-          "reviewsNumber": 4293,
-          "reviewsScore": 92.99,
+          "reviewsNumber": 4336,
+          "reviewsScore": 93.04,
           "details": {
             "name": "Placuszki ryżowe z chorizo i szpinakiem, sos szczypiorkowy, pomidorki",
             "allergens": "",
@@ -6847,8 +6841,8 @@
           "label": "Dieta Top Taste",
           "info": "442 kcal • B:22g • W:43g • T:20g",
           "thermo": "WARM",
-          "reviewsNumber": 740,
-          "reviewsScore": 98.51,
+          "reviewsNumber": 782,
+          "reviewsScore": 98.47,
           "details": {
             "name": "Pierogi z mięsem drobiowym, colesław, szczypiorek",
             "allergens": "",
@@ -7121,8 +7115,8 @@
           "label": "Dieta Śródziemnomorska",
           "info": "408 kcal • B:15g • W:32g • T:24g",
           "thermo": "WARM",
-          "reviewsNumber": 6703,
-          "reviewsScore": 97.25,
+          "reviewsNumber": 6739,
+          "reviewsScore": 97.27,
           "details": {
             "name": "Pizzerinka warzywna, dip bazyliowy, papryka",
             "allergens": "",
