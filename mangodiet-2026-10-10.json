@@ -1,16 +1,16 @@
 {
   "date": "2026-10-10",
-  "calories": 1200,
+  "calories": 1800,
   "meals": [
     {
       "name": "Śniadanie",
-      "baseDietCaloriesMealId": 247,
+      "baseDietCaloriesMealId": 249,
       "options": [
         {
-          "dietCaloriesMealId": 247,
+          "dietCaloriesMealId": 249,
           "name": "Szakszuka z serem typu feta i chlebkiem",
           "label": "Odchudzająca 5 posiłków",
-          "info": "279 kcal • B:14g • W:22g • T:15g",
+          "info": "399 kcal • B:18g • W:37g • T:20g",
           "thermo": "COLD_WARM",
           "reviewsNumber": 32,
           "reviewsScore": 93.75,
@@ -51,16 +51,6 @@
             ],
             "ingredients": [
               {
-                "name": "Jajo kurze",
-                "major": false,
-                "exclusion": []
-              },
-              {
-                "name": "Chleb żytni (zakwas ŻYTNI (45 %) (mąka ŻYTNIA, woda), mąka ŻYTNIA (26 %), woda, mąka ŻYTNIA razowa (12 %), sól, drożdże (1 %), mąka PSZENNA ekstrudowana (0,6 %). Produkt może zawierać NASIONA SEZAMU, SOJĘ, MLEKO)",
-                "major": false,
-                "exclusion": []
-              },
-              {
                 "name": "Pomidor (kostka)",
                 "major": false,
                 "exclusion": [
@@ -77,7 +67,12 @@
                 "exclusion": []
               },
               {
-                "name": "Ser typu feta (Ser (mleko pasteryzowane, regulator kwasowości E575, sól morska, podpuszczka mikrobiologiczna), zalewa solankowa (woda, sól, regulator kwasowości: kwas mlekowy).)",
+                "name": "Chleb żytni (zakwas ŻYTNI (45 %) (mąka ŻYTNIA, woda), mąka ŻYTNIA (26 %), woda, mąka ŻYTNIA razowa (12 %), sól, drożdże (1 %), mąka PSZENNA ekstrudowana (0,6 %). Produkt może zawierać NASIONA SEZAMU, SOJĘ, MLEKO)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Jajo kurze",
                 "major": false,
                 "exclusion": []
               },
@@ -115,6 +110,11 @@
                 ]
               },
               {
+                "name": "Ser typu feta (Ser (mleko pasteryzowane, regulator kwasowości E575, sól morska, podpuszczka mikrobiologiczna), zalewa solankowa (woda, sól, regulator kwasowości: kwas mlekowy).)",
+                "major": false,
+                "exclusion": []
+              },
+              {
                 "name": "Olej rzepakowy",
                 "major": false,
                 "exclusion": [
@@ -142,6 +142,22 @@
                 ]
               },
               {
+                "name": "Sos sojowy jasny (woda, ekstrakt z nasion SOI, sól, mąka PSZENNA, glutaminian sodu, barwnik: karmel, sorbinian potasu. )",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Cukier",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 100,
+                    "name": "cukier",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
                 "name": "Olej rzepakowy tłoczony",
                 "major": false,
                 "exclusion": [
@@ -158,28 +174,12 @@
                 ]
               },
               {
-                "name": "Sos sojowy jasny (woda, ekstrakt z nasion SOI, sól, mąka PSZENNA, glutaminian sodu, barwnik: karmel, sorbinian potasu. )",
-                "major": false,
-                "exclusion": []
-              },
-              {
                 "name": "Sól",
                 "major": false,
                 "exclusion": [
                   {
                     "dietaryExclusionId": 531,
                     "name": "sól",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
-                "name": "Cukier",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 100,
-                    "name": "cukier",
                     "chosen": false
                   }
                 ]
@@ -241,22 +241,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "279.04 kcal / 1167 kJ",
-            "carbohydrate": "21.77g",
-            "dietaryFiber": "4.09g",
-            "fat": "14.71g",
-            "protein": "14.44g",
-            "salt": "2.81g",
-            "saturatedFattyAcids": "4.27g",
-            "sugar": "5.76g",
+            "calories": "399.24 kcal / 1670 kJ",
+            "carbohydrate": "36.82g",
+            "dietaryFiber": "7.36g",
+            "fat": "19.69g",
+            "protein": "17.72g",
+            "salt": "3.83g",
+            "saturatedFattyAcids": "4.7g",
+            "sugar": "11.49g",
             "thermo": "COLD_WARM"
           }
         },
         {
-          "dietCaloriesMealId": 220,
+          "dietCaloriesMealId": 219,
           "name": "Owsianka z czekoladą gorzką, orzechami laskowymi i musem kiwi",
           "label": "Standard 5 posiłków",
-          "info": "286 kcal • B:10g • W:38g • T:10g",
+          "info": "408 kcal • B:14g • W:57g • T:14g",
           "thermo": "COLD_WARM",
           "reviewsNumber": 0,
           "reviewsScore": 0,
@@ -356,14 +356,14 @@
               }
             ],
             "imageUrl": "",
-            "calories": "286.29 kcal / 1197 kJ",
-            "carbohydrate": "38.04g",
-            "dietaryFiber": "3.72g",
-            "fat": "10.3g",
-            "protein": "9.64g",
-            "salt": "0.14g",
-            "saturatedFattyAcids": "3.88g",
-            "sugar": "15.76g",
+            "calories": "407.94 kcal / 1706 kJ",
+            "carbohydrate": "56.79g",
+            "dietaryFiber": "5.41g",
+            "fat": "13.58g",
+            "protein": "13.7g",
+            "salt": "0.21g",
+            "saturatedFattyAcids": "5.52g",
+            "sugar": "23.38g",
             "thermo": "COLD_WARM"
           }
         }
@@ -371,13 +371,13 @@
     },
     {
       "name": "II śniadanie",
-      "baseDietCaloriesMealId": 253,
+      "baseDietCaloriesMealId": 255,
       "options": [
         {
-          "dietCaloriesMealId": 253,
+          "dietCaloriesMealId": 255,
           "name": "Mus z białej czekolady podany z polewą truskawkową",
           "label": "Odchudzająca 5 posiłków",
-          "info": "174 kcal • B:2g • W:8g • T:15g",
+          "info": "300 kcal • B:3g • W:14g • T:26g",
           "thermo": "COLD",
           "reviewsNumber": 43,
           "reviewsScore": 93.02,
@@ -426,11 +426,6 @@
                 ]
               },
               {
-                "name": "Guma ksantanowa",
-                "major": false,
-                "exclusion": []
-              },
-              {
                 "name": "Ekstrakt waniliowy (bez alkoholu)",
                 "major": false,
                 "exclusion": [
@@ -440,25 +435,30 @@
                     "chosen": false
                   }
                 ]
+              },
+              {
+                "name": "Guma ksantanowa",
+                "major": false,
+                "exclusion": []
               }
             ],
             "imageUrl": "",
-            "calories": "173.54 kcal / 726 kJ",
-            "carbohydrate": "8.26g",
-            "dietaryFiber": "0.51g",
-            "fat": "14.92g",
-            "protein": "1.83g",
-            "salt": "0.08g",
-            "saturatedFattyAcids": "6.5g",
-            "sugar": "7.09g",
+            "calories": "300.16 kcal / 1255 kJ",
+            "carbohydrate": "13.81g",
+            "dietaryFiber": "0.68g",
+            "fat": "26.06g",
+            "protein": "3.12g",
+            "salt": "0.14g",
+            "saturatedFattyAcids": "11.38g",
+            "sugar": "11.83g",
             "thermo": "COLD"
           }
         },
         {
-          "dietCaloriesMealId": 225,
+          "dietCaloriesMealId": 227,
           "name": "Pasta z kabanosem, jajkiem, czerwoną papryką i chrupkim pieczywem",
           "label": "Standard 5 posiłków",
-          "info": "163 kcal • B:7g • W:12g • T:9g",
+          "info": "237 kcal • B:10g • W:14g • T:16g",
           "thermo": "COLD",
           "reviewsNumber": 33,
           "reviewsScore": 100,
@@ -503,11 +503,6 @@
                 "exclusion": []
               },
               {
-                "name": "Pieczywo lekkie żytnie (60,1% mąka ŻYTNIA, mąka PSZENNA, woda, 2,6% błonnik PSZENNY, ekstrakt słodowy JĘCZMIENNY, 2% inulina, sól, substancja spulchniająca: wodorowęglan sodu)",
-                "major": false,
-                "exclusion": []
-              },
-              {
                 "name": "Kabanosy (mięso wieprzowe, sól, glukoza, białko wieprzowe, regulator kwasowości, askorbinian sodu, azotyn sodu, osłonka jadalna alginininowa)",
                 "major": false,
                 "exclusion": []
@@ -524,23 +519,17 @@
                 ]
               },
               {
+                "name": "Pieczywo lekkie żytnie (60,1% mąka ŻYTNIA, mąka PSZENNA, woda, 2,6% błonnik PSZENNY, ekstrakt słodowy JĘCZMIENNY, 2% inulina, sól, substancja spulchniająca: wodorowęglan sodu)",
+                "major": false,
+                "exclusion": []
+              },
+              {
                 "name": "Cebula",
                 "major": false,
                 "exclusion": [
                   {
                     "dietaryExclusionId": 74,
                     "name": "cebula",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
-                "name": "Szczypiorek",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 554,
-                    "name": "szczypiorek",
                     "chosen": false
                   }
                 ]
@@ -566,17 +555,28 @@
                     "chosen": false
                   }
                 ]
+              },
+              {
+                "name": "Szczypiorek",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 554,
+                    "name": "szczypiorek",
+                    "chosen": false
+                  }
+                ]
               }
             ],
             "imageUrl": "",
-            "calories": "162.85 kcal / 681 kJ",
-            "carbohydrate": "12.35g",
-            "dietaryFiber": "1.6g",
-            "fat": "9.44g",
-            "protein": "6.52g",
-            "salt": "1.04g",
-            "saturatedFattyAcids": "1.52g",
-            "sugar": "1.0g",
+            "calories": "237.44 kcal / 993 kJ",
+            "carbohydrate": "13.62g",
+            "dietaryFiber": "1.84g",
+            "fat": "15.57g",
+            "protein": "10.09g",
+            "salt": "1.73g",
+            "saturatedFattyAcids": "2.5g",
+            "sugar": "1.66g",
             "thermo": "COLD"
           }
         }
@@ -584,13 +584,13 @@
     },
     {
       "name": "Obiad",
-      "baseDietCaloriesMealId": 260,
+      "baseDietCaloriesMealId": 261,
       "options": [
         {
-          "dietCaloriesMealId": 260,
+          "dietCaloriesMealId": 261,
           "name": "Polędwiczka wieprzowa w sosie pieczarkowym z pęczakiem i marchewką z groszkiem",
           "label": "Odchudzająca 5 posiłków",
-          "info": "381 kcal • B:24g • W:38g • T:15g",
+          "info": "552 kcal • B:36g • W:54g • T:23g",
           "thermo": "WARM",
           "reviewsNumber": 135,
           "reviewsScore": 93.33,
@@ -625,11 +625,6 @@
             ],
             "ingredients": [
               {
-                "name": "Marchew z groszkiem (mrożony) (marchew kostka, groszek zielony)",
-                "major": false,
-                "exclusion": []
-              },
-              {
                 "name": "Kasza jęczmienna (pęczak)",
                 "major": false,
                 "exclusion": [
@@ -639,6 +634,11 @@
                     "chosen": false
                   }
                 ]
+              },
+              {
+                "name": "Marchew z groszkiem (mrożony) (marchew kostka, groszek zielony)",
+                "major": false,
+                "exclusion": []
               },
               {
                 "name": "Polędwica wieprzowa (surowa)",
@@ -750,17 +750,6 @@
                 ]
               },
               {
-                "name": "Pieprz czarny mielony",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 419,
-                    "name": "pieprz",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
                 "name": "Natka pietruszki",
                 "major": false,
                 "exclusion": [
@@ -772,39 +761,23 @@
                 ]
               },
               {
+                "name": "Pieprz czarny mielony",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 419,
+                    "name": "pieprz",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
                 "name": "Wino białe (wytrawne)",
                 "major": false,
                 "exclusion": [
                   {
                     "dietaryExclusionId": 619,
                     "name": "wino",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
-                "name": "Oregano",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 374,
-                    "name": "oregano",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
-                "name": "Sos sojowy jasny (woda, ekstrakt z nasion SOI, sól, mąka PSZENNA, glutaminian sodu, barwnik: karmel, sorbinian potasu. )",
-                "major": false,
-                "exclusion": []
-              },
-              {
-                "name": "Tymianek",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 593,
-                    "name": "tymianek",
                     "chosen": false
                   }
                 ]
@@ -832,28 +805,55 @@
                 ]
               },
               {
+                "name": "Oregano",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 374,
+                    "name": "oregano",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
                 "name": "Sok z cytryny (woda, zagęszczony sok z cytryny, substancje konserwujące: pirosiarczyn potasu)",
                 "major": false,
                 "exclusion": []
+              },
+              {
+                "name": "Sos sojowy jasny (woda, ekstrakt z nasion SOI, sól, mąka PSZENNA, glutaminian sodu, barwnik: karmel, sorbinian potasu. )",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Tymianek",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 593,
+                    "name": "tymianek",
+                    "chosen": false
+                  }
+                ]
               }
             ],
             "imageUrl": "",
-            "calories": "380.95 kcal / 1593 kJ",
-            "carbohydrate": "37.94g",
-            "dietaryFiber": "10.81g",
-            "fat": "15.43g",
-            "protein": "24.49g",
-            "salt": "1.89g",
-            "saturatedFattyAcids": "9.63g",
-            "sugar": "5.15g",
+            "calories": "552.48 kcal / 2311 kJ",
+            "carbohydrate": "53.84g",
+            "dietaryFiber": "15.2g",
+            "fat": "22.51g",
+            "protein": "35.99g",
+            "salt": "2.69g",
+            "saturatedFattyAcids": "12.62g",
+            "sugar": "6.55g",
             "thermo": "WARM"
           }
         },
         {
-          "dietCaloriesMealId": 234,
+          "dietCaloriesMealId": 229,
           "name": "Gołąbki bez zawijania w sosie pomidorowym z ziemniakami i ogórkiem konserwowym",
           "label": "Standard 5 posiłków",
-          "info": "314 kcal • B:12g • W:33g • T:15g",
+          "info": "519 kcal • B:21g • W:49g • T:26g",
           "thermo": "WARM",
           "reviewsNumber": 24,
           "reviewsScore": 95.83,
@@ -937,16 +937,6 @@
                 ]
               },
               {
-                "name": "Mleko UHT(1.5% tł.) (MLEKO krowie)",
-                "major": false,
-                "exclusion": []
-              },
-              {
-                "name": "Ser mascarpone (śmietanka pasteryzowana (MLEKO), regulator kwasowości: kwas cytrynowy)",
-                "major": false,
-                "exclusion": []
-              },
-              {
                 "name": "Ryż biały (paraboiled)",
                 "major": false,
                 "exclusion": [
@@ -958,7 +948,12 @@
                 ]
               },
               {
-                "name": "Bulion drobiowo-wołowy, (kości wołowe, kości drobiowe, marchew, SELER, pietruszka, cebula, czosnek, sos sojowy jasny (woda, ekstrakt z nasion SOI, sól, mąka PSZENNA, glutaminian sodu, barwnik: karmel, sorbinian potasu), ziele angielskie, liść laurowy, sól, pieprz czarny)",
+                "name": "Ser mascarpone (śmietanka pasteryzowana (MLEKO), regulator kwasowości: kwas cytrynowy)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Mleko UHT(1.5% tł.) (MLEKO krowie)",
                 "major": false,
                 "exclusion": []
               },
@@ -974,7 +969,17 @@
                 ]
               },
               {
+                "name": "Bulion drobiowo-wołowy, (kości wołowe, kości drobiowe, marchew, SELER, pietruszka, cebula, czosnek, sos sojowy jasny (woda, ekstrakt z nasion SOI, sól, mąka PSZENNA, glutaminian sodu, barwnik: karmel, sorbinian potasu), ziele angielskie, liść laurowy, sól, pieprz czarny)",
+                "major": false,
+                "exclusion": []
+              },
+              {
                 "name": "Jaja kurze",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Bułka tarta (Mąka PSZENNA , sól, drożdże)",
                 "major": false,
                 "exclusion": []
               },
@@ -988,11 +993,6 @@
                     "chosen": false
                   }
                 ]
-              },
-              {
-                "name": "Bułka tarta (Mąka PSZENNA , sól, drożdże)",
-                "major": false,
-                "exclusion": []
               },
               {
                 "name": "Koper ogrodowy",
@@ -1083,14 +1083,14 @@
               }
             ],
             "imageUrl": "",
-            "calories": "314.49 kcal / 1315 kJ",
-            "carbohydrate": "32.93g",
-            "dietaryFiber": "3.71g",
-            "fat": "14.6g",
-            "protein": "11.82g",
-            "salt": "2.67g",
-            "saturatedFattyAcids": "5.15g",
-            "sugar": "7.26g",
+            "calories": "518.64 kcal / 2169 kJ",
+            "carbohydrate": "49.22g",
+            "dietaryFiber": "5.97g",
+            "fat": "25.5g",
+            "protein": "21.28g",
+            "salt": "3.65g",
+            "saturatedFattyAcids": "8.98g",
+            "sugar": "10.25g",
             "thermo": "WARM"
           }
         }
@@ -1098,13 +1098,13 @@
     },
     {
       "name": "Podwieczorek",
-      "baseDietCaloriesMealId": 264,
+      "baseDietCaloriesMealId": 266,
       "options": [
         {
-          "dietCaloriesMealId": 264,
+          "dietCaloriesMealId": 266,
           "name": "Jogurt jagodowo-jeżynowy z dodatkiem musli",
           "label": "Odchudzająca 5 posiłków",
-          "info": "145 kcal • B:6g • W:14g • T:7g",
+          "info": "212 kcal • B:8g • W:21g • T:10g",
           "thermo": "COLD",
           "reviewsNumber": 0,
           "reviewsScore": 0,
@@ -1242,22 +1242,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "144.91 kcal / 606 kJ",
-            "carbohydrate": "14.35g",
-            "dietaryFiber": "2.24g",
-            "fat": "7.04g",
-            "protein": "5.53g",
-            "salt": "0.23g",
-            "saturatedFattyAcids": "2.11g",
-            "sugar": "5.28g",
+            "calories": "211.93 kcal / 886 kJ",
+            "carbohydrate": "21.01g",
+            "dietaryFiber": "3.29g",
+            "fat": "10.34g",
+            "protein": "8.01g",
+            "salt": "0.33g",
+            "saturatedFattyAcids": "3.01g",
+            "sugar": "7.43g",
             "thermo": "COLD"
           }
         },
         {
-          "dietCaloriesMealId": 239,
+          "dietCaloriesMealId": 238,
           "name": "Zupa chińska z kurczakiem i makaronem ryżowym",
           "label": "Standard 5 posiłków",
-          "info": "181 kcal • B:10g • W:17g • T:8g",
+          "info": "256 kcal • B:13g • W:26g • T:11g",
           "thermo": "WARM",
           "reviewsNumber": 9,
           "reviewsScore": 66.67,
@@ -1297,12 +1297,12 @@
                 "exclusion": []
               },
               {
-                "name": "Mieszanka warzyw chińska (marchew słupki, kapusta biała, papryka melanż, cebula plastry, pietruszka słupki, por plastry, bambus pędy, grzyby MUN)",
+                "name": "Makaron ryżowy vermicelli cienki (mąka ryżowa)",
                 "major": false,
                 "exclusion": []
               },
               {
-                "name": "Makaron ryżowy vermicelli cienki (mąka ryżowa)",
+                "name": "Mieszanka warzyw chińska (marchew słupki, kapusta biała, papryka melanż, cebula plastry, pietruszka słupki, por plastry, bambus pędy, grzyby MUN)",
                 "major": false,
                 "exclusion": []
               },
@@ -1408,17 +1408,6 @@
                 "exclusion": []
               },
               {
-                "name": "Imbir mielony",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 202,
-                    "name": "imbir",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
                 "name": "Olej rzepakowy",
                 "major": false,
                 "exclusion": [
@@ -1430,6 +1419,17 @@
                   {
                     "dietaryExclusionId": 488,
                     "name": "rzepa",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Imbir mielony",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 202,
+                    "name": "imbir",
                     "chosen": false
                   }
                 ]
@@ -1457,17 +1457,6 @@
                 ]
               },
               {
-                "name": "Pieprz czarny mielony",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 419,
-                    "name": "pieprz",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
                 "name": "Tymianek",
                 "major": false,
                 "exclusion": [
@@ -1477,17 +1466,28 @@
                     "chosen": false
                   }
                 ]
+              },
+              {
+                "name": "Pieprz czarny mielony",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 419,
+                    "name": "pieprz",
+                    "chosen": false
+                  }
+                ]
               }
             ],
             "imageUrl": "",
-            "calories": "180.95 kcal / 757 kJ",
-            "carbohydrate": "16.97g",
-            "dietaryFiber": "1.46g",
-            "fat": "8.28g",
-            "protein": "9.99g",
-            "salt": "1.26g",
-            "saturatedFattyAcids": "1.06g",
-            "sugar": "5.07g",
+            "calories": "256.34 kcal / 1072 kJ",
+            "carbohydrate": "26.13g",
+            "dietaryFiber": "2.05g",
+            "fat": "11.1g",
+            "protein": "13.49g",
+            "salt": "1.76g",
+            "saturatedFattyAcids": "1.42g",
+            "sugar": "7.21g",
             "thermo": "WARM"
           }
         }
@@ -1495,13 +1495,13 @@
     },
     {
       "name": "Kolacja",
-      "baseDietCaloriesMealId": 270,
+      "baseDietCaloriesMealId": 267,
       "options": [
         {
-          "dietCaloriesMealId": 270,
+          "dietCaloriesMealId": 267,
           "name": "Zapiekanka makaronowa z fasolką szparagową podana z sosem 1000 wysp i warzywami",
           "label": "Odchudzająca 5 posiłków",
-          "info": "251 kcal • B:9g • W:20g • T:15g",
+          "info": "355 kcal • B:14g • W:29g • T:20g",
           "thermo": "WARM",
           "reviewsNumber": 44,
           "reviewsScore": 97.73,
@@ -1562,11 +1562,6 @@
                 "exclusion": []
               },
               {
-                "name": "Majonez (woda, olej słonecznikowy (29%), cukier, ocet spirytusowy, żółtko JAJA (3,5%), musztarda (woda, GORCZYCA, ocet spirytusowy, sól, aromaty, przyprawy), sól, skrobia modyfikowana, emulgator (polirycynooleinian poliglicerolu), substancja zagęszczająca (guma ksantanowa), zagęszczony sok z cytryny, substancja konserwująca (sorbinian potasu), aromaty, przeciwutleniacz (sól wapniowo-disodowa EDTA), ekstrakt z papryki, barwnik (karoteny))",
-                "major": false,
-                "exclusion": []
-              },
-              {
                 "name": "Ser Mozzarella (mini kulki) (MLEKO, sól, podpuszczka, kultury bakterii kwasu mlekowego)",
                 "major": false,
                 "exclusion": []
@@ -1582,12 +1577,17 @@
                 "exclusion": []
               },
               {
-                "name": "Ketchup (Woda, koncentrat pomidorowy (w przeliczeniu na pomidora 135g na 100g ketchupu), cukier, skrobia modyfikowana, mieszanka octowa (ocet spirytusowy, ocet winny biały), sól, przyprawy, regulator kwasowości (kwas cytrynowy), substancja konserwująca (benzoesan sodu))",
+                "name": "Majonez (woda, olej słonecznikowy (29%), cukier, ocet spirytusowy, żółtko JAJA (3,5%), musztarda (woda, GORCZYCA, ocet spirytusowy, sól, aromaty, przyprawy), sól, skrobia modyfikowana, emulgator (polirycynooleinian poliglicerolu), substancja zagęszczająca (guma ksantanowa), zagęszczony sok z cytryny, substancja konserwująca (sorbinian potasu), aromaty, przeciwutleniacz (sól wapniowo-disodowa EDTA), ekstrakt z papryki, barwnik (karoteny))",
                 "major": false,
                 "exclusion": []
               },
               {
                 "name": "Jaja kurze",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Ketchup (Woda, koncentrat pomidorowy (w przeliczeniu na pomidora 135g na 100g ketchupu), cukier, skrobia modyfikowana, mieszanka octowa (ocet spirytusowy, ocet winny biały), sól, przyprawy, regulator kwasowości (kwas cytrynowy), substancja konserwująca (benzoesan sodu))",
                 "major": false,
                 "exclusion": []
               },
@@ -1598,17 +1598,6 @@
                   {
                     "dietaryExclusionId": 214,
                     "name": "jogurt",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
-                "name": "Rukola",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 482,
-                    "name": "rukola",
                     "chosen": false
                   }
                 ]
@@ -1631,6 +1620,17 @@
                   {
                     "dietaryExclusionId": 58,
                     "name": "brokuł",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Rukola",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 482,
+                    "name": "rukola",
                     "chosen": false
                   }
                 ]
@@ -1730,22 +1730,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "250.62 kcal / 1048 kJ",
-            "carbohydrate": "20.08g",
-            "dietaryFiber": "3.73g",
-            "fat": "14.9g",
-            "protein": "9.07g",
-            "salt": "0.88g",
-            "saturatedFattyAcids": "4.61g",
-            "sugar": "4.95g",
+            "calories": "354.94 kcal / 1485 kJ",
+            "carbohydrate": "29.08g",
+            "dietaryFiber": "5.55g",
+            "fat": "20.45g",
+            "protein": "13.65g",
+            "salt": "1.1g",
+            "saturatedFattyAcids": "7.05g",
+            "sugar": "6.28g",
             "thermo": "WARM"
           }
         },
         {
-          "dietCaloriesMealId": 241,
+          "dietCaloriesMealId": 246,
           "name": "Pita z pieczonymi warzywami, mozzarellą i sosem musztardowym",
           "label": "Standard 5 posiłków",
-          "info": "279 kcal • B:13g • W:26g • T:14g",
+          "info": "430 kcal • B:19g • W:47g • T:18g",
           "thermo": "WARM",
           "reviewsNumber": 17,
           "reviewsScore": 88.24,
@@ -1870,28 +1870,6 @@
                 "exclusion": []
               },
               {
-                "name": "Szczypiorek",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 554,
-                    "name": "szczypiorek",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
-                "name": "Erytrol / Erytrytol",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 130,
-                    "name": "erytrol",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
                 "name": "Curry (kurkuma, kukurydza, kolendra, cebula, sól, kozieradka, czosnek, papryka słodka, chilli, gorczyca, kmin rzymski, imbir, goździk, pieprz czarny, cynamon, koper włoski, liść laurowy)",
                 "major": false,
                 "exclusion": []
@@ -1944,17 +1922,39 @@
                 "name": "Zioła prowansalskie (tymianek, bazylia, cząber, rozmaryn, oregano, estragon)",
                 "major": false,
                 "exclusion": []
+              },
+              {
+                "name": "Szczypiorek",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 554,
+                    "name": "szczypiorek",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Erytrol / Erytrytol",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 130,
+                    "name": "erytrol",
+                    "chosen": false
+                  }
+                ]
               }
             ],
             "imageUrl": "",
-            "calories": "279.18 kcal / 1168 kJ",
-            "carbohydrate": "25.66g",
-            "dietaryFiber": "2.01g",
-            "fat": "13.7g",
-            "protein": "12.83g",
-            "salt": "1.36g",
-            "saturatedFattyAcids": "4.65g",
-            "sugar": "5.09g",
+            "calories": "429.88 kcal / 1798 kJ",
+            "carbohydrate": "47.31g",
+            "dietaryFiber": "2.8g",
+            "fat": "17.84g",
+            "protein": "19.07g",
+            "salt": "2.1g",
+            "saturatedFattyAcids": "5.97g",
+            "sugar": "7.0g",
             "thermo": "WARM"
           }
         }

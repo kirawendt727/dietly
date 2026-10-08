@@ -1,16 +1,16 @@
 {
   "date": "2026-10-15",
-  "calories": 1200,
+  "calories": 1800,
   "meals": [
     {
       "name": "Śniadanie",
-      "baseDietCaloriesMealId": 247,
+      "baseDietCaloriesMealId": 249,
       "options": [
         {
-          "dietCaloriesMealId": 247,
+          "dietCaloriesMealId": 249,
           "name": "Granola z suszonymi figami z jogurtem i prażonymi jabłkami",
           "label": "Odchudzająca 5 posiłków",
-          "info": "281 kcal • B:8g • W:38g • T:10g",
+          "info": "417 kcal • B:13g • W:56g • T:15g",
           "thermo": "COLD",
           "reviewsNumber": 422,
           "reviewsScore": 96.21,
@@ -155,22 +155,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "280.51 kcal / 1173 kJ",
-            "carbohydrate": "38.06g",
-            "dietaryFiber": "4.47g",
-            "fat": "10.19g",
-            "protein": "8.31g",
-            "salt": "0.1g",
-            "saturatedFattyAcids": "3.6g",
-            "sugar": "22.4g",
+            "calories": "417.17 kcal / 1745 kJ",
+            "carbohydrate": "55.55g",
+            "dietaryFiber": "6.2g",
+            "fat": "15.49g",
+            "protein": "12.75g",
+            "salt": "0.17g",
+            "saturatedFattyAcids": "5.61g",
+            "sugar": "32.12g",
             "thermo": "COLD"
           }
         },
         {
-          "dietCaloriesMealId": 220,
+          "dietCaloriesMealId": 219,
           "name": "Śniadaniowa sałatka jajeczna z cheddarem, paluszkiem śniadaniowym i papryką",
           "label": "Standard 5 posiłków",
-          "info": "269 kcal • B:12g • W:24g • T:14g",
+          "info": "438 kcal • B:19g • W:42g • T:21g",
           "thermo": "COLD",
           "reviewsNumber": 46,
           "reviewsScore": 97.83,
@@ -302,14 +302,14 @@
               }
             ],
             "imageUrl": "",
-            "calories": "269.33 kcal / 1126 kJ",
-            "carbohydrate": "23.81g",
-            "dietaryFiber": "2.75g",
-            "fat": "13.83g",
-            "protein": "12.0g",
-            "salt": "1.69g",
-            "saturatedFattyAcids": "5.49g",
-            "sugar": "2.91g",
+            "calories": "438.0 kcal / 1832 kJ",
+            "carbohydrate": "42.45g",
+            "dietaryFiber": "4.09g",
+            "fat": "20.96g",
+            "protein": "19.08g",
+            "salt": "2.75g",
+            "saturatedFattyAcids": "8.27g",
+            "sugar": "4.6g",
             "thermo": "COLD"
           }
         }
@@ -317,13 +317,13 @@
     },
     {
       "name": "II śniadanie",
-      "baseDietCaloriesMealId": 253,
+      "baseDietCaloriesMealId": 255,
       "options": [
         {
-          "dietCaloriesMealId": 253,
+          "dietCaloriesMealId": 255,
           "name": "Zupa z papryką, pieczarkami i mieloną wieprzowiną",
           "label": "Odchudzająca 5 posiłków",
-          "info": "170 kcal • B:6g • W:9g • T:12g",
+          "info": "279 kcal • B:11g • W:14g • T:19g",
           "thermo": "WARM",
           "reviewsNumber": 56,
           "reviewsScore": 91.07,
@@ -499,22 +499,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "169.74 kcal / 710 kJ",
-            "carbohydrate": "8.72g",
-            "dietaryFiber": "1.72g",
-            "fat": "11.61g",
-            "protein": "6.43g",
-            "salt": "0.48g",
-            "saturatedFattyAcids": "4.61g",
-            "sugar": "2.08g",
+            "calories": "278.73 kcal / 1166 kJ",
+            "carbohydrate": "14.32g",
+            "dietaryFiber": "2.83g",
+            "fat": "19.07g",
+            "protein": "10.56g",
+            "salt": "0.79g",
+            "saturatedFattyAcids": "7.57g",
+            "sugar": "3.41g",
             "thermo": "WARM"
           }
         },
         {
-          "dietCaloriesMealId": 225,
+          "dietCaloriesMealId": 227,
           "name": "Proteinowa kasza manna na mleku z musem wiśniowym",
           "label": "Standard 5 posiłków",
-          "info": "125 kcal • B:8g • W:19g • T:2g",
+          "info": "205 kcal • B:13g • W:30g • T:4g",
           "thermo": "COLD_WARM",
           "reviewsNumber": 149,
           "reviewsScore": 93.96,
@@ -563,6 +563,11 @@
                 "exclusion": []
               },
               {
+                "name": "Cukier wanilinowy (Cukier kryształ, etylowanilina)",
+                "major": false,
+                "exclusion": []
+              },
+              {
                 "name": "Cukier",
                 "major": false,
                 "exclusion": [
@@ -574,25 +579,20 @@
                 ]
               },
               {
-                "name": "Cukier wanilinowy (Cukier kryształ, etylowanilina)",
-                "major": false,
-                "exclusion": []
-              },
-              {
                 "name": "Guma ksantanowa",
                 "major": false,
                 "exclusion": []
               }
             ],
             "imageUrl": "",
-            "calories": "125.34 kcal / 524 kJ",
-            "carbohydrate": "18.73g",
-            "dietaryFiber": "0.48g",
-            "fat": "2.12g",
-            "protein": "7.77g",
-            "salt": "0.11g",
-            "saturatedFattyAcids": "1.29g",
-            "sugar": "12.51g",
+            "calories": "204.6 kcal / 856 kJ",
+            "carbohydrate": "29.98g",
+            "dietaryFiber": "0.71g",
+            "fat": "3.55g",
+            "protein": "13.09g",
+            "salt": "0.18g",
+            "saturatedFattyAcids": "2.18g",
+            "sugar": "19.44g",
             "thermo": "COLD_WARM"
           }
         }
@@ -600,13 +600,13 @@
     },
     {
       "name": "Obiad",
-      "baseDietCaloriesMealId": 260,
+      "baseDietCaloriesMealId": 261,
       "options": [
         {
-          "dietCaloriesMealId": 260,
+          "dietCaloriesMealId": 261,
           "name": "Kurczak w sosie pomidorowo-szpinakowym z quinoa i surówką z marchewki",
           "label": "Odchudzająca 5 posiłków",
-          "info": "367 kcal • B:23g • W:28g • T:17g",
+          "info": "554 kcal • B:35g • W:42g • T:26g",
           "thermo": "WARM",
           "reviewsNumber": 309,
           "reviewsScore": 92.23,
@@ -657,11 +657,6 @@
                 ]
               },
               {
-                "name": "Marchew obrana",
-                "major": false,
-                "exclusion": []
-              },
-              {
                 "name": "Filet z piersi kurczaka (bez skóry)",
                 "major": false,
                 "exclusion": [
@@ -676,6 +671,11 @@
                     "chosen": false
                   }
                 ]
+              },
+              {
+                "name": "Marchew obrana",
+                "major": false,
+                "exclusion": []
               },
               {
                 "name": "Pulpa pomidorowa (przecier pomidorowy, sól morska)",
@@ -737,6 +737,17 @@
                 "exclusion": []
               },
               {
+                "name": "Czosnek",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 112,
+                    "name": "czosnek",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
                 "name": "Natka pietruszki",
                 "major": false,
                 "exclusion": [
@@ -756,17 +767,6 @@
                 "name": "Sok z cytryny (woda, zagęszczony sok z cytryny, substancje konserwujące: pirosiarczyn potasu)",
                 "major": false,
                 "exclusion": []
-              },
-              {
-                "name": "Czosnek",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 112,
-                    "name": "czosnek",
-                    "chosen": false
-                  }
-                ]
               },
               {
                 "name": "Sól",
@@ -835,22 +835,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "367.44 kcal / 1537 kJ",
-            "carbohydrate": "27.96g",
-            "dietaryFiber": "7.5g",
-            "fat": "16.86g",
-            "protein": "23.24g",
-            "salt": "2.52g",
-            "saturatedFattyAcids": "1.61g",
-            "sugar": "3.84g",
+            "calories": "554.27 kcal / 2319 kJ",
+            "carbohydrate": "41.96g",
+            "dietaryFiber": "10.77g",
+            "fat": "25.72g",
+            "protein": "34.96g",
+            "salt": "3.62g",
+            "saturatedFattyAcids": "2.45g",
+            "sugar": "5.3g",
             "thermo": "WARM"
           }
         },
         {
-          "dietCaloriesMealId": 234,
+          "dietCaloriesMealId": 229,
           "name": "Tilapia w sosie cytrynowo-maślanym z ryżem basmati i warzywami",
           "label": "Standard 5 posiłków",
-          "info": "380 kcal • B:21g • W:35g • T:17g",
+          "info": "569 kcal • B:34g • W:46g • T:27g",
           "thermo": "WARM",
           "reviewsNumber": 22,
           "reviewsScore": 100,
@@ -908,12 +908,12 @@
                 ]
               },
               {
-                "name": "Mieszanka warzyw (fasolka, marchew, brokuł) (Marchew plastry, brokuł, marchew żółta plastry, fasola płaskostrąkowa Romano)",
+                "name": "Ryba tilapia filet bez skóry ((może zawierać ości))",
                 "major": false,
                 "exclusion": []
               },
               {
-                "name": "Ryba tilapia filet bez skóry ((może zawierać ości))",
+                "name": "Mieszanka warzyw (fasolka, marchew, brokuł) (Marchew plastry, brokuł, marchew żółta plastry, fasola płaskostrąkowa Romano)",
                 "major": false,
                 "exclusion": []
               },
@@ -934,17 +934,6 @@
                 ]
               },
               {
-                "name": "Koper ogrodowy",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 264,
-                    "name": "koper",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
                 "name": "Olej rzepakowy",
                 "major": false,
                 "exclusion": [
@@ -956,6 +945,17 @@
                   {
                     "dietaryExclusionId": 488,
                     "name": "rzepa",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Koper ogrodowy",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 264,
+                    "name": "koper",
                     "chosen": false
                   }
                 ]
@@ -993,6 +993,11 @@
                 "exclusion": []
               },
               {
+                "name": "Musztarda francuska (woda, GORCZYCA biała, GORCZYCA czarna, ocet spirytusowy, ocet jabłkowy, sól, cukier, stabilizator (guma ksantanowa, guma guar), przyprawy, barwnik (kurkumina))",
+                "major": false,
+                "exclusion": []
+              },
+              {
                 "name": "Sól",
                 "major": false,
                 "exclusion": [
@@ -1002,11 +1007,6 @@
                     "chosen": false
                   }
                 ]
-              },
-              {
-                "name": "Musztarda francuska (woda, GORCZYCA biała, GORCZYCA czarna, ocet spirytusowy, ocet jabłkowy, sól, cukier, stabilizator (guma ksantanowa, guma guar), przyprawy, barwnik (kurkumina))",
-                "major": false,
-                "exclusion": []
               },
               {
                 "name": "Sos ponzu (Woda, sos SOJOWY (woda, ziarno SOI, PSZENICA, sól) (31%), cukier, ocet spirytusowy, koncentrat cytrynowy (3,1%), sól, naturalny aromat cytrynowy, ekstrakt drodżowy.)",
@@ -1053,14 +1053,14 @@
               }
             ],
             "imageUrl": "",
-            "calories": "380.01 kcal / 1589 kJ",
-            "carbohydrate": "34.57g",
-            "dietaryFiber": "3.64g",
-            "fat": "17.24g",
-            "protein": "20.51g",
-            "salt": "1.43g",
-            "saturatedFattyAcids": "8.27g",
-            "sugar": "2.34g",
+            "calories": "569.17 kcal / 2381 kJ",
+            "carbohydrate": "46.33g",
+            "dietaryFiber": "4.76g",
+            "fat": "26.73g",
+            "protein": "34.42g",
+            "salt": "2.1g",
+            "saturatedFattyAcids": "12.37g",
+            "sugar": "3.53g",
             "thermo": "WARM"
           }
         }
@@ -1068,13 +1068,13 @@
     },
     {
       "name": "Podwieczorek",
-      "baseDietCaloriesMealId": 264,
+      "baseDietCaloriesMealId": 266,
       "options": [
         {
-          "dietCaloriesMealId": 264,
+          "dietCaloriesMealId": 266,
           "name": "Jesienne smoothie marchewka-pomarańcza",
           "label": "Odchudzająca 5 posiłków",
-          "info": "155 kcal • B:1g • W:37g • T:0g",
+          "info": "203 kcal • B:2g • W:49g • T:0g",
           "thermo": "COLD",
           "reviewsNumber": 0,
           "reviewsScore": 0,
@@ -1139,22 +1139,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "154.66 kcal / 647 kJ",
-            "carbohydrate": "37.1g",
-            "dietaryFiber": "3.23g",
-            "fat": "0.26g",
-            "protein": "1.46g",
-            "salt": "0.12g",
-            "saturatedFattyAcids": "0.05g",
-            "sugar": "31.44g",
+            "calories": "203.18 kcal / 850 kJ",
+            "carbohydrate": "48.73g",
+            "dietaryFiber": "4.24g",
+            "fat": "0.34g",
+            "protein": "1.92g",
+            "salt": "0.15g",
+            "saturatedFattyAcids": "0.06g",
+            "sugar": "41.3g",
             "thermo": "COLD"
           }
         },
         {
-          "dietCaloriesMealId": 239,
+          "dietCaloriesMealId": 238,
           "name": "Bigos z grzybami leśnymi i kiełbaską podany z bułeczką",
           "label": "Standard 5 posiłków",
-          "info": "176 kcal • B:7g • W:26g • T:5g",
+          "info": "332 kcal • B:13g • W:50g • T:8g",
           "thermo": "WARM",
           "reviewsNumber": 244,
           "reviewsScore": 90.16,
@@ -1318,14 +1318,14 @@
               }
             ],
             "imageUrl": "",
-            "calories": "175.92 kcal / 736 kJ",
-            "carbohydrate": "25.51g",
-            "dietaryFiber": "2.69g",
-            "fat": "4.86g",
-            "protein": "6.86g",
-            "salt": "1.45g",
-            "saturatedFattyAcids": "1.54g",
-            "sugar": "1.76g",
+            "calories": "332.03 kcal / 1389 kJ",
+            "carbohydrate": "50.08g",
+            "dietaryFiber": "4.85g",
+            "fat": "8.38g",
+            "protein": "12.76g",
+            "salt": "2.67g",
+            "saturatedFattyAcids": "2.65g",
+            "sugar": "3.2g",
             "thermo": "WARM"
           }
         }
@@ -1333,13 +1333,13 @@
     },
     {
       "name": "Kolacja",
-      "baseDietCaloriesMealId": 270,
+      "baseDietCaloriesMealId": 267,
       "options": [
         {
-          "dietCaloriesMealId": 270,
+          "dietCaloriesMealId": 267,
           "name": "Gruzińskie khinkali z mięsem podane z sosem adżika",
           "label": "Odchudzająca 5 posiłków",
-          "info": "264 kcal • B:8g • W:23g • T:16g",
+          "info": "404 kcal • B:12g • W:34g • T:24g",
           "thermo": "WARM",
           "reviewsNumber": 563,
           "reviewsScore": 96.27,
@@ -1498,11 +1498,11 @@
               }
             ],
             "imageUrl": "",
-            "calories": "263.58 kcal / 1102 kJ",
-            "carbohydrate": "22.5g",
+            "calories": "403.98 kcal / 1690 kJ",
+            "carbohydrate": "34.38g",
             "dietaryFiber": "0.58g",
-            "fat": "15.65g",
-            "protein": "7.69g",
+            "fat": "23.75g",
+            "protein": "12.28g",
             "salt": "0.25g",
             "saturatedFattyAcids": "0.27g",
             "sugar": "3.8g",
@@ -1510,10 +1510,10 @@
           }
         },
         {
-          "dietCaloriesMealId": 241,
+          "dietCaloriesMealId": 246,
           "name": "Wytrawne placuszki z warzywami i oregano podane z sosem blue cheese i warzywami",
           "label": "Standard 5 posiłków",
-          "info": "300 kcal • B:12g • W:23g • T:18g",
+          "info": "338 kcal • B:13g • W:26g • T:20g",
           "thermo": "WARM",
           "reviewsNumber": 64,
           "reviewsScore": 95.31,
@@ -1548,17 +1548,17 @@
             ],
             "ingredients": [
               {
-                "name": "Twaróg sernikowy (MLEKO, śmietanka, kultury mleczarskie)",
-                "major": false,
-                "exclusion": []
-              },
-              {
                 "name": "Ogórek konserwowy (Ogórki, woda, ocet spirytusowy, sól, przyprawy (koper, cebula, gorczyca, ziarna pieprzu), substancja konserwująca – benzoesan sodu, aromat naturalny, substancja słodząca – sacharyna.)",
                 "major": false,
                 "exclusion": []
               },
               {
                 "name": "Papryka czerwona (konserwowa) (Papryka czerwona, woda, ocet spirytusowy, cukier, sól, stabilizator – chlorek wapnia, substancja słodząca – sacharyna.)",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Twaróg sernikowy (MLEKO, śmietanka, kultury mleczarskie)",
                 "major": false,
                 "exclusion": []
               },
@@ -1726,14 +1726,14 @@
               }
             ],
             "imageUrl": "",
-            "calories": "300.46 kcal / 1257 kJ",
-            "carbohydrate": "23.47g",
-            "dietaryFiber": "1.93g",
-            "fat": "17.61g",
-            "protein": "11.71g",
-            "salt": "1.6g",
-            "saturatedFattyAcids": "2.61g",
-            "sugar": "6.4g",
+            "calories": "338.19 kcal / 1414 kJ",
+            "carbohydrate": "25.76g",
+            "dietaryFiber": "2.36g",
+            "fat": "20.4g",
+            "protein": "12.53g",
+            "salt": "2.28g",
+            "saturatedFattyAcids": "3.14g",
+            "sugar": "8.37g",
             "thermo": "WARM"
           }
         }

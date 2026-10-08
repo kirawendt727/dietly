@@ -1,16 +1,16 @@
 {
   "date": "2026-10-17",
-  "calories": 1200,
+  "calories": 1800,
   "meals": [
     {
       "name": "Śniadanie",
-      "baseDietCaloriesMealId": 247,
+      "baseDietCaloriesMealId": 249,
       "options": [
         {
-          "dietCaloriesMealId": 247,
+          "dietCaloriesMealId": 249,
           "name": "Jaglanka z białą czekoladą, musem ananasowym i jagodami goji",
           "label": "Odchudzająca 5 posiłków",
-          "info": "256 kcal • B:9g • W:36g • T:8g",
+          "info": "386 kcal • B:13g • W:54g • T:13g",
           "thermo": "COLD_WARM",
           "reviewsNumber": 5,
           "reviewsScore": 100,
@@ -97,22 +97,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "255.52 kcal / 1069 kJ",
-            "carbohydrate": "36.2g",
-            "dietaryFiber": "1.05g",
-            "fat": "8.12g",
-            "protein": "8.69g",
-            "salt": "0.2g",
-            "saturatedFattyAcids": "5.03g",
-            "sugar": "21.34g",
+            "calories": "386.37 kcal / 1616 kJ",
+            "carbohydrate": "53.89g",
+            "dietaryFiber": "1.42g",
+            "fat": "12.63g",
+            "protein": "13.26g",
+            "salt": "0.31g",
+            "saturatedFattyAcids": "7.83g",
+            "sugar": "31.16g",
             "thermo": "COLD_WARM"
           }
         },
         {
-          "dietCaloriesMealId": 220,
+          "dietCaloriesMealId": 219,
           "name": "Pasta z wędzonego twarogu z warzywami i ciabattą podana z pomidorem ze szczypiorkiem",
           "label": "Standard 5 posiłków",
-          "info": "263 kcal • B:15g • W:20g • T:13g",
+          "info": "362 kcal • B:21g • W:22g • T:21g",
           "thermo": "COLD",
           "reviewsNumber": 2,
           "reviewsScore": 100,
@@ -147,6 +147,11 @@
             ],
             "ingredients": [
               {
+                "name": "Twaróg wędzony (MLEKO, sól, kultury bakterii fermentacji mlekowej)",
+                "major": false,
+                "exclusion": []
+              },
+              {
                 "name": "Pomidor",
                 "major": false,
                 "exclusion": [
@@ -159,11 +164,6 @@
               },
               {
                 "name": "Ciabatta bolońska (mąka (PSZENNA 53%, ŻYTNIA 13%), woda, ekstrakt słodu JĘCZMIENNEGO (słód JĘCZMIENNY, woda), łamane ziarno SOI, drożdże, siemię lniane, sól, łamane ziarno PSZENICY, słonecznik, gluten PSZENNY, łamane ziarno ŻYTA, mąka ze słodu ŻYTNIEGO prażona, mąka ze słodu ŻYTNIEGO, mąka z prażonego słodu PSZENNEGO, nasiona SEZAMU, zakwas PSZENNY suszony, zakwas ŻYTNI suszony, mąka ze słodu JĘCZMIENNEGO, przyprawy, błonnik roślinny, ekstrakt ze słodu JĘCZMIENNEGO, mąka ze słodu PSZENNEGO, cukier, środek do przetwarzania mąki: kwas askorbinowy, glukoza (PSZENICA))",
-                "major": false,
-                "exclusion": []
-              },
-              {
-                "name": "Twaróg wędzony (MLEKO, sól, kultury bakterii fermentacji mlekowej)",
                 "major": false,
                 "exclusion": []
               },
@@ -190,6 +190,17 @@
                   {
                     "dietaryExclusionId": 395,
                     "name": "papryka",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Koper ogrodowy",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 264,
+                    "name": "koper",
                     "chosen": false
                   }
                 ]
@@ -236,28 +247,17 @@
                     "chosen": false
                   }
                 ]
-              },
-              {
-                "name": "Koper ogrodowy",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 264,
-                    "name": "koper",
-                    "chosen": false
-                  }
-                ]
               }
             ],
             "imageUrl": "",
-            "calories": "262.55 kcal / 1098 kJ",
-            "carbohydrate": "19.71g",
-            "dietaryFiber": "1.32g",
-            "fat": "13.29g",
-            "protein": "14.78g",
-            "salt": "0.59g",
-            "saturatedFattyAcids": "4.69g",
-            "sugar": "3.31g",
+            "calories": "362.46 kcal / 1516 kJ",
+            "carbohydrate": "22.21g",
+            "dietaryFiber": "1.78g",
+            "fat": "20.75g",
+            "protein": "20.5g",
+            "salt": "1.18g",
+            "saturatedFattyAcids": "9.2g",
+            "sugar": "5.49g",
             "thermo": "COLD"
           }
         }
@@ -265,13 +265,13 @@
     },
     {
       "name": "II śniadanie",
-      "baseDietCaloriesMealId": 253,
+      "baseDietCaloriesMealId": 255,
       "options": [
         {
-          "dietCaloriesMealId": 253,
+          "dietCaloriesMealId": 255,
           "name": "Sałatka z jajkiem, salami i ogórkiem konserwowym",
           "label": "Odchudzająca 5 posiłków",
-          "info": "156 kcal • B:6g • W:5g • T:12g",
+          "info": "240 kcal • B:10g • W:8g • T:19g",
           "thermo": "COLD",
           "reviewsNumber": 169,
           "reviewsScore": 78.7,
@@ -354,11 +354,6 @@
                 ]
               },
               {
-                "name": "Mix sałat",
-                "major": false,
-                "exclusion": []
-              },
-              {
                 "name": "Majonez (woda, olej słonecznikowy (29%), cukier, ocet spirytusowy, żółtko JAJA (3,5%), musztarda (woda, GORCZYCA, ocet spirytusowy, sól, aromaty, przyprawy), sól, skrobia modyfikowana, emulgator (polirycynooleinian poliglicerolu), substancja zagęszczająca (guma ksantanowa), zagęszczony sok z cytryny, substancja konserwująca (sorbinian potasu), aromaty, przeciwutleniacz (sól wapniowo-disodowa EDTA), ekstrakt z papryki, barwnik (karoteny))",
                 "major": false,
                 "exclusion": []
@@ -373,6 +368,11 @@
                     "chosen": false
                   }
                 ]
+              },
+              {
+                "name": "Mix sałat",
+                "major": false,
+                "exclusion": []
               },
               {
                 "name": "Szczypiorek",
@@ -414,22 +414,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "156.45 kcal / 654 kJ",
-            "carbohydrate": "5.01g",
-            "dietaryFiber": "0.91g",
-            "fat": "12.24g",
-            "protein": "6.45g",
-            "salt": "1.11g",
-            "saturatedFattyAcids": "3.19g",
-            "sugar": "2.06g",
+            "calories": "240.22 kcal / 1005 kJ",
+            "carbohydrate": "7.59g",
+            "dietaryFiber": "1.33g",
+            "fat": "18.86g",
+            "protein": "9.9g",
+            "salt": "1.71g",
+            "saturatedFattyAcids": "4.92g",
+            "sugar": "3.03g",
             "thermo": "COLD"
           }
         },
         {
-          "dietCaloriesMealId": 225,
+          "dietCaloriesMealId": 227,
           "name": "Sernik z galaretką jagodową i brzoskwiniami",
           "label": "Standard 5 posiłków",
-          "info": "159 kcal • B:3g • W:19g • T:8g",
+          "info": "238 kcal • B:4g • W:28g • T:12g",
           "thermo": "COLD",
           "reviewsNumber": 172,
           "reviewsScore": 97.09,
@@ -572,14 +572,14 @@
               }
             ],
             "imageUrl": "",
-            "calories": "158.54 kcal / 663 kJ",
-            "carbohydrate": "18.78g",
-            "dietaryFiber": "0.47g",
-            "fat": "7.92g",
-            "protein": "2.9g",
-            "salt": "0.23g",
-            "saturatedFattyAcids": "3.86g",
-            "sugar": "13.78g",
+            "calories": "237.8 kcal / 994 kJ",
+            "carbohydrate": "28.17g",
+            "dietaryFiber": "0.71g",
+            "fat": "11.88g",
+            "protein": "4.34g",
+            "salt": "0.34g",
+            "saturatedFattyAcids": "5.79g",
+            "sugar": "20.67g",
             "thermo": "COLD"
           }
         }
@@ -587,13 +587,13 @@
     },
     {
       "name": "Obiad",
-      "baseDietCaloriesMealId": 260,
+      "baseDietCaloriesMealId": 261,
       "options": [
         {
-          "dietCaloriesMealId": 260,
+          "dietCaloriesMealId": 261,
           "name": "Klopsiki mięsne z sosem pieczarkowym, puree z dynią i zielonym groszkiem",
           "label": "Odchudzająca 5 posiłków",
-          "info": "369 kcal • B:23g • W:26g • T:19g",
+          "info": "539 kcal • B:33g • W:35g • T:29g",
           "thermo": "WARM",
           "reviewsNumber": 38,
           "reviewsScore": 73.68,
@@ -877,22 +877,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "369.46 kcal / 1545 kJ",
-            "carbohydrate": "25.53g",
-            "dietaryFiber": "7.65g",
-            "fat": "19.37g",
-            "protein": "22.76g",
-            "salt": "1.16g",
-            "saturatedFattyAcids": "8.26g",
-            "sugar": "11.0g",
+            "calories": "538.87 kcal / 2254 kJ",
+            "carbohydrate": "35.49g",
+            "dietaryFiber": "10.42g",
+            "fat": "28.91g",
+            "protein": "32.93g",
+            "salt": "1.61g",
+            "saturatedFattyAcids": "12.4g",
+            "sugar": "14.56g",
             "thermo": "WARM"
           }
         },
         {
-          "dietCaloriesMealId": 234,
+          "dietCaloriesMealId": 229,
           "name": "Kurczak z warzywami w sosie teriyaki i chlebkiem naan",
           "label": "Standard 5 posiłków",
-          "info": "352 kcal • B:21g • W:30g • T:16g",
+          "info": "578 kcal • B:33g • W:56g • T:24g",
           "thermo": "WARM",
           "reviewsNumber": 11,
           "reviewsScore": 100,
@@ -1104,14 +1104,14 @@
               }
             ],
             "imageUrl": "",
-            "calories": "352.28 kcal / 1473 kJ",
-            "carbohydrate": "30.44g",
-            "dietaryFiber": "1.44g",
-            "fat": "15.75g",
-            "protein": "20.96g",
-            "salt": "0.98g",
-            "saturatedFattyAcids": "3.62g",
-            "sugar": "7.11g",
+            "calories": "577.53 kcal / 2416 kJ",
+            "carbohydrate": "55.69g",
+            "dietaryFiber": "1.82g",
+            "fat": "23.89g",
+            "protein": "32.55g",
+            "salt": "1.33g",
+            "saturatedFattyAcids": "4.7g",
+            "sugar": "10.76g",
             "thermo": "WARM"
           }
         }
@@ -1119,13 +1119,13 @@
     },
     {
       "name": "Podwieczorek",
-      "baseDietCaloriesMealId": 264,
+      "baseDietCaloriesMealId": 266,
       "options": [
         {
-          "dietCaloriesMealId": 264,
+          "dietCaloriesMealId": 266,
           "name": "Serek z dodatkiem rodzynek i biszkoptów",
           "label": "Odchudzająca 5 posiłków",
-          "info": "164 kcal • B:9g • W:22g • T:4g",
+          "info": "230 kcal • B:15g • W:27g • T:7g",
           "thermo": "COLD",
           "reviewsNumber": 37,
           "reviewsScore": 94.59,
@@ -1192,22 +1192,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "163.89 kcal / 685 kJ",
-            "carbohydrate": "21.63g",
-            "dietaryFiber": "0.64g",
-            "fat": "4.3g",
-            "protein": "9.35g",
-            "salt": "0.22g",
-            "saturatedFattyAcids": "0.29g",
-            "sugar": "13.54g",
+            "calories": "229.66 kcal / 960 kJ",
+            "carbohydrate": "26.6g",
+            "dietaryFiber": "0.9g",
+            "fat": "6.89g",
+            "protein": "14.76g",
+            "salt": "0.28g",
+            "saturatedFattyAcids": "0.32g",
+            "sugar": "18.29g",
             "thermo": "COLD"
           }
         },
         {
-          "dietCaloriesMealId": 239,
+          "dietCaloriesMealId": 238,
           "name": "Zupa z kiszonych ogórków",
           "label": "Standard 5 posiłków",
-          "info": "143 kcal • B:7g • W:10g • T:8g",
+          "info": "206 kcal • B:10g • W:14g • T:12g",
           "thermo": "WARM",
           "reviewsNumber": 0,
           "reviewsScore": 0,
@@ -1345,14 +1345,14 @@
               }
             ],
             "imageUrl": "",
-            "calories": "143.23 kcal / 599 kJ",
-            "carbohydrate": "9.59g",
-            "dietaryFiber": "1.39g",
-            "fat": "8.39g",
-            "protein": "6.84g",
-            "salt": "1.01g",
-            "saturatedFattyAcids": "4.53g",
-            "sugar": "1.69g",
+            "calories": "206.19 kcal / 862 kJ",
+            "carbohydrate": "13.8g",
+            "dietaryFiber": "2.0g",
+            "fat": "12.08g",
+            "protein": "9.85g",
+            "salt": "1.46g",
+            "saturatedFattyAcids": "6.52g",
+            "sugar": "2.44g",
             "thermo": "WARM"
           }
         }
@@ -1360,13 +1360,13 @@
     },
     {
       "name": "Kolacja",
-      "baseDietCaloriesMealId": 270,
+      "baseDietCaloriesMealId": 267,
       "options": [
         {
-          "dietCaloriesMealId": 270,
+          "dietCaloriesMealId": 267,
           "name": "Brukselkowo-bakłażanowa tarta z sosem akihabara",
           "label": "Odchudzająca 5 posiłków",
-          "info": "277 kcal • B:10g • W:24g • T:16g",
+          "info": "413 kcal • B:14g • W:36g • T:23g",
           "thermo": "COLD_WARM",
           "reviewsNumber": 58,
           "reviewsScore": 87.93,
@@ -1456,6 +1456,11 @@
                 ]
               },
               {
+                "name": "Sos sojowy ciemny (woda, SOJA, sól, mąka PSZENNA, cukier, substancja konserwująca- sorbinian potasu)",
+                "major": false,
+                "exclusion": []
+              },
+              {
                 "name": "Bakłażan (mrożony)",
                 "major": false,
                 "exclusion": [
@@ -1472,11 +1477,6 @@
                 "exclusion": []
               },
               {
-                "name": "Sos sojowy ciemny (woda, SOJA, sól, mąka PSZENNA, cukier, substancja konserwująca- sorbinian potasu)",
-                "major": false,
-                "exclusion": []
-              },
-              {
                 "name": "Miód pszczeli",
                 "major": false,
                 "exclusion": [
@@ -1486,6 +1486,11 @@
                     "chosen": false
                   }
                 ]
+              },
+              {
+                "name": "Ocet ryżowy (woda, ryż, sól)",
+                "major": false,
+                "exclusion": []
               },
               {
                 "name": "Rukola",
@@ -1499,17 +1504,7 @@
                 ]
               },
               {
-                "name": "Ocet ryżowy (woda, ryż, sól)",
-                "major": false,
-                "exclusion": []
-              },
-              {
                 "name": "śmietanka roślinna z białka soczewicy (Roztwór białka soczewicy (woda, białko soczewicy 2,5 %), olej rzepakowy, tłuszcz kokosowy, cukier, modyfikowana skrobia ziemniaczana, emulgator (polisorbat 60), stabilizatory (metyloceluloza, guma ksantanowa), regulator kwasowości (cytrynian trisodowy), aromat naturalny, sól, barwnik (karoteny))",
-                "major": false,
-                "exclusion": []
-              },
-              {
-                "name": "Cebulka prażona (Cebula 73%, olej palmowy, mąka pszenna, sól.)",
                 "major": false,
                 "exclusion": []
               },
@@ -1523,6 +1518,11 @@
                     "chosen": false
                   }
                 ]
+              },
+              {
+                "name": "Cebulka prażona (Cebula 73%, olej palmowy, mąka pszenna, sól.)",
+                "major": false,
+                "exclusion": []
               },
               {
                 "name": "Czosnek",
@@ -1607,22 +1607,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "276.51 kcal / 1156 kJ",
-            "carbohydrate": "23.85g",
-            "dietaryFiber": "2.03g",
-            "fat": "15.95g",
-            "protein": "9.66g",
-            "salt": "1.81g",
-            "saturatedFattyAcids": "8.66g",
-            "sugar": "8.99g",
+            "calories": "412.82 kcal / 1727 kJ",
+            "carbohydrate": "36.48g",
+            "dietaryFiber": "2.99g",
+            "fat": "23.43g",
+            "protein": "14.46g",
+            "salt": "2.89g",
+            "saturatedFattyAcids": "12.98g",
+            "sugar": "14.53g",
             "thermo": "COLD_WARM"
           }
         },
         {
-          "dietCaloriesMealId": 241,
+          "dietCaloriesMealId": 246,
           "name": "Fajita z warzywami i wieprzowiną",
           "label": "Standard 5 posiłków",
-          "info": "286 kcal • B:23g • W:7g • T:19g",
+          "info": "429 kcal • B:34g • W:11g • T:28g",
           "thermo": "WARM",
           "reviewsNumber": 0,
           "reviewsScore": 0,
@@ -1759,14 +1759,14 @@
               }
             ],
             "imageUrl": "",
-            "calories": "286.09 kcal / 1197 kJ",
-            "carbohydrate": "7.09g",
-            "dietaryFiber": "1.09g",
-            "fat": "18.76g",
-            "protein": "22.88g",
-            "salt": "0.48g",
-            "saturatedFattyAcids": "8.55g",
-            "sugar": "4.56g",
+            "calories": "429.14 kcal / 1795 kJ",
+            "carbohydrate": "10.62g",
+            "dietaryFiber": "1.62g",
+            "fat": "28.15g",
+            "protein": "34.31g",
+            "salt": "0.73g",
+            "saturatedFattyAcids": "12.83g",
+            "sugar": "6.85g",
             "thermo": "WARM"
           }
         }

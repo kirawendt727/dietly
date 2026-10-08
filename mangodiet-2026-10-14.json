@@ -1,16 +1,16 @@
 {
   "date": "2026-10-14",
-  "calories": 1200,
+  "calories": 1800,
   "meals": [
     {
       "name": "Śniadanie",
-      "baseDietCaloriesMealId": 247,
+      "baseDietCaloriesMealId": 249,
       "options": [
         {
-          "dietCaloriesMealId": 247,
+          "dietCaloriesMealId": 249,
           "name": "Pasta z soczewicy i suszonych pomidorów podana z bułeczką i ogórkiem kiszonym",
           "label": "Odchudzająca 5 posiłków",
-          "info": "277 kcal • B:13g • W:46g • T:4g",
+          "info": "413 kcal • B:20g • W:69g • T:6g",
           "thermo": "COLD",
           "reviewsNumber": 305,
           "reviewsScore": 91.48,
@@ -131,22 +131,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "276.69 kcal / 1157 kJ",
-            "carbohydrate": "45.92g",
-            "dietaryFiber": "5.54g",
-            "fat": "3.97g",
-            "protein": "13.17g",
-            "salt": "2.75g",
-            "saturatedFattyAcids": "0.56g",
-            "sugar": "3.99g",
+            "calories": "412.89 kcal / 1727 kJ",
+            "carbohydrate": "68.58g",
+            "dietaryFiber": "8.21g",
+            "fat": "5.93g",
+            "protein": "19.55g",
+            "salt": "3.73g",
+            "saturatedFattyAcids": "0.84g",
+            "sugar": "5.77g",
             "thermo": "COLD"
           }
         },
         {
-          "dietCaloriesMealId": 220,
+          "dietCaloriesMealId": 219,
           "name": "Gofry podane z nutellą śliwkowo-żurawinową i jabłkiem",
           "label": "Standard 5 posiłków",
-          "info": "261 kcal • B:4g • W:46g • T:7g",
+          "info": "380 kcal • B:6g • W:66g • T:11g",
           "thermo": "COLD",
           "reviewsNumber": 0,
           "reviewsScore": 0,
@@ -234,14 +234,14 @@
               }
             ],
             "imageUrl": "",
-            "calories": "261.35 kcal / 1093 kJ",
-            "carbohydrate": "45.96g",
-            "dietaryFiber": "4.43g",
-            "fat": "7.2g",
-            "protein": "4.12g",
-            "salt": "0.38g",
-            "saturatedFattyAcids": "0.82g",
-            "sugar": "25.91g",
+            "calories": "380.09 kcal / 1590 kJ",
+            "carbohydrate": "66.2g",
+            "dietaryFiber": "6.22g",
+            "fat": "10.71g",
+            "protein": "6.07g",
+            "salt": "0.57g",
+            "saturatedFattyAcids": "1.21g",
+            "sugar": "36.56g",
             "thermo": "COLD"
           }
         }
@@ -249,13 +249,13 @@
     },
     {
       "name": "II śniadanie",
-      "baseDietCaloriesMealId": 253,
+      "baseDietCaloriesMealId": 255,
       "options": [
         {
-          "dietCaloriesMealId": 253,
+          "dietCaloriesMealId": 255,
           "name": "Kremowy deser mango z posypką kokos-migdał-czekolada",
           "label": "Odchudzająca 5 posiłków",
-          "info": "165 kcal • B:4g • W:10g • T:12g",
+          "info": "240 kcal • B:5g • W:15g • T:18g",
           "thermo": "COLD",
           "reviewsNumber": 42,
           "reviewsScore": 97.62,
@@ -354,22 +354,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "164.76 kcal / 689 kJ",
-            "carbohydrate": "10.17g",
-            "dietaryFiber": "1.11g",
-            "fat": "12.3g",
-            "protein": "3.71g",
-            "salt": "0.06g",
-            "saturatedFattyAcids": "5.05g",
-            "sugar": "8.22g",
+            "calories": "239.67 kcal / 1002 kJ",
+            "carbohydrate": "14.51g",
+            "dietaryFiber": "1.79g",
+            "fat": "17.99g",
+            "protein": "5.35g",
+            "salt": "0.08g",
+            "saturatedFattyAcids": "7.45g",
+            "sugar": "11.66g",
             "thermo": "COLD"
           }
         },
         {
-          "dietCaloriesMealId": 225,
+          "dietCaloriesMealId": 227,
           "name": "Ragu pomidorowe z cukinią, kaparami i szarpanym kurczakiem",
           "label": "Standard 5 posiłków",
-          "info": "167 kcal • B:10g • W:9g • T:10g",
+          "info": "244 kcal • B:15g • W:11g • T:15g",
           "thermo": "WARM",
           "reviewsNumber": 83,
           "reviewsScore": 93.98,
@@ -522,6 +522,17 @@
                 "exclusion": []
               },
               {
+                "name": "Sól",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 531,
+                    "name": "sól",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
                 "name": "Bazylia (suszona)",
                 "major": false,
                 "exclusion": [
@@ -539,17 +550,6 @@
                   {
                     "dietaryExclusionId": 395,
                     "name": "papryka",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
-                "name": "Sól",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 531,
-                    "name": "sól",
                     "chosen": false
                   }
                 ]
@@ -583,14 +583,14 @@
               }
             ],
             "imageUrl": "",
-            "calories": "167.35 kcal / 700 kJ",
-            "carbohydrate": "8.7g",
-            "dietaryFiber": "2.51g",
-            "fat": "10.3g",
-            "protein": "9.75g",
-            "salt": "1.58g",
-            "saturatedFattyAcids": "1.24g",
-            "sugar": "6.15g",
+            "calories": "244.23 kcal / 1021 kJ",
+            "carbohydrate": "11.03g",
+            "dietaryFiber": "3.33g",
+            "fat": "15.43g",
+            "protein": "15.04g",
+            "salt": "2.15g",
+            "saturatedFattyAcids": "1.91g",
+            "sugar": "7.71g",
             "thermo": "WARM"
           }
         }
@@ -598,13 +598,13 @@
     },
     {
       "name": "Obiad",
-      "baseDietCaloriesMealId": 260,
+      "baseDietCaloriesMealId": 261,
       "options": [
         {
-          "dietCaloriesMealId": 260,
+          "dietCaloriesMealId": 261,
           "name": "Pulpeciki drobiowe w sosie śmietanowym z kaszą gryczaną i surówką czerwony colesław",
           "label": "Odchudzająca 5 posiłków",
-          "info": "386 kcal • B:21g • W:33g • T:19g",
+          "info": "571 kcal • B:32g • W:49g • T:27g",
           "thermo": null,
           "reviewsNumber": 25,
           "reviewsScore": 88,
@@ -752,23 +752,23 @@
                 ]
               },
               {
-                "name": "Koper ogrodowy",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 264,
-                    "name": "koper",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
                 "name": "Masło extra 83%",
                 "major": false,
                 "exclusion": [
                   {
                     "dietaryExclusionId": 326,
                     "name": "masło",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Koper ogrodowy",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 264,
+                    "name": "koper",
                     "chosen": false
                   }
                 ]
@@ -861,22 +861,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "385.64 kcal / 1613 kJ",
-            "carbohydrate": "32.5g",
-            "dietaryFiber": "5.99g",
-            "fat": "18.83g",
-            "protein": "21.19g",
-            "salt": "1.78g",
-            "saturatedFattyAcids": "5.2g",
-            "sugar": "3.37g",
+            "calories": "570.83 kcal / 2388 kJ",
+            "carbohydrate": "48.74g",
+            "dietaryFiber": "8.73g",
+            "fat": "27.45g",
+            "protein": "31.7g",
+            "salt": "2.61g",
+            "saturatedFattyAcids": "7.81g",
+            "sugar": "4.62g",
             "thermo": null
           }
         },
         {
-          "dietCaloriesMealId": 234,
+          "dietCaloriesMealId": 229,
           "name": "Mielone mięso z indyka na serowym beszamelu z bazylią, pieczonymi ziemniakami i buraczkami",
           "label": "Standard 5 posiłków",
-          "info": "400 kcal • B:22g • W:33g • T:20g",
+          "info": "585 kcal • B:32g • W:48g • T:30g",
           "thermo": "WARM",
           "reviewsNumber": 39,
           "reviewsScore": 97.44,
@@ -1013,6 +1013,11 @@
                 "exclusion": []
               },
               {
+                "name": "Ser Lazur tarty (MLEKO, sól, bakterie fermentacji mlekowej, szlachetna pleśń Penicillium roqueufort)",
+                "major": false,
+                "exclusion": []
+              },
+              {
                 "name": "Sól",
                 "major": false,
                 "exclusion": [
@@ -1022,11 +1027,6 @@
                     "chosen": false
                   }
                 ]
-              },
-              {
-                "name": "Ser Lazur tarty (MLEKO, sól, bakterie fermentacji mlekowej, szlachetna pleśń Penicillium roqueufort)",
-                "major": false,
-                "exclusion": []
               },
               {
                 "name": "Mąka pszenna (typ 500)",
@@ -1051,17 +1051,6 @@
                 ]
               },
               {
-                "name": "Czosnek",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 112,
-                    "name": "czosnek",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
                 "name": "Masło extra 83%",
                 "major": false,
                 "exclusion": [
@@ -1073,6 +1062,22 @@
                 ]
               },
               {
+                "name": "Czosnek",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 112,
+                    "name": "czosnek",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Pesto zielone z bazylii (bazylia, olej słonecznikowy, oliwa z oliwek, orzechy nerkowca, woda, ser Grana Padano (MLEKO, sól, podpuszczka (zawiera lizozym z białka JAJA)), skrobia ziemniaczana, cukier, sól, czosnek, ORZESZKI piniowe, przeciwutleniacz: kwas askorbinowy, regulator kwasowości: kwas mlekowy)",
+                "major": false,
+                "exclusion": []
+              },
+              {
                 "name": "Pieprz czarny mielony",
                 "major": false,
                 "exclusion": [
@@ -1082,11 +1087,6 @@
                     "chosen": false
                   }
                 ]
-              },
-              {
-                "name": "Pesto zielone z bazylii (bazylia, olej słonecznikowy, oliwa z oliwek, orzechy nerkowca, woda, ser Grana Padano (MLEKO, sól, podpuszczka (zawiera lizozym z białka JAJA)), skrobia ziemniaczana, cukier, sól, czosnek, ORZESZKI piniowe, przeciwutleniacz: kwas askorbinowy, regulator kwasowości: kwas mlekowy)",
-                "major": false,
-                "exclusion": []
               },
               {
                 "name": "Czosnek granulowany",
@@ -1144,17 +1144,6 @@
                 ]
               },
               {
-                "name": "Mielona gałka muszkatołowa",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 597,
-                    "name": "uszka",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
                 "name": "Mielona papryka chili",
                 "major": false,
                 "exclusion": [
@@ -1175,17 +1164,28 @@
                     "chosen": false
                   }
                 ]
+              },
+              {
+                "name": "Mielona gałka muszkatołowa",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 597,
+                    "name": "uszka",
+                    "chosen": false
+                  }
+                ]
               }
             ],
             "imageUrl": "",
-            "calories": "399.85 kcal / 1672 kJ",
-            "carbohydrate": "33.36g",
-            "dietaryFiber": "4.48g",
-            "fat": "19.92g",
-            "protein": "21.58g",
-            "salt": "4.5g",
-            "saturatedFattyAcids": "5.38g",
-            "sugar": "10.9g",
+            "calories": "584.99 kcal / 2447 kJ",
+            "carbohydrate": "47.56g",
+            "dietaryFiber": "6.32g",
+            "fat": "29.5g",
+            "protein": "32.03g",
+            "salt": "6.4g",
+            "saturatedFattyAcids": "8.03g",
+            "sugar": "14.26g",
             "thermo": "WARM"
           }
         }
@@ -1193,13 +1193,13 @@
     },
     {
       "name": "Podwieczorek",
-      "baseDietCaloriesMealId": 264,
+      "baseDietCaloriesMealId": 266,
       "options": [
         {
-          "dietCaloriesMealId": 264,
+          "dietCaloriesMealId": 266,
           "name": "Sałatka jarzynowa klasyczna z chrupkim chlebkiem",
           "label": "Odchudzająca 5 posiłków",
-          "info": "146 kcal • B:5g • W:15g • T:7g",
+          "info": "226 kcal • B:7g • W:24g • T:11g",
           "thermo": "COLD",
           "reviewsNumber": 41,
           "reviewsScore": 90.24,
@@ -1248,6 +1248,11 @@
                 "exclusion": []
               },
               {
+                "name": "Pieczywo lekkie żytnie (60,1% mąka ŻYTNIA, mąka PSZENNA, woda, 2,6% błonnik PSZENNY, ekstrakt słodowy JĘCZMIENNY, 2% inulina, sól, substancja spulchniająca: wodorowęglan sodu)",
+                "major": false,
+                "exclusion": []
+              },
+              {
                 "name": "Ogórek kiszony",
                 "major": false,
                 "exclusion": []
@@ -1283,11 +1288,6 @@
                     "chosen": false
                   }
                 ]
-              },
-              {
-                "name": "Pieczywo lekkie żytnie (60,1% mąka ŻYTNIA, mąka PSZENNA, woda, 2,6% błonnik PSZENNY, ekstrakt słodowy JĘCZMIENNY, 2% inulina, sól, substancja spulchniająca: wodorowęglan sodu)",
-                "major": false,
-                "exclusion": []
               },
               {
                 "name": "Cebula",
@@ -1340,22 +1340,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "146.14 kcal / 611 kJ",
-            "carbohydrate": "14.77g",
-            "dietaryFiber": "2.72g",
-            "fat": "7.46g",
-            "protein": "4.57g",
-            "salt": "0.68g",
-            "saturatedFattyAcids": "0.63g",
-            "sugar": "3.77g",
+            "calories": "226.18 kcal / 946 kJ",
+            "carbohydrate": "24.3g",
+            "dietaryFiber": "4.28g",
+            "fat": "10.9g",
+            "protein": "6.95g",
+            "salt": "0.99g",
+            "saturatedFattyAcids": "0.93g",
+            "sugar": "5.48g",
             "thermo": "COLD"
           }
         },
         {
-          "dietCaloriesMealId": 239,
+          "dietCaloriesMealId": 238,
           "name": "Kremowy deser jagoda-jeżyna podany z kiwi",
           "label": "Standard 5 posiłków",
-          "info": "158 kcal • B:2g • W:12g • T:11g",
+          "info": "261 kcal • B:3g • W:17g • T:20g",
           "thermo": "COLD",
           "reviewsNumber": 9,
           "reviewsScore": 88.89,
@@ -1437,14 +1437,14 @@
               }
             ],
             "imageUrl": "",
-            "calories": "158.15 kcal / 661 kJ",
-            "carbohydrate": "11.89g",
-            "dietaryFiber": "2.5g",
-            "fat": "11.33g",
-            "protein": "2.1g",
-            "salt": "0.05g",
-            "saturatedFattyAcids": "6.15g",
-            "sugar": "5.33g",
+            "calories": "260.63 kcal / 1090 kJ",
+            "carbohydrate": "17.06g",
+            "dietaryFiber": "3.89g",
+            "fat": "19.82g",
+            "protein": "3.37g",
+            "salt": "0.08g",
+            "saturatedFattyAcids": "11.17g",
+            "sugar": "8.76g",
             "thermo": "COLD"
           }
         }
@@ -1452,13 +1452,13 @@
     },
     {
       "name": "Kolacja",
-      "baseDietCaloriesMealId": 270,
+      "baseDietCaloriesMealId": 267,
       "options": [
         {
-          "dietCaloriesMealId": 270,
+          "dietCaloriesMealId": 267,
           "name": "Indyjska potrawka z ziemniakami, brokułem i pieczoną ciecierzycą",
           "label": "Odchudzająca 5 posiłków",
-          "info": "243 kcal • B:8g • W:23g • T:13g",
+          "info": "358 kcal • B:12g • W:34g • T:19g",
           "thermo": "WARM",
           "reviewsNumber": 44,
           "reviewsScore": 81.82,
@@ -1498,12 +1498,12 @@
                 "exclusion": []
               },
               {
-                "name": "śmietanka roślinna z białka soczewicy (Roztwór białka soczewicy (woda, białko soczewicy 2,5 %), olej rzepakowy, tłuszcz kokosowy, cukier, modyfikowana skrobia ziemniaczana, emulgator (polisorbat 60), stabilizatory (metyloceluloza, guma ksantanowa), regulator kwasowości (cytrynian trisodowy), aromat naturalny, sól, barwnik (karoteny))",
+                "name": "Ciecierzyca (w zalewie) (ciecierzyca, woda, sól )",
                 "major": false,
                 "exclusion": []
               },
               {
-                "name": "Ciecierzyca (w zalewie) (ciecierzyca, woda, sól )",
+                "name": "śmietanka roślinna z białka soczewicy (Roztwór białka soczewicy (woda, białko soczewicy 2,5 %), olej rzepakowy, tłuszcz kokosowy, cukier, modyfikowana skrobia ziemniaczana, emulgator (polisorbat 60), stabilizatory (metyloceluloza, guma ksantanowa), regulator kwasowości (cytrynian trisodowy), aromat naturalny, sól, barwnik (karoteny))",
                 "major": false,
                 "exclusion": []
               },
@@ -1649,6 +1649,17 @@
                 "exclusion": []
               },
               {
+                "name": "Mielona słodka papryka",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 395,
+                    "name": "papryka",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
                 "name": "Kardamon",
                 "major": false,
                 "exclusion": [
@@ -1674,36 +1685,25 @@
                     "chosen": false
                   }
                 ]
-              },
-              {
-                "name": "Mielona słodka papryka",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 395,
-                    "name": "papryka",
-                    "chosen": false
-                  }
-                ]
               }
             ],
             "imageUrl": "",
-            "calories": "243.2 kcal / 1017 kJ",
-            "carbohydrate": "22.98g",
-            "dietaryFiber": "5.29g",
-            "fat": "12.98g",
-            "protein": "7.71g",
-            "salt": "2.33g",
-            "saturatedFattyAcids": "3.74g",
-            "sugar": "4.19g",
+            "calories": "358.29 kcal / 1499 kJ",
+            "carbohydrate": "33.87g",
+            "dietaryFiber": "7.98g",
+            "fat": "19.02g",
+            "protein": "11.54g",
+            "salt": "3.42g",
+            "saturatedFattyAcids": "5.39g",
+            "sugar": "6.03g",
             "thermo": "WARM"
           }
         },
         {
-          "dietCaloriesMealId": 241,
+          "dietCaloriesMealId": 246,
           "name": "Pikantny twarożek jalapeno-cheddar z ciabattą i ogórkiem",
           "label": "Standard 5 posiłków",
-          "info": "240 kcal • B:15g • W:28g • T:7g",
+          "info": "378 kcal • B:21g • W:51g • T:9g",
           "thermo": "COLD",
           "reviewsNumber": 11,
           "reviewsScore": 90.91,
@@ -1731,12 +1731,12 @@
                 "exclusion": []
               },
               {
-                "name": "Ogórek zielony",
+                "name": "Bułka ciabatta (mąka PSZENNA, woda, sól, drożdże)",
                 "major": false,
                 "exclusion": []
               },
               {
-                "name": "Bułka ciabatta (mąka PSZENNA, woda, sól, drożdże)",
+                "name": "Ogórek zielony",
                 "major": false,
                 "exclusion": []
               },
@@ -1802,14 +1802,14 @@
               }
             ],
             "imageUrl": "",
-            "calories": "240.36 kcal / 1005 kJ",
-            "carbohydrate": "27.57g",
-            "dietaryFiber": "1.63g",
-            "fat": "7.48g",
-            "protein": "15.0g",
-            "salt": "1.41g",
-            "saturatedFattyAcids": "2.34g",
-            "sugar": "5.04g",
+            "calories": "378.18 kcal / 1582 kJ",
+            "carbohydrate": "51.04g",
+            "dietaryFiber": "2.74g",
+            "fat": "9.44g",
+            "protein": "21.01g",
+            "salt": "2.24g",
+            "saturatedFattyAcids": "2.92g",
+            "sugar": "6.62g",
             "thermo": "COLD"
           }
         }

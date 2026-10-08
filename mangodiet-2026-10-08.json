@@ -1,16 +1,16 @@
 {
   "date": "2026-10-08",
-  "calories": 1200,
+  "calories": 1800,
   "meals": [
     {
       "name": "Śniadanie",
-      "baseDietCaloriesMealId": 247,
+      "baseDietCaloriesMealId": 249,
       "options": [
         {
-          "dietCaloriesMealId": 247,
+          "dietCaloriesMealId": 249,
           "name": "Pasta z zielonej soczewicy z tahini podana z tortillą pełnoziarnistą i warzywami",
           "label": "Odchudzająca 5 posiłków",
-          "info": "288 kcal • B:11g • W:36g • T:11g",
+          "info": "511 kcal • B:19g • W:72g • T:17g",
           "thermo": "COLD",
           "reviewsNumber": 304,
           "reviewsScore": 86.84,
@@ -39,6 +39,11 @@
             ],
             "ingredients": [
               {
+                "name": "Tortilla pełnoziarnista (mąka PSZENNA pełnoziarnista, woda, olej rzepakowy, stabilizatory: glicerol, guma guar; GLUTEN PSZENNY, sól, glukoza (z PSZENICY), emulgator: mono- i diglicerydy kwasów tłuszczowych; substancje spulchniające: węglany sodu; regulator kwasowości: kwas jabłkowy; środek do przetwarzania mąki: L-cysteina)",
+                "major": false,
+                "exclusion": []
+              },
+              {
                 "name": "Soczewica zielona",
                 "major": false,
                 "exclusion": [
@@ -48,11 +53,6 @@
                     "chosen": false
                   }
                 ]
-              },
-              {
-                "name": "Tortilla pełnoziarnista (mąka PSZENNA pełnoziarnista, woda, olej rzepakowy, stabilizatory: glicerol, guma guar; GLUTEN PSZENNY, sól, glukoza (z PSZENICY), emulgator: mono- i diglicerydy kwasów tłuszczowych; substancje spulchniające: węglany sodu; regulator kwasowości: kwas jabłkowy; środek do przetwarzania mąki: L-cysteina)",
-                "major": false,
-                "exclusion": []
               },
               {
                 "name": "Ogórek konserwowy (Ogórki, woda, ocet spirytusowy, sól, przyprawy (koper, cebula, gorczyca, ziarna pieprzu), substancja konserwująca – benzoesan sodu, aromat naturalny, substancja słodząca – sacharyna.)",
@@ -164,22 +164,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "288.41 kcal / 1206 kJ",
-            "carbohydrate": "36.36g",
-            "dietaryFiber": "5.69g",
-            "fat": "11.21g",
-            "protein": "11.0g",
-            "salt": "1.32g",
-            "saturatedFattyAcids": "2.99g",
-            "sugar": "3.85g",
+            "calories": "511.24 kcal / 2139 kJ",
+            "carbohydrate": "72.0g",
+            "dietaryFiber": "10.72g",
+            "fat": "16.77g",
+            "protein": "18.71g",
+            "salt": "2.37g",
+            "saturatedFattyAcids": "6.62g",
+            "sugar": "6.93g",
             "thermo": "COLD"
           }
         },
         {
-          "dietCaloriesMealId": 220,
+          "dietCaloriesMealId": 219,
           "name": "Naleśniki podane z frużeliną śliwkowo-cynamonową i serkiem",
           "label": "Standard 5 posiłków",
-          "info": "224 kcal • B:8g • W:26g • T:7g",
+          "info": "394 kcal • B:13g • W:46g • T:13g",
           "thermo": "COLD_WARM",
           "reviewsNumber": 0,
           "reviewsScore": 0,
@@ -295,14 +295,14 @@
               }
             ],
             "imageUrl": "",
-            "calories": "223.81 kcal / 936 kJ",
-            "carbohydrate": "25.83g",
-            "dietaryFiber": "0.82g",
-            "fat": "7.36g",
-            "protein": "7.53g",
-            "salt": "0.24g",
-            "saturatedFattyAcids": "2.13g",
-            "sugar": "11.07g",
+            "calories": "393.97 kcal / 1648 kJ",
+            "carbohydrate": "45.57g",
+            "dietaryFiber": "1.1g",
+            "fat": "12.5g",
+            "protein": "13.02g",
+            "salt": "0.41g",
+            "saturatedFattyAcids": "3.52g",
+            "sugar": "17.08g",
             "thermo": "COLD_WARM"
           }
         }
@@ -310,13 +310,13 @@
     },
     {
       "name": "II śniadanie",
-      "baseDietCaloriesMealId": 253,
+      "baseDietCaloriesMealId": 255,
       "options": [
         {
-          "dietCaloriesMealId": 253,
+          "dietCaloriesMealId": 255,
           "name": "Czekoladowy krem jaglany z wiśniowym musem",
           "label": "Odchudzająca 5 posiłków",
-          "info": "125 kcal • B:3g • W:22g • T:3g",
+          "info": "191 kcal • B:5g • W:33g • T:4g",
           "thermo": "COLD",
           "reviewsNumber": 127,
           "reviewsScore": 83.46,
@@ -393,22 +393,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "124.67 kcal / 521 kJ",
-            "carbohydrate": "21.86g",
-            "dietaryFiber": "1.93g",
-            "fat": "2.59g",
-            "protein": "3.28g",
-            "salt": "0.12g",
-            "saturatedFattyAcids": "0.56g",
-            "sugar": "12.15g",
+            "calories": "191.32 kcal / 800 kJ",
+            "carbohydrate": "33.49g",
+            "dietaryFiber": "2.96g",
+            "fat": "4.0g",
+            "protein": "5.05g",
+            "salt": "0.19g",
+            "saturatedFattyAcids": "0.87g",
+            "sugar": "18.48g",
             "thermo": "COLD"
           }
         },
         {
-          "dietCaloriesMealId": 225,
+          "dietCaloriesMealId": 227,
           "name": "Pasta serowo-czosnkowa z krakersami i warzywami",
           "label": "Standard 5 posiłków",
-          "info": "188 kcal • B:10g • W:13g • T:10g",
+          "info": "255 kcal • B:13g • W:17g • T:14g",
           "thermo": "COLD",
           "reviewsNumber": 42,
           "reviewsScore": 90.48,
@@ -578,14 +578,14 @@
               }
             ],
             "imageUrl": "",
-            "calories": "187.84 kcal / 785 kJ",
-            "carbohydrate": "13.31g",
-            "dietaryFiber": "1.98g",
-            "fat": "10.47g",
-            "protein": "9.58g",
-            "salt": "0.99g",
-            "saturatedFattyAcids": "4.41g",
-            "sugar": "2.4g",
+            "calories": "254.84 kcal / 1066 kJ",
+            "carbohydrate": "17.47g",
+            "dietaryFiber": "2.41g",
+            "fat": "14.42g",
+            "protein": "13.16g",
+            "salt": "1.34g",
+            "saturatedFattyAcids": "6.16g",
+            "sugar": "3.14g",
             "thermo": "COLD"
           }
         }
@@ -593,13 +593,13 @@
     },
     {
       "name": "Obiad",
-      "baseDietCaloriesMealId": 260,
+      "baseDietCaloriesMealId": 261,
       "options": [
         {
-          "dietCaloriesMealId": 260,
+          "dietCaloriesMealId": 261,
           "name": "Ryż basmati podany z gulaszem wieprzowo-warzywnym i surówką z kapusty kiszonej",
           "label": "Odchudzająca 5 posiłków",
-          "info": "385 kcal • B:18g • W:34g • T:20g",
+          "info": "537 kcal • B:25g • W:49g • T:27g",
           "thermo": "WARM",
           "reviewsNumber": 157,
           "reviewsScore": 89.81,
@@ -762,6 +762,17 @@
                 ]
               },
               {
+                "name": "Sól",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 531,
+                    "name": "sól",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
                 "name": "Czosnek",
                 "major": false,
                 "exclusion": [
@@ -776,17 +787,6 @@
                 "name": "Sos sojowy jasny (woda, ekstrakt z nasion SOI, sól, mąka PSZENNA, glutaminian sodu, barwnik: karmel, sorbinian potasu. )",
                 "major": false,
                 "exclusion": []
-              },
-              {
-                "name": "Sól",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 531,
-                    "name": "sól",
-                    "chosen": false
-                  }
-                ]
               },
               {
                 "name": "Oregano",
@@ -871,22 +871,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "384.77 kcal / 1609 kJ",
-            "carbohydrate": "33.84g",
-            "dietaryFiber": "4.02g",
-            "fat": "19.78g",
-            "protein": "18.03g",
-            "salt": "1.83g",
-            "saturatedFattyAcids": "6.25g",
-            "sugar": "4.7g",
+            "calories": "536.95 kcal / 2246 kJ",
+            "carbohydrate": "48.72g",
+            "dietaryFiber": "5.39g",
+            "fat": "26.89g",
+            "protein": "25.29g",
+            "salt": "2.53g",
+            "saturatedFattyAcids": "8.7g",
+            "sugar": "6.17g",
             "thermo": "WARM"
           }
         },
         {
-          "dietCaloriesMealId": 234,
+          "dietCaloriesMealId": 229,
           "name": "Pierogi z mięsem, zasmażaną kapustką i karmelizowana cebulką",
           "label": "Standard 5 posiłków",
-          "info": "397 kcal • B:17g • W:41g • T:18g",
+          "info": "583 kcal • B:25g • W:60g • T:26g",
           "thermo": "WARM",
           "reviewsNumber": 517,
           "reviewsScore": 95.74,
@@ -987,23 +987,23 @@
                 ]
               },
               {
-                "name": "Mąka pszenna (typ 500)",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 306,
-                    "name": "mąka",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
                 "name": "Miód pszczeli",
                 "major": false,
                 "exclusion": [
                   {
                     "dietaryExclusionId": 340,
                     "name": "miód",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Mąka pszenna (typ 500)",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 306,
+                    "name": "mąka",
                     "chosen": false
                   }
                 ]
@@ -1041,12 +1041,12 @@
                 "exclusion": []
               },
               {
-                "name": "Sos sojowy jasny (woda, ekstrakt z nasion SOI, sól, mąka PSZENNA, glutaminian sodu, barwnik: karmel, sorbinian potasu. )",
+                "name": "Ocet balsamiczny (Ocet winny, skoncentrowany moszcz winogronowy, barwnik– karmel amoniakalno-siarczynowy, substancja konserwująca – pirosiarczyn potasu)",
                 "major": false,
                 "exclusion": []
               },
               {
-                "name": "Ocet balsamiczny (Ocet winny, skoncentrowany moszcz winogronowy, barwnik– karmel amoniakalno-siarczynowy, substancja konserwująca – pirosiarczyn potasu)",
+                "name": "Sos sojowy jasny (woda, ekstrakt z nasion SOI, sól, mąka PSZENNA, glutaminian sodu, barwnik: karmel, sorbinian potasu. )",
                 "major": false,
                 "exclusion": []
               },
@@ -1112,14 +1112,14 @@
               }
             ],
             "imageUrl": "",
-            "calories": "397.09 kcal / 1661 kJ",
-            "carbohydrate": "41.12g",
-            "dietaryFiber": "2.04g",
-            "fat": "17.86g",
-            "protein": "16.93g",
-            "salt": "1.54g",
-            "saturatedFattyAcids": "6.17g",
-            "sugar": "1.74g",
+            "calories": "583.37 kcal / 2440 kJ",
+            "carbohydrate": "60.26g",
+            "dietaryFiber": "2.55g",
+            "fat": "26.23g",
+            "protein": "25.02g",
+            "salt": "2.27g",
+            "saturatedFattyAcids": "9.0g",
+            "sugar": "2.29g",
             "thermo": "WARM"
           }
         }
@@ -1127,13 +1127,13 @@
     },
     {
       "name": "Podwieczorek",
-      "baseDietCaloriesMealId": 264,
+      "baseDietCaloriesMealId": 266,
       "options": [
         {
-          "dietCaloriesMealId": 264,
+          "dietCaloriesMealId": 266,
           "name": "Pomarańczowa pianka z kajmakiem",
           "label": "Odchudzająca 5 posiłków",
-          "info": "183 kcal • B:3g • W:14g • T:13g",
+          "info": "269 kcal • B:4g • W:19g • T:20g",
           "thermo": "COLD",
           "reviewsNumber": 444,
           "reviewsScore": 88.51,
@@ -1203,22 +1203,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "183.06 kcal / 765 kJ",
-            "carbohydrate": "13.59g",
+            "calories": "269.45 kcal / 1127 kJ",
+            "carbohydrate": "19.43g",
             "dietaryFiber": "0.39g",
-            "fat": "13.03g",
-            "protein": "3.1g",
-            "salt": "0.18g",
-            "saturatedFattyAcids": "6.07g",
-            "sugar": "13.01g",
+            "fat": "19.54g",
+            "protein": "4.43g",
+            "salt": "0.26g",
+            "saturatedFattyAcids": "9.1g",
+            "sugar": "18.83g",
             "thermo": "COLD"
           }
         },
         {
-          "dietCaloriesMealId": 239,
+          "dietCaloriesMealId": 238,
           "name": "Kremowa grochówka z curry",
           "label": "Standard 5 posiłków",
-          "info": "173 kcal • B:9g • W:13g • T:9g",
+          "info": "250 kcal • B:13g • W:19g • T:14g",
           "thermo": "WARM",
           "reviewsNumber": 214,
           "reviewsScore": 88.79,
@@ -1388,14 +1388,14 @@
               }
             ],
             "imageUrl": "",
-            "calories": "173.02 kcal / 723 kJ",
-            "carbohydrate": "12.91g",
-            "dietaryFiber": "2.99g",
-            "fat": "9.39g",
-            "protein": "8.9g",
-            "salt": "0.49g",
-            "saturatedFattyAcids": "2.48g",
-            "sugar": "1.71g",
+            "calories": "250.35 kcal / 1047 kJ",
+            "carbohydrate": "18.68g",
+            "dietaryFiber": "4.32g",
+            "fat": "13.59g",
+            "protein": "12.88g",
+            "salt": "0.7g",
+            "saturatedFattyAcids": "3.59g",
+            "sugar": "2.48g",
             "thermo": "WARM"
           }
         }
@@ -1403,13 +1403,13 @@
     },
     {
       "name": "Kolacja",
-      "baseDietCaloriesMealId": 270,
+      "baseDietCaloriesMealId": 267,
       "options": [
         {
-          "dietCaloriesMealId": 270,
+          "dietCaloriesMealId": 267,
           "name": "Tacos z szarpanym mięsem drobiowym",
           "label": "Odchudzająca 5 posiłków",
-          "info": "224 kcal • B:17g • W:8g • T:13g",
+          "info": "311 kcal • B:26g • W:9g • T:19g",
           "thermo": "WARM",
           "reviewsNumber": 565,
           "reviewsScore": 91.33,
@@ -1477,12 +1477,12 @@
                 "exclusion": []
               },
               {
-                "name": "Tacos (mąka kukurydziana, olej słonecznikowy, woda, sól)",
+                "name": "Mix sałat",
                 "major": false,
                 "exclusion": []
               },
               {
-                "name": "Mix sałat",
+                "name": "Tacos (mąka kukurydziana, olej słonecznikowy, woda, sól)",
                 "major": false,
                 "exclusion": []
               },
@@ -1601,22 +1601,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "224.34 kcal / 938 kJ",
-            "carbohydrate": "8.27g",
-            "dietaryFiber": "0.37g",
-            "fat": "13.48g",
-            "protein": "16.91g",
-            "salt": "1.17g",
-            "saturatedFattyAcids": "4.09g",
-            "sugar": "0.77g",
+            "calories": "311.17 kcal / 1301 kJ",
+            "carbohydrate": "9.16g",
+            "dietaryFiber": "0.57g",
+            "fat": "18.84g",
+            "protein": "25.64g",
+            "salt": "1.73g",
+            "saturatedFattyAcids": "5.78g",
+            "sugar": "1.19g",
             "thermo": "WARM"
           }
         },
         {
-          "dietCaloriesMealId": 241,
+          "dietCaloriesMealId": 246,
           "name": "Tosty z salami pepperoni podane z sosem pomidorowym",
           "label": "Standard 5 posiłków",
-          "info": "240 kcal • B:9g • W:24g • T:12g",
+          "info": "355 kcal • B:14g • W:36g • T:17g",
           "thermo": "COLD_WARM",
           "reviewsNumber": 138,
           "reviewsScore": 97.1,
@@ -1716,6 +1716,11 @@
                 "exclusion": []
               },
               {
+                "name": "Pesto zielone z bazylii (bazylia, olej słonecznikowy, oliwa z oliwek, orzechy nerkowca, woda, ser Grana Padano (MLEKO, sól, podpuszczka (zawiera lizozym z białka JAJA)), skrobia ziemniaczana, cukier, sól, czosnek, ORZESZKI piniowe, przeciwutleniacz: kwas askorbinowy, regulator kwasowości: kwas mlekowy)",
+                "major": false,
+                "exclusion": []
+              },
+              {
                 "name": "Rukola",
                 "major": false,
                 "exclusion": [
@@ -1725,11 +1730,6 @@
                     "chosen": false
                   }
                 ]
-              },
-              {
-                "name": "Pesto zielone z bazylii (bazylia, olej słonecznikowy, oliwa z oliwek, orzechy nerkowca, woda, ser Grana Padano (MLEKO, sól, podpuszczka (zawiera lizozym z białka JAJA)), skrobia ziemniaczana, cukier, sól, czosnek, ORZESZKI piniowe, przeciwutleniacz: kwas askorbinowy, regulator kwasowości: kwas mlekowy)",
-                "major": false,
-                "exclusion": []
               },
               {
                 "name": "Cebula",
@@ -1809,14 +1809,14 @@
               }
             ],
             "imageUrl": "",
-            "calories": "240.08 kcal / 1004 kJ",
-            "carbohydrate": "24.37g",
-            "dietaryFiber": "2.43g",
-            "fat": "11.72g",
-            "protein": "9.35g",
-            "salt": "1.53g",
-            "saturatedFattyAcids": "4.11g",
-            "sugar": "2.79g",
+            "calories": "354.79 kcal / 1484 kJ",
+            "carbohydrate": "36.26g",
+            "dietaryFiber": "3.53g",
+            "fat": "17.19g",
+            "protein": "13.87g",
+            "salt": "2.25g",
+            "saturatedFattyAcids": "6.11g",
+            "sugar": "3.98g",
             "thermo": "COLD_WARM"
           }
         }

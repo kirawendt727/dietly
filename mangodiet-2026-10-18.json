@@ -1,16 +1,16 @@
 {
   "date": "2026-10-18",
-  "calories": 1200,
+  "calories": 1800,
   "meals": [
     {
       "name": "Śniadanie",
-      "baseDietCaloriesMealId": 247,
+      "baseDietCaloriesMealId": 249,
       "options": [
         {
-          "dietCaloriesMealId": 247,
+          "dietCaloriesMealId": 249,
           "name": "Pasta z makreli z serem typu feta i koperkiem z dodatkiem ciemnego pieczywa i papryki",
           "label": "Odchudzająca 5 posiłków",
-          "info": "269 kcal • B:12g • W:28g • T:12g",
+          "info": "396 kcal • B:19g • W:38g • T:19g",
           "thermo": "COLD",
           "reviewsNumber": 9,
           "reviewsScore": 100,
@@ -144,22 +144,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "269.17 kcal / 1126 kJ",
-            "carbohydrate": "28.02g",
-            "dietaryFiber": "4.69g",
-            "fat": "11.93g",
-            "protein": "12.42g",
-            "salt": "1.36g",
-            "saturatedFattyAcids": "1.56g",
-            "sugar": "4.67g",
+            "calories": "396.36 kcal / 1658 kJ",
+            "carbohydrate": "38.22g",
+            "dietaryFiber": "6.29g",
+            "fat": "18.62g",
+            "protein": "18.98g",
+            "salt": "2.05g",
+            "saturatedFattyAcids": "2.44g",
+            "sugar": "6.96g",
             "thermo": "COLD"
           }
         },
         {
-          "dietCaloriesMealId": 220,
+          "dietCaloriesMealId": 219,
           "name": "Owsianka z musem gruszkowym i posypką z gorzkiej czekolady",
           "label": "Standard 5 posiłków",
-          "info": "285 kcal • B:11g • W:37g • T:10g",
+          "info": "447 kcal • B:18g • W:58g • T:16g",
           "thermo": "WARM",
           "reviewsNumber": 20,
           "reviewsScore": 95,
@@ -225,11 +225,6 @@
                 "exclusion": []
               },
               {
-                "name": "Czekolada gorzka 60% (miazga kakaowa, cukier, kakao w proszku o obniżonej zawartości tłuszczu, tłuszcz kakaowy, emulgatory: lecytyny (z SOI) i E476; aromat)",
-                "major": false,
-                "exclusion": []
-              },
-              {
                 "name": "Miód pszczeli",
                 "major": false,
                 "exclusion": [
@@ -252,6 +247,11 @@
                 ]
               },
               {
+                "name": "Czekolada gorzka 60% (miazga kakaowa, cukier, kakao w proszku o obniżonej zawartości tłuszczu, tłuszcz kakaowy, emulgatory: lecytyny (z SOI) i E476; aromat)",
+                "major": false,
+                "exclusion": []
+              },
+              {
                 "name": "Skrobia ziemniaczana",
                 "major": false,
                 "exclusion": [
@@ -264,14 +264,14 @@
               }
             ],
             "imageUrl": "",
-            "calories": "285.32 kcal / 1193 kJ",
-            "carbohydrate": "36.56g",
-            "dietaryFiber": "2.81g",
-            "fat": "10.48g",
-            "protein": "11.04g",
-            "salt": "0.11g",
-            "saturatedFattyAcids": "3.05g",
-            "sugar": "21.05g",
+            "calories": "447.15 kcal / 1870 kJ",
+            "carbohydrate": "57.7g",
+            "dietaryFiber": "4.35g",
+            "fat": "16.05g",
+            "protein": "17.9g",
+            "salt": "0.18g",
+            "saturatedFattyAcids": "4.3g",
+            "sugar": "32.47g",
             "thermo": "WARM"
           }
         }
@@ -279,13 +279,13 @@
     },
     {
       "name": "II śniadanie",
-      "baseDietCaloriesMealId": 253,
+      "baseDietCaloriesMealId": 255,
       "options": [
         {
-          "dietCaloriesMealId": 253,
+          "dietCaloriesMealId": 255,
           "name": "Trufle daktylowe z waniliowym skyrem",
           "label": "Odchudzająca 5 posiłków",
-          "info": "192 kcal • B:10g • W:19g • T:8g",
+          "info": "206 kcal • B:12g • W:19g • T:8g",
           "thermo": "COLD",
           "reviewsNumber": 2,
           "reviewsScore": 100,
@@ -406,22 +406,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "192.44 kcal / 805 kJ",
-            "carbohydrate": "18.64g",
+            "calories": "205.83 kcal / 861 kJ",
+            "carbohydrate": "19.38g",
             "dietaryFiber": "3.47g",
-            "fat": "8.2g",
-            "protein": "9.88g",
-            "salt": "0.08g",
-            "saturatedFattyAcids": "4.0g",
-            "sugar": "17.7g",
+            "fat": "8.36g",
+            "protein": "12.04g",
+            "salt": "0.1g",
+            "saturatedFattyAcids": "4.01g",
+            "sugar": "18.44g",
             "thermo": "COLD"
           }
         },
         {
-          "dietCaloriesMealId": 225,
+          "dietCaloriesMealId": 227,
           "name": "Serek ziołowy z krakersami i talarkami warzywnymi",
           "label": "Standard 5 posiłków",
-          "info": "208 kcal • B:8g • W:17g • T:11g",
+          "info": "307 kcal • B:13g • W:23g • T:17g",
           "thermo": "COLD",
           "reviewsNumber": 4,
           "reviewsScore": 100,
@@ -455,17 +455,17 @@
                 "exclusion": []
               },
               {
+                "name": "Serek śmietankowy, (śmietanka pasteryzowana, białka MLEKA, mączka chleba świętojańskiego, sól, kultury bakterii MLEKOWYCH, podpuszczka)",
+                "major": false,
+                "exclusion": []
+              },
+              {
                 "name": "Marchew obrana",
                 "major": false,
                 "exclusion": []
               },
               {
                 "name": "Ogórek zielony",
-                "major": false,
-                "exclusion": []
-              },
-              {
-                "name": "Serek śmietankowy, (śmietanka pasteryzowana, białka MLEKA, mączka chleba świętojańskiego, sól, kultury bakterii MLEKOWYCH, podpuszczka)",
                 "major": false,
                 "exclusion": []
               },
@@ -531,14 +531,14 @@
               }
             ],
             "imageUrl": "",
-            "calories": "207.68 kcal / 868 kJ",
-            "carbohydrate": "17.49g",
-            "dietaryFiber": "1.96g",
-            "fat": "11.27g",
-            "protein": "8.35g",
-            "salt": "0.93g",
-            "saturatedFattyAcids": "4.08g",
-            "sugar": "4.09g",
+            "calories": "307.45 kcal / 1286 kJ",
+            "carbohydrate": "23.43g",
+            "dietaryFiber": "2.67g",
+            "fat": "17.43g",
+            "protein": "13.27g",
+            "salt": "1.4g",
+            "saturatedFattyAcids": "6.84g",
+            "sugar": "6.32g",
             "thermo": "COLD"
           }
         }
@@ -546,13 +546,13 @@
     },
     {
       "name": "Obiad",
-      "baseDietCaloriesMealId": 260,
+      "baseDietCaloriesMealId": 261,
       "options": [
         {
-          "dietCaloriesMealId": 260,
+          "dietCaloriesMealId": 261,
           "name": "Potrawka z soczewicą i selerem naciowym podana z indykiem i pieczonymi ziemniaczkami",
           "label": "Odchudzająca 5 posiłków",
-          "info": "398 kcal • B:23g • W:35g • T:18g",
+          "info": "609 kcal • B:34g • W:54g • T:28g",
           "thermo": null,
           "reviewsNumber": 0,
           "reviewsScore": 0,
@@ -581,12 +581,12 @@
             ],
             "ingredients": [
               {
-                "name": "Bulion drobiowo-wołowy, (kości wołowe, kości drobiowe, marchew, SELER, pietruszka, cebula, czosnek, sos sojowy jasny (woda, ekstrakt z nasion SOI, sól, mąka PSZENNA, glutaminian sodu, barwnik: karmel, sorbinian potasu), ziele angielskie, liść laurowy, sól, pieprz czarny)",
+                "name": "Ziemniak (łódki)",
                 "major": false,
                 "exclusion": []
               },
               {
-                "name": "Ziemniak (łódki)",
+                "name": "Bulion drobiowo-wołowy, (kości wołowe, kości drobiowe, marchew, SELER, pietruszka, cebula, czosnek, sos sojowy jasny (woda, ekstrakt z nasion SOI, sól, mąka PSZENNA, glutaminian sodu, barwnik: karmel, sorbinian potasu), ziele angielskie, liść laurowy, sól, pieprz czarny)",
                 "major": false,
                 "exclusion": []
               },
@@ -677,23 +677,23 @@
                 ]
               },
               {
-                "name": "Czosnek",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 112,
-                    "name": "czosnek",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
                 "name": "Sól",
                 "major": false,
                 "exclusion": [
                   {
                     "dietaryExclusionId": 531,
                     "name": "sól",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Czosnek",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 112,
+                    "name": "czosnek",
                     "chosen": false
                   }
                 ]
@@ -732,23 +732,23 @@
                 ]
               },
               {
-                "name": "Papryka słodka (mielona, wędzona)",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 395,
-                    "name": "papryka",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
                 "name": "Pieprz czarny mielony",
                 "major": false,
                 "exclusion": [
                   {
                     "dietaryExclusionId": 419,
                     "name": "pieprz",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Papryka słodka (mielona, wędzona)",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 395,
+                    "name": "papryka",
                     "chosen": false
                   }
                 ]
@@ -771,22 +771,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "398.2 kcal / 1666 kJ",
-            "carbohydrate": "34.69g",
-            "dietaryFiber": "6.32g",
-            "fat": "18.46g",
-            "protein": "22.96g",
-            "salt": "2.65g",
-            "saturatedFattyAcids": "1.59g",
-            "sugar": "3.74g",
+            "calories": "609.01 kcal / 2548 kJ",
+            "carbohydrate": "54.31g",
+            "dietaryFiber": "9.72g",
+            "fat": "27.99g",
+            "protein": "34.39g",
+            "salt": "4.14g",
+            "saturatedFattyAcids": "2.41g",
+            "sugar": "5.72g",
             "thermo": null
           }
         },
         {
-          "dietCaloriesMealId": 234,
+          "dietCaloriesMealId": 229,
           "name": "Kotleciki wieprzowe w sosie musztardowym z pęczakiem i surówką z pekinki i żurawiny",
           "label": "Standard 5 posiłków",
-          "info": "383 kcal • B:16g • W:40g • T:17g",
+          "info": "558 kcal • B:24g • W:58g • T:24g",
           "thermo": "WARM",
           "reviewsNumber": 5,
           "reviewsScore": 60,
@@ -1010,11 +1010,6 @@
                 ]
               },
               {
-                "name": "Sok z cytryny (woda, zagęszczony sok z cytryny, substancje konserwujące: pirosiarczyn potasu)",
-                "major": false,
-                "exclusion": []
-              },
-              {
                 "name": "sos Worcestershire",
                 "major": false,
                 "exclusion": [
@@ -1029,6 +1024,11 @@
                     "chosen": false
                   }
                 ]
+              },
+              {
+                "name": "Sok z cytryny (woda, zagęszczony sok z cytryny, substancje konserwujące: pirosiarczyn potasu)",
+                "major": false,
+                "exclusion": []
               },
               {
                 "name": "Sól",
@@ -1087,14 +1087,14 @@
               }
             ],
             "imageUrl": "",
-            "calories": "383.0 kcal / 1602 kJ",
-            "carbohydrate": "40.35g",
-            "dietaryFiber": "7.64g",
-            "fat": "16.69g",
-            "protein": "16.27g",
-            "salt": "0.83g",
-            "saturatedFattyAcids": "5.39g",
-            "sugar": "10.27g",
+            "calories": "557.84 kcal / 2334 kJ",
+            "carbohydrate": "58.3g",
+            "dietaryFiber": "11.04g",
+            "fat": "24.3g",
+            "protein": "24.14g",
+            "salt": "1.18g",
+            "saturatedFattyAcids": "8.02g",
+            "sugar": "13.68g",
             "thermo": "WARM"
           }
         }
@@ -1102,13 +1102,13 @@
     },
     {
       "name": "Podwieczorek",
-      "baseDietCaloriesMealId": 264,
+      "baseDietCaloriesMealId": 266,
       "options": [
         {
-          "dietCaloriesMealId": 264,
+          "dietCaloriesMealId": 266,
           "name": "Pasztet mięsny z chutney buraczkowym i pumperniklem",
           "label": "Odchudzająca 5 posiłków",
-          "info": "149 kcal • B:12g • W:15g • T:4g",
+          "info": "246 kcal • B:18g • W:27g • T:6g",
           "thermo": "COLD",
           "reviewsNumber": 16,
           "reviewsScore": 87.5,
@@ -1233,6 +1233,11 @@
                 "exclusion": []
               },
               {
+                "name": "Jaja kurze",
+                "major": false,
+                "exclusion": []
+              },
+              {
                 "name": "Rukola",
                 "major": false,
                 "exclusion": [
@@ -1242,11 +1247,6 @@
                     "chosen": false
                   }
                 ]
-              },
-              {
-                "name": "Jaja kurze",
-                "major": false,
-                "exclusion": []
               },
               {
                 "name": "Bułka tarta (Mąka PSZENNA , sól, drożdże)",
@@ -1353,22 +1353,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "149.01 kcal / 623 kJ",
-            "carbohydrate": "15.01g",
-            "dietaryFiber": "4.36g",
-            "fat": "4.12g",
-            "protein": "11.59g",
-            "salt": "0.51g",
-            "saturatedFattyAcids": "1.06g",
-            "sugar": "4.62g",
+            "calories": "246.44 kcal / 1031 kJ",
+            "carbohydrate": "26.94g",
+            "dietaryFiber": "7.83g",
+            "fat": "6.26g",
+            "protein": "17.78g",
+            "salt": "0.88g",
+            "saturatedFattyAcids": "1.62g",
+            "sugar": "7.46g",
             "thermo": "COLD"
           }
         },
         {
-          "dietCaloriesMealId": 239,
+          "dietCaloriesMealId": 238,
           "name": "Jesienny koktajl pumpkin spice",
           "label": "Standard 5 posiłków",
-          "info": "131 kcal • B:4g • W:24g • T:3g",
+          "info": "172 kcal • B:5g • W:32g • T:3g",
           "thermo": "COLD",
           "reviewsNumber": 0,
           "reviewsScore": 0,
@@ -1455,14 +1455,14 @@
               }
             ],
             "imageUrl": "",
-            "calories": "131.25 kcal / 549 kJ",
-            "carbohydrate": "24.1g",
-            "dietaryFiber": "4.88g",
-            "fat": "2.54g",
-            "protein": "3.52g",
-            "salt": "0.09g",
-            "saturatedFattyAcids": "0.57g",
-            "sugar": "12.7g",
+            "calories": "172.43 kcal / 721 kJ",
+            "carbohydrate": "31.66g",
+            "dietaryFiber": "6.41g",
+            "fat": "3.34g",
+            "protein": "4.62g",
+            "salt": "0.12g",
+            "saturatedFattyAcids": "0.74g",
+            "sugar": "16.68g",
             "thermo": "COLD"
           }
         }
@@ -1470,13 +1470,13 @@
     },
     {
       "name": "Kolacja",
-      "baseDietCaloriesMealId": 270,
+      "baseDietCaloriesMealId": 267,
       "options": [
         {
-          "dietCaloriesMealId": 270,
+          "dietCaloriesMealId": 267,
           "name": "Risotto szpinakowe z serem i oliwkami",
           "label": "Odchudzająca 5 posiłków",
-          "info": "230 kcal • B:6g • W:30g • T:9g",
+          "info": "352 kcal • B:9g • W:46g • T:14g",
           "thermo": "WARM",
           "reviewsNumber": 31,
           "reviewsScore": 93.55,
@@ -1658,22 +1658,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "229.97 kcal / 962 kJ",
-            "carbohydrate": "30.39g",
-            "dietaryFiber": "0.76g",
-            "fat": "9.25g",
-            "protein": "5.93g",
-            "salt": "0.59g",
-            "saturatedFattyAcids": "4.12g",
-            "sugar": "0.86g",
+            "calories": "351.52 kcal / 1470 kJ",
+            "carbohydrate": "46.49g",
+            "dietaryFiber": "1.16g",
+            "fat": "14.12g",
+            "protein": "9.08g",
+            "salt": "0.89g",
+            "saturatedFattyAcids": "6.29g",
+            "sugar": "1.31g",
             "thermo": "WARM"
           }
         },
         {
-          "dietCaloriesMealId": 241,
+          "dietCaloriesMealId": 246,
           "name": "Holenderska sałatka z tuńczykiem, jabłkiem i jajkiem podana z pitą",
           "label": "Standard 5 posiłków",
-          "info": "231 kcal • B:18g • W:22g • T:8g",
+          "info": "390 kcal • B:27g • W:44g • T:11g",
           "thermo": "COLD",
           "reviewsNumber": 7,
           "reviewsScore": 100,
@@ -1714,12 +1714,12 @@
             ],
             "ingredients": [
               {
-                "name": "Tuńczyk w oleju (tuńczyk pasiasty, olej słonecznikowy, sól)",
+                "name": "Pita (mąka pszenna, woda, drożdże, sól, cukier, olej roślinny, przeciwutleniacz - kwas L-askorbinowy)",
                 "major": false,
                 "exclusion": []
               },
               {
-                "name": "Pita (mąka pszenna, woda, drożdże, sól, cukier, olej roślinny, przeciwutleniacz - kwas L-askorbinowy)",
+                "name": "Tuńczyk w oleju (tuńczyk pasiasty, olej słonecznikowy, sól)",
                 "major": false,
                 "exclusion": []
               },
@@ -1794,14 +1794,14 @@
               }
             ],
             "imageUrl": "",
-            "calories": "231.42 kcal / 968 kJ",
-            "carbohydrate": "22.43g",
-            "dietaryFiber": "0.41g",
-            "fat": "7.64g",
-            "protein": "17.71g",
-            "salt": "1.41g",
-            "saturatedFattyAcids": "1.16g",
-            "sugar": "2.8g",
+            "calories": "390.05 kcal / 1631 kJ",
+            "carbohydrate": "43.52g",
+            "dietaryFiber": "0.6g",
+            "fat": "11.37g",
+            "protein": "27.36g",
+            "salt": "2.26g",
+            "saturatedFattyAcids": "1.71g",
+            "sugar": "4.49g",
             "thermo": "COLD"
           }
         }
