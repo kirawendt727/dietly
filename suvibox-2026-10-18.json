@@ -1,16 +1,16 @@
 {
   "date": "2026-10-18",
-  "calories": 1200,
+  "calories": 1800,
   "meals": [
     {
       "name": "Śniadanie",
-      "baseDietCaloriesMealId": 3306,
+      "baseDietCaloriesMealId": 3303,
       "options": [
         {
-          "dietCaloriesMealId": 3335,
+          "dietCaloriesMealId": 3332,
           "name": "Jajecznica z warzywami i żytnim chlebem",
           "label": "BASIC",
-          "info": "299 kcal • B:16g • W:13g • T:20g",
+          "info": "478 kcal • B:25g • W:24g • T:31g",
           "thermo": "WARM",
           "reviewsNumber": 11,
           "reviewsScore": 100,
@@ -32,6 +32,11 @@
                 "exclusion": []
               },
               {
+                "name": "Chleb żytni razowy (Orzechy, Sezam, Łubin)",
+                "major": true,
+                "exclusion": []
+              },
+              {
                 "name": "Papryka czerwona",
                 "major": false,
                 "exclusion": [
@@ -41,11 +46,6 @@
                     "chosen": false
                   }
                 ]
-              },
-              {
-                "name": "Chleb żytni razowy (Orzechy, Sezam, Łubin)",
-                "major": true,
-                "exclusion": []
               },
               {
                 "name": "Cebula",
@@ -93,22 +93,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "299.37 kcal / 1252 kJ",
-            "carbohydrate": "12.64g",
-            "dietaryFiber": "2.96g",
-            "fat": "20.43g",
-            "protein": "16.2g",
-            "salt": "0.72g",
-            "saturatedFattyAcids": "6.66g",
-            "sugar": "1.77g",
+            "calories": "477.59 kcal / 1998 kJ",
+            "carbohydrate": "23.73g",
+            "dietaryFiber": "5.39g",
+            "fat": "31.26g",
+            "protein": "25.26g",
+            "salt": "1.21g",
+            "saturatedFattyAcids": "10.15g",
+            "sugar": "3.01g",
             "thermo": "WARM"
           }
         },
         {
-          "dietCaloriesMealId": 3271,
+          "dietCaloriesMealId": 3276,
           "name": "Jesienne śniadanie -  dyniowa granola z cynamonowym jogurtem i gruszkowym musem",
           "label": "COMFORT",
-          "info": "256 kcal • B:7g • W:33g • T:11g",
+          "info": "384 kcal • B:11g • W:49g • T:16g",
           "thermo": "COLD",
           "reviewsNumber": 14,
           "reviewsScore": 100,
@@ -296,22 +296,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "256.05 kcal / 1071 kJ",
-            "carbohydrate": "32.57g",
-            "dietaryFiber": "4.99g",
-            "fat": "10.62g",
-            "protein": "7.42g",
-            "salt": "0.11g",
-            "saturatedFattyAcids": "3.31g",
-            "sugar": "16.59g",
+            "calories": "384.07 kcal / 1606 kJ",
+            "carbohydrate": "48.86g",
+            "dietaryFiber": "7.48g",
+            "fat": "15.93g",
+            "protein": "11.13g",
+            "salt": "0.16g",
+            "saturatedFattyAcids": "4.96g",
+            "sugar": "24.89g",
             "thermo": "COLD"
           }
         },
         {
-          "dietCaloriesMealId": 3361,
+          "dietCaloriesMealId": 3366,
           "name": "Zielony hummus z chrupiącymi krakersami i słupkami marchewki",
           "label": "WEGE COMFORT",
-          "info": "248 kcal • B:9g • W:31g • T:10g",
+          "info": "372 kcal • B:14g • W:45g • T:15g",
           "thermo": "COLD",
           "reviewsNumber": 0,
           "reviewsScore": 0,
@@ -344,11 +344,6 @@
                 ]
               },
               {
-                "name": "Krakersy solone (Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies)",
-                "major": true,
-                "exclusion": []
-              },
-              {
                 "name": "Groszek zielony",
                 "major": false,
                 "exclusion": [
@@ -358,6 +353,11 @@
                     "chosen": false
                   }
                 ]
+              },
+              {
+                "name": "Krakersy solone (Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies)",
+                "major": true,
+                "exclusion": []
               },
               {
                 "name": "Szpinak (świeży)",
@@ -481,22 +481,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "247.79 kcal / 1036 kJ",
-            "carbohydrate": "30.81g",
-            "dietaryFiber": "8.86g",
-            "fat": "9.67g",
-            "protein": "9.32g",
-            "salt": "0.7g",
-            "saturatedFattyAcids": "0.97g",
-            "sugar": "5.51g",
+            "calories": "371.68 kcal / 1555 kJ",
+            "carbohydrate": "44.77g",
+            "dietaryFiber": "11.63g",
+            "fat": "15.06g",
+            "protein": "14.17g",
+            "salt": "0.98g",
+            "saturatedFattyAcids": "1.53g",
+            "sugar": "7.31g",
             "thermo": "COLD"
           }
         },
         {
-          "dietCaloriesMealId": 3306,
+          "dietCaloriesMealId": 3303,
           "name": "Tortilla de patatas z pomidorową salsą",
           "label": "PREMIUM",
-          "info": "268 kcal • B:10g • W:14g • T:19g",
+          "info": "403 kcal • B:15g • W:21g • T:29g",
           "thermo": "WARM",
           "reviewsNumber": 110,
           "reviewsScore": 86.36,
@@ -604,22 +604,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "268.43 kcal / 1123 kJ",
-            "carbohydrate": "13.86g",
-            "dietaryFiber": "1.75g",
-            "fat": "19.19g",
-            "protein": "9.8g",
-            "salt": "0.34g",
-            "saturatedFattyAcids": "3.83g",
-            "sugar": "2.73g",
+            "calories": "402.64 kcal / 1684 kJ",
+            "carbohydrate": "20.79g",
+            "dietaryFiber": "2.63g",
+            "fat": "28.79g",
+            "protein": "14.7g",
+            "salt": "0.51g",
+            "saturatedFattyAcids": "5.75g",
+            "sugar": "4.09g",
             "thermo": "WARM"
           }
         },
         {
-          "dietCaloriesMealId": 4303,
+          "dietCaloriesMealId": 4305,
           "name": "Pieczona owsianka z malinami i kokosową kruszonką z sernikowym musem",
           "label": "NISKI IG",
-          "info": "291 kcal • B:13g • W:28g • T:13g",
+          "info": "415 kcal • B:20g • W:41g • T:18g",
           "thermo": "COLD_WARM",
           "reviewsNumber": 2,
           "reviewsScore": 100,
@@ -745,11 +745,6 @@
                 ]
               },
               {
-                "name": "Orzechy nerkowca (bez soli)",
-                "major": false,
-                "exclusion": []
-              },
-              {
                 "name": "Wiórki kokosowe",
                 "major": false,
                 "exclusion": [
@@ -759,6 +754,11 @@
                     "chosen": false
                   }
                 ]
+              },
+              {
+                "name": "Orzechy nerkowca (bez soli)",
+                "major": false,
+                "exclusion": []
               },
               {
                 "name": "Masło (Mleko)",
@@ -795,22 +795,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "291.42 kcal / 1219 kJ",
-            "carbohydrate": "28.48g",
-            "dietaryFiber": "8.16g",
-            "fat": "12.85g",
-            "protein": "13.44g",
-            "salt": "0.17g",
-            "saturatedFattyAcids": "6.09g",
-            "sugar": "7.09g",
+            "calories": "415.31 kcal / 1737 kJ",
+            "carbohydrate": "41.12g",
+            "dietaryFiber": "11.51g",
+            "fat": "17.85g",
+            "protein": "19.57g",
+            "salt": "0.25g",
+            "saturatedFattyAcids": "8.79g",
+            "sugar": "10.33g",
             "thermo": "COLD_WARM"
           }
         },
         {
-          "dietCaloriesMealId": 4479,
+          "dietCaloriesMealId": 4481,
           "name": "Naleśniki pełnoziarniste z serkiem waniliowym, polewą piernikową i mandarynkami",
           "label": "WYSOKOBIAŁKOWA",
-          "info": "228 kcal • B:15g • W:25g • T:8g",
+          "info": "379 kcal • B:25g • W:41g • T:13g",
           "thermo": "WARM",
           "reviewsNumber": 22,
           "reviewsScore": 100,
@@ -838,6 +838,11 @@
                 "exclusion": []
               },
               {
+                "name": "Mleko spożywcze (1.5 % tł.)",
+                "major": false,
+                "exclusion": []
+              },
+              {
                 "name": "Mandarynki",
                 "major": false,
                 "exclusion": [
@@ -847,11 +852,6 @@
                     "chosen": false
                   }
                 ]
-              },
-              {
-                "name": "Mleko spożywcze (1.5 % tł.)",
-                "major": false,
-                "exclusion": []
               },
               {
                 "name": "Woda",
@@ -952,14 +952,14 @@
               }
             ],
             "imageUrl": "",
-            "calories": "228.24 kcal / 954 kJ",
-            "carbohydrate": "24.6g",
-            "dietaryFiber": "3.71g",
-            "fat": "7.7g",
-            "protein": "15.0g",
-            "salt": "0.58g",
-            "saturatedFattyAcids": "1.08g",
-            "sugar": "7.64g",
+            "calories": "379.04 kcal / 1585 kJ",
+            "carbohydrate": "40.69g",
+            "dietaryFiber": "6.12g",
+            "fat": "12.82g",
+            "protein": "24.98g",
+            "salt": "0.97g",
+            "saturatedFattyAcids": "1.8g",
+            "sugar": "12.36g",
             "thermo": "WARM"
           }
         }
@@ -967,13 +967,13 @@
     },
     {
       "name": "II Śniadanie",
-      "baseDietCaloriesMealId": 3312,
+      "baseDietCaloriesMealId": 3308,
       "options": [
         {
-          "dietCaloriesMealId": 3340,
+          "dietCaloriesMealId": 3341,
           "name": "Smoothie truskawkowo-jabłkowe z miętą",
           "label": "BASIC",
-          "info": "133 kcal • B:2g • W:30g • T:1g",
+          "info": "175 kcal • B:2g • W:40g • T:1g",
           "thermo": "COLD",
           "reviewsNumber": 0,
           "reviewsScore": 0,
@@ -1044,22 +1044,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "132.66 kcal / 555 kJ",
-            "carbohydrate": "30.39g",
-            "dietaryFiber": "3.86g",
-            "fat": "0.92g",
-            "protein": "1.56g",
-            "salt": "0.13g",
-            "saturatedFattyAcids": "0.05g",
-            "sugar": "24.07g",
+            "calories": "175.11 kcal / 732 kJ",
+            "carbohydrate": "40.11g",
+            "dietaryFiber": "5.09g",
+            "fat": "1.21g",
+            "protein": "2.07g",
+            "salt": "0.18g",
+            "saturatedFattyAcids": "0.07g",
+            "sugar": "31.77g",
             "thermo": "COLD"
           }
         },
         {
-          "dietCaloriesMealId": 3281,
+          "dietCaloriesMealId": 3279,
           "name": "Smoothie z kiwi, bananem, jabłkiem i otrębów",
           "label": "COMFORT",
-          "info": "159 kcal • B:2g • W:36g • T:1g",
+          "info": "210 kcal • B:2g • W:48g • T:1g",
           "thermo": "COLD",
           "reviewsNumber": 25,
           "reviewsScore": 92,
@@ -1130,22 +1130,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "158.92 kcal / 664 kJ",
-            "carbohydrate": "36.15g",
-            "dietaryFiber": "3.76g",
-            "fat": "0.79g",
-            "protein": "1.69g",
+            "calories": "209.78 kcal / 877 kJ",
+            "carbohydrate": "47.72g",
+            "dietaryFiber": "4.96g",
+            "fat": "1.04g",
+            "protein": "2.23g",
             "salt": "0.0g",
-            "saturatedFattyAcids": "0.12g",
-            "sugar": "25.12g",
+            "saturatedFattyAcids": "0.16g",
+            "sugar": "33.16g",
             "thermo": "COLD"
           }
         },
         {
-          "dietCaloriesMealId": 3367,
+          "dietCaloriesMealId": 3370,
           "name": "Tarta z jabłkami w polewie",
           "label": "WEGE COMFORT",
-          "info": "163 kcal • B:2g • W:21g • T:8g",
+          "info": "245 kcal • B:4g • W:31g • T:12g",
           "thermo": "COLD",
           "reviewsNumber": 0,
           "reviewsScore": 0,
@@ -1221,23 +1221,23 @@
                 ]
               },
               {
-                "name": "Cynamon",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 107,
-                    "name": "cynamon",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
                 "name": "Sok z cytryny",
                 "major": false,
                 "exclusion": [
                   {
                     "dietaryExclusionId": 530,
                     "name": "sok",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Cynamon",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 107,
+                    "name": "cynamon",
                     "chosen": false
                   }
                 ]
@@ -1266,22 +1266,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "163.27 kcal / 683 kJ",
-            "carbohydrate": "21.22g",
-            "dietaryFiber": "1.42g",
-            "fat": "7.66g",
-            "protein": "2.32g",
-            "salt": "0.06g",
-            "saturatedFattyAcids": "3.16g",
-            "sugar": "14.08g",
+            "calories": "244.9 kcal / 1024 kJ",
+            "carbohydrate": "31.47g",
+            "dietaryFiber": "1.98g",
+            "fat": "11.64g",
+            "protein": "3.52g",
+            "salt": "0.09g",
+            "saturatedFattyAcids": "4.8g",
+            "sugar": "20.7g",
             "thermo": "COLD"
           }
         },
         {
-          "dietCaloriesMealId": 3312,
+          "dietCaloriesMealId": 3308,
           "name": "Ciasto bananowa chmurka",
           "label": "PREMIUM",
-          "info": "149 kcal • B:2g • W:18g • T:8g",
+          "info": "224 kcal • B:2g • W:27g • T:12g",
           "thermo": "COLD",
           "reviewsNumber": 1,
           "reviewsScore": 100,
@@ -1440,22 +1440,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "149.29 kcal / 624 kJ",
-            "carbohydrate": "18.16g",
-            "dietaryFiber": "0.26g",
-            "fat": "7.79g",
-            "protein": "1.64g",
-            "salt": "0.06g",
-            "saturatedFattyAcids": "4.33g",
-            "sugar": "13.78g",
+            "calories": "223.93 kcal / 936 kJ",
+            "carbohydrate": "27.23g",
+            "dietaryFiber": "0.4g",
+            "fat": "11.69g",
+            "protein": "2.46g",
+            "salt": "0.09g",
+            "saturatedFattyAcids": "6.5g",
+            "sugar": "20.67g",
             "thermo": "COLD"
           }
         },
         {
-          "dietCaloriesMealId": 4309,
+          "dietCaloriesMealId": 4308,
           "name": "Pizza z tortilli z szynką drobiową i dipem pomidorowym",
           "label": "NISKI IG",
-          "info": "169 kcal • B:10g • W:18g • T:5g",
+          "info": "254 kcal • B:16g • W:27g • T:8g",
           "thermo": "WARM",
           "reviewsNumber": 100,
           "reviewsScore": 97,
@@ -1655,22 +1655,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "169.31 kcal / 708 kJ",
-            "carbohydrate": "18.24g",
-            "dietaryFiber": "3.43g",
-            "fat": "5.4g",
-            "protein": "10.36g",
-            "salt": "1.1g",
-            "saturatedFattyAcids": "1.66g",
-            "sugar": "3.97g",
+            "calories": "253.96 kcal / 1062 kJ",
+            "carbohydrate": "27.36g",
+            "dietaryFiber": "5.14g",
+            "fat": "8.11g",
+            "protein": "15.54g",
+            "salt": "1.65g",
+            "saturatedFattyAcids": "2.49g",
+            "sugar": "5.96g",
             "thermo": "WARM"
           }
         },
         {
-          "dietCaloriesMealId": 4486,
+          "dietCaloriesMealId": 4487,
           "name": "Serek wiejski a la tzatziki z jajkiem na twardo i mini bułeczką",
           "label": "WYSOKOBIAŁKOWA",
-          "info": "154 kcal • B:11g • W:13g • T:6g",
+          "info": "231 kcal • B:19g • W:15g • T:11g",
           "thermo": "COLD",
           "reviewsNumber": 0,
           "reviewsScore": 0,
@@ -1703,12 +1703,12 @@
                 "exclusion": []
               },
               {
-                "name": "Mini bułeczka",
+                "name": "Ogórek zielony (długi)",
                 "major": false,
                 "exclusion": []
               },
               {
-                "name": "Ogórek zielony (długi)",
+                "name": "Mini bułeczka",
                 "major": false,
                 "exclusion": []
               },
@@ -1719,6 +1719,17 @@
                   {
                     "dietaryExclusionId": 112,
                     "name": "czosnek",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Szczypiorek",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 554,
+                    "name": "szczypiorek",
                     "chosen": false
                   }
                 ]
@@ -1735,17 +1746,6 @@
                   {
                     "dietaryExclusionId": 109,
                     "name": "czarnuszka",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
-                "name": "Szczypiorek",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 554,
-                    "name": "szczypiorek",
                     "chosen": false
                   }
                 ]
@@ -1785,14 +1785,14 @@
               }
             ],
             "imageUrl": "",
-            "calories": "154.03 kcal / 644 kJ",
-            "carbohydrate": "13.01g",
-            "dietaryFiber": "0.92g",
-            "fat": "6.41g",
-            "protein": "11.1g",
-            "salt": "0.77g",
-            "saturatedFattyAcids": "2.9g",
-            "sugar": "1.98g",
+            "calories": "231.05 kcal / 966 kJ",
+            "carbohydrate": "14.6g",
+            "dietaryFiber": "1.05g",
+            "fat": "10.84g",
+            "protein": "18.81g",
+            "salt": "1.24g",
+            "saturatedFattyAcids": "5.13g",
+            "sugar": "3.02g",
             "thermo": "COLD"
           }
         }
@@ -1800,13 +1800,13 @@
     },
     {
       "name": "Obiad",
-      "baseDietCaloriesMealId": 3313,
+      "baseDietCaloriesMealId": 3314,
       "options": [
         {
-          "dietCaloriesMealId": 3343,
+          "dietCaloriesMealId": 3348,
           "name": "Ziołowe klopsiki w sosie pieczarkowym z czosnkowym pęczakiem i kalafiorem",
           "label": "BASIC",
-          "info": "354 kcal • B:21g • W:28g • T:17g",
+          "info": "517 kcal • B:30g • W:50g • T:22g",
           "thermo": "WARM",
           "reviewsNumber": 11,
           "reviewsScore": 90.91,
@@ -1834,6 +1834,11 @@
               }
             ],
             "ingredients": [
+              {
+                "name": "Kasza jęczmienna (pęczak) (Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies)",
+                "major": true,
+                "exclusion": []
+              },
               {
                 "name": "Kalafior.",
                 "major": false,
@@ -1873,9 +1878,15 @@
                 ]
               },
               {
-                "name": "Kasza jęczmienna (pęczak) (Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies)",
-                "major": true,
-                "exclusion": []
+                "name": "Cebula",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 74,
+                    "name": "cebula",
+                    "chosen": false
+                  }
+                ]
               },
               {
                 "name": "Pieczarki",
@@ -1884,17 +1895,6 @@
                   {
                     "dietaryExclusionId": 415,
                     "name": "pieczarki",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
-                "name": "Cebula",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 74,
-                    "name": "cebula",
                     "chosen": false
                   }
                 ]
@@ -1911,6 +1911,22 @@
                 ]
               },
               {
+                "name": "Śmietanka 30%",
+                "major": false,
+                "exclusion": []
+              },
+              {
+                "name": "Natka pietruszki",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 361,
+                    "name": "natka",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
                 "name": "Masło (Mleko)",
                 "major": true,
                 "exclusion": [
@@ -1922,22 +1938,17 @@
                 ]
               },
               {
-                "name": "Śmietanka 30%",
-                "major": false,
-                "exclusion": []
-              },
-              {
                 "name": "Jaja kurze (całe) (Jaja)",
                 "major": true,
                 "exclusion": []
               },
               {
-                "name": "Natka pietruszki",
+                "name": "Czosnek",
                 "major": false,
                 "exclusion": [
                   {
-                    "dietaryExclusionId": 361,
-                    "name": "natka",
+                    "dietaryExclusionId": 112,
+                    "name": "czosnek",
                     "chosen": false
                   }
                 ]
@@ -1954,28 +1965,6 @@
                 ]
               },
               {
-                "name": "Czosnek",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 112,
-                    "name": "czosnek",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
-                "name": "Skrobia ziemniaczana",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 515,
-                    "name": "skrobia",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
                 "name": "Olej rzepakowy",
                 "major": false,
                 "exclusion": [
@@ -1987,6 +1976,17 @@
                   {
                     "dietaryExclusionId": 488,
                     "name": "rzepa",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Skrobia ziemniaczana",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 515,
+                    "name": "skrobia",
                     "chosen": false
                   }
                 ]
@@ -2037,22 +2037,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "353.97 kcal / 1481 kJ",
-            "carbohydrate": "28.07g",
-            "dietaryFiber": "5.94g",
-            "fat": "17.22g",
-            "protein": "21.34g",
-            "salt": "0.55g",
-            "saturatedFattyAcids": "5.89g",
-            "sugar": "4.29g",
+            "calories": "517.15 kcal / 2163 kJ",
+            "carbohydrate": "50.45g",
+            "dietaryFiber": "8.42g",
+            "fat": "21.54g",
+            "protein": "29.5g",
+            "salt": "0.64g",
+            "saturatedFattyAcids": "6.78g",
+            "sugar": "5.66g",
             "thermo": "WARM"
           }
         },
         {
-          "dietCaloriesMealId": 3286,
+          "dietCaloriesMealId": 3283,
           "name": "Fettuccine z cukinią, chilli i kurczakiem",
           "label": "COMFORT",
-          "info": "381 kcal • B:30g • W:24g • T:18g",
+          "info": "556 kcal • B:44g • W:34g • T:27g",
           "thermo": "WARM",
           "reviewsNumber": 2,
           "reviewsScore": 100,
@@ -2156,22 +2156,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "381.17 kcal / 1594 kJ",
-            "carbohydrate": "24.2g",
-            "dietaryFiber": "2.38g",
-            "fat": "18.13g",
-            "protein": "29.88g",
-            "salt": "0.78g",
-            "saturatedFattyAcids": "8.94g",
-            "sugar": "3.6g",
+            "calories": "555.94 kcal / 2326 kJ",
+            "carbohydrate": "34.39g",
+            "dietaryFiber": "3.38g",
+            "fat": "26.5g",
+            "protein": "44.35g",
+            "salt": "1.14g",
+            "saturatedFattyAcids": "13.03g",
+            "sugar": "5.11g",
             "thermo": "WARM"
           }
         },
         {
-          "dietCaloriesMealId": 3376,
+          "dietCaloriesMealId": 3375,
           "name": "Tofu zmieniające życie ze smażonym makaronem i warzywami.",
           "label": "WEGE COMFORT",
-          "info": "395 kcal • B:19g • W:43g • T:16g",
+          "info": "592 kcal • B:28g • W:64g • T:24g",
           "thermo": "WARM",
           "reviewsNumber": 16,
           "reviewsScore": 87.5,
@@ -2351,22 +2351,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "394.6 kcal / 1651 kJ",
-            "carbohydrate": "42.55g",
-            "dietaryFiber": "5.25g",
-            "fat": "15.9g",
-            "protein": "18.68g",
-            "salt": "2.59g",
-            "saturatedFattyAcids": "1.73g",
-            "sugar": "14.47g",
+            "calories": "591.9 kcal / 2476 kJ",
+            "carbohydrate": "63.82g",
+            "dietaryFiber": "7.88g",
+            "fat": "23.86g",
+            "protein": "28.03g",
+            "salt": "3.88g",
+            "saturatedFattyAcids": "2.6g",
+            "sugar": "21.7g",
             "thermo": "WARM"
           }
         },
         {
-          "dietCaloriesMealId": 3313,
+          "dietCaloriesMealId": 3314,
           "name": "Paella z chorizo i krewetkami",
           "label": "PREMIUM",
-          "info": "377 kcal • B:22g • W:28g • T:19g",
+          "info": "613 kcal • B:36g • W:46g • T:31g",
           "thermo": "WARM",
           "reviewsNumber": 7,
           "reviewsScore": 85.71,
@@ -2410,17 +2410,6 @@
                 ]
               },
               {
-                "name": "Cytryna",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 108,
-                    "name": "cytryna",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
                 "name": "Passata pomidorowa (przecier)",
                 "major": false,
                 "exclusion": [
@@ -2442,23 +2431,34 @@
                 ]
               },
               {
-                "name": "Masło (Mleko)",
-                "major": true,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 326,
-                    "name": "masło",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
                 "name": "Chorizo",
                 "major": false,
                 "exclusion": [
                   {
                     "dietaryExclusionId": 85,
                     "name": "chorizo",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Cytryna",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 108,
+                    "name": "cytryna",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Masło (Mleko)",
+                "major": true,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 326,
+                    "name": "masło",
                     "chosen": false
                   }
                 ]
@@ -2542,22 +2542,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "377.42 kcal / 1579 kJ",
-            "carbohydrate": "28.3g",
-            "dietaryFiber": "1.81g",
-            "fat": "18.9g",
-            "protein": "22.39g",
-            "salt": "2.25g",
-            "saturatedFattyAcids": "7.64g",
-            "sugar": "2.13g",
+            "calories": "613.46 kcal / 2566 kJ",
+            "carbohydrate": "46.07g",
+            "dietaryFiber": "2.73g",
+            "fat": "30.73g",
+            "protein": "36.26g",
+            "salt": "3.66g",
+            "saturatedFattyAcids": "12.42g",
+            "sugar": "3.21g",
             "thermo": "WARM"
           }
         },
         {
-          "dietCaloriesMealId": 4312,
+          "dietCaloriesMealId": 4316,
           "name": "Drobiowa roladka z pietruszkowym pesto z sosem koperkowym, kaszą gryczaną i pieczoną pietruszką",
           "label": "NISKI IG",
-          "info": "325 kcal • B:27g • W:30g • T:10g",
+          "info": "487 kcal • B:41g • W:43g • T:16g",
           "thermo": "WARM",
           "reviewsNumber": 1,
           "reviewsScore": 100,
@@ -2580,6 +2580,17 @@
             ],
             "ingredients": [
               {
+                "name": "Kasza gryczana",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 236,
+                    "name": "kasza",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
                 "name": "Pietruszka",
                 "major": false,
                 "exclusion": [
@@ -2591,17 +2602,6 @@
                   {
                     "dietaryExclusionId": 597,
                     "name": "uszka",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
-                "name": "Kasza gryczana",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 236,
-                    "name": "kasza",
                     "chosen": false
                   }
                 ]
@@ -2759,17 +2759,6 @@
                 ]
               },
               {
-                "name": "Mielona papryka słodka",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 395,
-                    "name": "papryka",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
                 "name": "Tymianek",
                 "major": false,
                 "exclusion": [
@@ -2779,25 +2768,36 @@
                     "chosen": false
                   }
                 ]
+              },
+              {
+                "name": "Mielona papryka słodka",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 395,
+                    "name": "papryka",
+                    "chosen": false
+                  }
+                ]
               }
             ],
             "imageUrl": "",
-            "calories": "324.51 kcal / 1357 kJ",
-            "carbohydrate": "30.1g",
-            "dietaryFiber": "11.66g",
-            "fat": "10.34g",
-            "protein": "27.01g",
-            "salt": "1.05g",
-            "saturatedFattyAcids": "2.18g",
-            "sugar": "2.51g",
+            "calories": "486.77 kcal / 2036 kJ",
+            "carbohydrate": "43.49g",
+            "dietaryFiber": "14.77g",
+            "fat": "16.03g",
+            "protein": "40.88g",
+            "salt": "1.59g",
+            "saturatedFattyAcids": "3.38g",
+            "sugar": "3.29g",
             "thermo": "WARM"
           }
         },
         {
-          "dietCaloriesMealId": 4489,
+          "dietCaloriesMealId": 4491,
           "name": "Burger z seitana z zielonym bulgurem i surówką z marchewki",
           "label": "WYSOKOBIAŁKOWA",
-          "info": "314 kcal • B:24g • W:23g • T:14g",
+          "info": "440 kcal • B:35g • W:32g • T:19g",
           "thermo": "WARM",
           "reviewsNumber": 5,
           "reviewsScore": 100,
@@ -2820,6 +2820,11 @@
             ],
             "ingredients": [
               {
+                "name": "Seitan (Soja, Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies)",
+                "major": true,
+                "exclusion": []
+              },
+              {
                 "name": "Kapusta pekińska",
                 "major": false,
                 "exclusion": [
@@ -2829,11 +2834,6 @@
                     "chosen": false
                   }
                 ]
-              },
-              {
-                "name": "Seitan (Soja, Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies)",
-                "major": true,
-                "exclusion": []
               },
               {
                 "name": "Bulion warzywny (domowy)",
@@ -2890,11 +2890,6 @@
                 ]
               },
               {
-                "name": "Marchew",
-                "major": false,
-                "exclusion": []
-              },
-              {
                 "name": "Cebula",
                 "major": false,
                 "exclusion": [
@@ -2904,6 +2899,11 @@
                     "chosen": false
                   }
                 ]
+              },
+              {
+                "name": "Marchew",
+                "major": false,
+                "exclusion": []
               },
               {
                 "name": "Ser parmezan",
@@ -2922,6 +2922,11 @@
                 ]
               },
               {
+                "name": "Jaja kurze (całe) (Jaja)",
+                "major": true,
+                "exclusion": []
+              },
+              {
                 "name": "Jabłko",
                 "major": false,
                 "exclusion": [
@@ -2931,11 +2936,6 @@
                     "chosen": false
                   }
                 ]
-              },
-              {
-                "name": "Jaja kurze (całe) (Jaja)",
-                "major": true,
-                "exclusion": []
               },
               {
                 "name": "Oliwa z oliwek",
@@ -2965,6 +2965,17 @@
                 "exclusion": []
               },
               {
+                "name": "Sos sojowy ciemny (Soja)",
+                "major": true,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 534,
+                    "name": "sos",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
                 "name": "Pieprz czarny mielony",
                 "major": false,
                 "exclusion": [
@@ -2982,17 +2993,6 @@
                   {
                     "dietaryExclusionId": 531,
                     "name": "sól",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
-                "name": "Sos sojowy ciemny (Soja)",
-                "major": true,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 534,
-                    "name": "sos",
                     "chosen": false
                   }
                 ]
@@ -3043,14 +3043,14 @@
               }
             ],
             "imageUrl": "",
-            "calories": "313.93 kcal / 1313 kJ",
-            "carbohydrate": "22.68g",
-            "dietaryFiber": "7.45g",
-            "fat": "13.74g",
-            "protein": "23.84g",
-            "salt": "3.03g",
-            "saturatedFattyAcids": "4.67g",
-            "sugar": "5.27g",
+            "calories": "439.98 kcal / 1840 kJ",
+            "carbohydrate": "31.89g",
+            "dietaryFiber": "9.69g",
+            "fat": "18.57g",
+            "protein": "34.8g",
+            "salt": "3.73g",
+            "saturatedFattyAcids": "6.57g",
+            "sugar": "7.23g",
             "thermo": "WARM"
           }
         }
@@ -3058,13 +3058,13 @@
     },
     {
       "name": "Podwieczorek",
-      "baseDietCaloriesMealId": 3321,
+      "baseDietCaloriesMealId": 3323,
       "options": [
         {
-          "dietCaloriesMealId": 3354,
+          "dietCaloriesMealId": 3352,
           "name": "Crumble z kruszonki z truskawkami.",
           "label": "BASIC",
-          "info": "191 kcal • B:4g • W:27g • T:8g",
+          "info": "305 kcal • B:7g • W:43g • T:12g",
           "thermo": "COLD",
           "reviewsNumber": 0,
           "reviewsScore": 0,
@@ -3081,23 +3081,23 @@
             ],
             "ingredients": [
               {
-                "name": "Jogurt grecki",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 214,
-                    "name": "jogurt",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
                 "name": "Truskawki (mrożone)",
                 "major": false,
                 "exclusion": [
                   {
                     "dietaryExclusionId": 587,
                     "name": "truskawki",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Jogurt grecki",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 214,
+                    "name": "jogurt",
                     "chosen": false
                   }
                 ]
@@ -3191,22 +3191,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "191.48 kcal / 801 kJ",
-            "carbohydrate": "26.95g",
-            "dietaryFiber": "1.97g",
-            "fat": "7.62g",
-            "protein": "4.18g",
-            "salt": "0.04g",
-            "saturatedFattyAcids": "2.89g",
-            "sugar": "11.1g",
+            "calories": "305.33 kcal / 1277 kJ",
+            "carbohydrate": "43.1g",
+            "dietaryFiber": "3.18g",
+            "fat": "12.1g",
+            "protein": "6.65g",
+            "salt": "0.07g",
+            "saturatedFattyAcids": "4.59g",
+            "sugar": "17.6g",
             "thermo": "COLD"
           }
         },
         {
-          "dietCaloriesMealId": 3291,
+          "dietCaloriesMealId": 3293,
           "name": "Wytrawne babeczki z serem",
           "label": "COMFORT",
-          "info": "112 kcal • B:6g • W:13g • T:4g",
+          "info": "223 kcal • B:12g • W:26g • T:8g",
           "thermo": "COLD",
           "reviewsNumber": 58,
           "reviewsScore": 96.55,
@@ -3364,22 +3364,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "111.71 kcal / 467 kJ",
-            "carbohydrate": "12.82g",
-            "dietaryFiber": "0.83g",
-            "fat": "3.99g",
-            "protein": "6.02g",
-            "salt": "0.34g",
-            "saturatedFattyAcids": "2.2g",
-            "sugar": "2.58g",
+            "calories": "223.43 kcal / 934 kJ",
+            "carbohydrate": "25.64g",
+            "dietaryFiber": "1.66g",
+            "fat": "7.97g",
+            "protein": "12.03g",
+            "salt": "0.68g",
+            "saturatedFattyAcids": "4.39g",
+            "sugar": "5.16g",
             "thermo": "COLD"
           }
         },
         {
-          "dietCaloriesMealId": 3381,
+          "dietCaloriesMealId": 3383,
           "name": "Zupa ogórkowa z kaszą pęczak",
           "label": "WEGE COMFORT",
-          "info": "144 kcal • B:4g • W:25g • T:3g",
+          "info": "216 kcal • B:6g • W:37g • T:4g",
           "thermo": "WARM",
           "reviewsNumber": 5,
           "reviewsScore": 100,
@@ -3521,22 +3521,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "143.74 kcal / 601 kJ",
-            "carbohydrate": "24.9g",
-            "dietaryFiber": "3.91g",
-            "fat": "2.89g",
-            "protein": "4.07g",
-            "salt": "0.82g",
-            "saturatedFattyAcids": "0.86g",
-            "sugar": "1.33g",
+            "calories": "215.61 kcal / 902 kJ",
+            "carbohydrate": "37.35g",
+            "dietaryFiber": "5.87g",
+            "fat": "4.33g",
+            "protein": "6.1g",
+            "salt": "1.24g",
+            "saturatedFattyAcids": "1.29g",
+            "sugar": "1.99g",
             "thermo": "WARM"
           }
         },
         {
-          "dietCaloriesMealId": 3321,
+          "dietCaloriesMealId": 3323,
           "name": "Smoothie Matcha jabłkowo-bananowe",
           "label": "PREMIUM",
-          "info": "139 kcal • B:1g • W:33g • T:0g",
+          "info": "184 kcal • B:1g • W:43g • T:1g",
           "thermo": "COLD",
           "reviewsNumber": 0,
           "reviewsScore": 0,
@@ -3596,22 +3596,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "139.32 kcal / 582 kJ",
-            "carbohydrate": "32.86g",
-            "dietaryFiber": "1.03g",
-            "fat": "0.41g",
-            "protein": "0.84g",
+            "calories": "183.9 kcal / 769 kJ",
+            "carbohydrate": "43.37g",
+            "dietaryFiber": "1.37g",
+            "fat": "0.54g",
+            "protein": "1.11g",
             "salt": "0.0g",
-            "saturatedFattyAcids": "0.06g",
-            "sugar": "26.98g",
+            "saturatedFattyAcids": "0.08g",
+            "sugar": "35.61g",
             "thermo": "COLD"
           }
         },
         {
-          "dietCaloriesMealId": 4318,
+          "dietCaloriesMealId": 4319,
           "name": "Green pudding chia z owocami",
           "label": "NISKI IG",
-          "info": "153 kcal • B:6g • W:12g • T:9g",
+          "info": "229 kcal • B:9g • W:19g • T:13g",
           "thermo": "COLD",
           "reviewsNumber": 2,
           "reviewsScore": 50,
@@ -3716,22 +3716,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "152.56 kcal / 638 kJ",
-            "carbohydrate": "11.75g",
-            "dietaryFiber": "7.36g",
-            "fat": "9.13g",
-            "protein": "5.88g",
-            "salt": "0.09g",
-            "saturatedFattyAcids": "3.96g",
-            "sugar": "8.26g",
+            "calories": "228.84 kcal / 957 kJ",
+            "carbohydrate": "18.93g",
+            "dietaryFiber": "11.3g",
+            "fat": "12.86g",
+            "protein": "9.39g",
+            "salt": "0.14g",
+            "saturatedFattyAcids": "4.77g",
+            "sugar": "13.31g",
             "thermo": "COLD"
           }
         },
         {
-          "dietCaloriesMealId": 4497,
+          "dietCaloriesMealId": 4494,
           "name": "Zupa gołąbkowa z ryżem",
           "label": "WYSOKOBIAŁKOWA",
-          "info": "192 kcal • B:10g • W:15g • T:10g",
+          "info": "289 kcal • B:15g • W:22g • T:16g",
           "thermo": "WARM",
           "reviewsNumber": 29,
           "reviewsScore": 93.1,
@@ -3949,14 +3949,14 @@
               }
             ],
             "imageUrl": "",
-            "calories": "192.43 kcal / 805 kJ",
-            "carbohydrate": "14.69g",
-            "dietaryFiber": "3.25g",
-            "fat": "10.36g",
-            "protein": "9.7g",
-            "salt": "0.41g",
-            "saturatedFattyAcids": "3.23g",
-            "sugar": "4.07g",
+            "calories": "288.65 kcal / 1207 kJ",
+            "carbohydrate": "22.03g",
+            "dietaryFiber": "4.87g",
+            "fat": "15.54g",
+            "protein": "14.55g",
+            "salt": "0.61g",
+            "saturatedFattyAcids": "4.84g",
+            "sugar": "6.1g",
             "thermo": "WARM"
           }
         }
@@ -3964,13 +3964,13 @@
     },
     {
       "name": "Kolacja",
-      "baseDietCaloriesMealId": 3329,
+      "baseDietCaloriesMealId": 3327,
       "options": [
         {
-          "dietCaloriesMealId": 3360,
+          "dietCaloriesMealId": 3357,
           "name": "Bigos z pieczonymi ziemniaczkami i surówką z marchewki",
           "label": "BASIC",
-          "info": "232 kcal • B:10g • W:24g • T:10g",
+          "info": "330 kcal • B:14g • W:33g • T:16g",
           "thermo": "WARM",
           "reviewsNumber": 9,
           "reviewsScore": 100,
@@ -4081,6 +4081,17 @@
                 ]
               },
               {
+                "name": "Powidła śliwkowe",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 447,
+                    "name": "powidła",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
                 "name": "Koper ogrodowy",
                 "major": false,
                 "exclusion": [
@@ -4092,12 +4103,17 @@
                 ]
               },
               {
-                "name": "Powidła śliwkowe",
+                "name": "Olej rzepakowy",
                 "major": false,
                 "exclusion": [
                   {
-                    "dietaryExclusionId": 447,
-                    "name": "powidła",
+                    "dietaryExclusionId": 371,
+                    "name": "olej",
+                    "chosen": false
+                  },
+                  {
+                    "dietaryExclusionId": 488,
+                    "name": "rzepa",
                     "chosen": false
                   }
                 ]
@@ -4120,22 +4136,6 @@
                   {
                     "dietaryExclusionId": 419,
                     "name": "pieprz",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
-                "name": "Olej rzepakowy",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 371,
-                    "name": "olej",
-                    "chosen": false
-                  },
-                  {
-                    "dietaryExclusionId": 488,
-                    "name": "rzepa",
                     "chosen": false
                   }
                 ]
@@ -4244,22 +4244,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "231.52 kcal / 968 kJ",
-            "carbohydrate": "24.22g",
-            "dietaryFiber": "5.86g",
-            "fat": "10.45g",
-            "protein": "10.02g",
-            "salt": "2.98g",
-            "saturatedFattyAcids": "2.93g",
-            "sugar": "3.0g",
+            "calories": "330.2 kcal / 1381 kJ",
+            "carbohydrate": "32.71g",
+            "dietaryFiber": "7.1g",
+            "fat": "15.62g",
+            "protein": "14.47g",
+            "salt": "3.27g",
+            "saturatedFattyAcids": "4.56g",
+            "sugar": "4.5g",
             "thermo": "WARM"
           }
         },
         {
-          "dietCaloriesMealId": 3295,
+          "dietCaloriesMealId": 3300,
           "name": "Fasolka szparagowa z zasmażką i cieciorką z chrupiącymi ziemniakami i surówką",
           "label": "COMFORT",
-          "info": "299 kcal • B:11g • W:39g • T:11g",
+          "info": "436 kcal • B:17g • W:56g • T:16g",
           "thermo": "WARM",
           "reviewsNumber": 26,
           "reviewsScore": 96.15,
@@ -4299,6 +4299,11 @@
                 ]
               },
               {
+                "name": "Fasolka szparagowa (mrożona)",
+                "major": false,
+                "exclusion": []
+              },
+              {
                 "name": "Kapusta biała",
                 "major": false,
                 "exclusion": [
@@ -4310,9 +4315,15 @@
                 ]
               },
               {
-                "name": "Fasolka szparagowa (mrożona)",
+                "name": "Ciecierzyca (w zalewie)",
                 "major": false,
-                "exclusion": []
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 92,
+                    "name": "ciecierzyca",
+                    "chosen": false
+                  }
+                ]
               },
               {
                 "name": "Marchew",
@@ -4326,17 +4337,6 @@
                   {
                     "dietaryExclusionId": 395,
                     "name": "papryka",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
-                "name": "Ciecierzyca (w zalewie)",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 92,
-                    "name": "ciecierzyca",
                     "chosen": false
                   }
                 ]
@@ -4385,6 +4385,28 @@
                 ]
               },
               {
+                "name": "Oliwa z oliwek",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 372,
+                    "name": "oliwa",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
+                "name": "Płatki drożdżowe",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 429,
+                    "name": "płatki",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
                 "name": "Cukier",
                 "major": false,
                 "exclusion": [
@@ -4423,28 +4445,6 @@
                 ]
               },
               {
-                "name": "Oliwa z oliwek",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 372,
-                    "name": "oliwa",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
-                "name": "Płatki drożdżowe",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 429,
-                    "name": "płatki",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
                 "name": "Pieprz czarny mielony",
                 "major": false,
                 "exclusion": [
@@ -4456,6 +4456,11 @@
                 ]
               },
               {
+                "name": "Orzechy arachidowe",
+                "major": false,
+                "exclusion": []
+              },
+              {
                 "name": "Sól (biała)",
                 "major": false,
                 "exclusion": [
@@ -4465,11 +4470,6 @@
                     "chosen": false
                   }
                 ]
-              },
-              {
-                "name": "Orzechy arachidowe",
-                "major": false,
-                "exclusion": []
               },
               {
                 "name": "Sezam biały (Sezam)",
@@ -4522,22 +4522,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "299.28 kcal / 1252 kJ",
-            "carbohydrate": "38.64g",
-            "dietaryFiber": "9.5g",
-            "fat": "10.94g",
-            "protein": "11.38g",
-            "salt": "1.78g",
-            "saturatedFattyAcids": "2.43g",
-            "sugar": "6.1g",
+            "calories": "436.2 kcal / 1825 kJ",
+            "carbohydrate": "56.36g",
+            "dietaryFiber": "13.17g",
+            "fat": "15.75g",
+            "protein": "16.99g",
+            "salt": "2.13g",
+            "saturatedFattyAcids": "3.72g",
+            "sugar": "7.98g",
             "thermo": "WARM"
           }
         },
         {
-          "dietCaloriesMealId": 3385,
+          "dietCaloriesMealId": 3390,
           "name": "Grecki placek z cukinii i tzatzikami",
           "label": "WEGE COMFORT",
-          "info": "249 kcal • B:9g • W:15g • T:17g",
+          "info": "374 kcal • B:14g • W:23g • T:25g",
           "thermo": "COLD",
           "reviewsNumber": 1,
           "reviewsScore": 100,
@@ -4707,22 +4707,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "249.02 kcal / 1041 kJ",
-            "carbohydrate": "15.1g",
-            "dietaryFiber": "1.56g",
-            "fat": "16.72g",
-            "protein": "9.4g",
-            "salt": "0.56g",
-            "saturatedFattyAcids": "4.86g",
-            "sugar": "5.97g",
+            "calories": "373.53 kcal / 1562 kJ",
+            "carbohydrate": "22.66g",
+            "dietaryFiber": "2.33g",
+            "fat": "25.08g",
+            "protein": "14.09g",
+            "salt": "0.84g",
+            "saturatedFattyAcids": "7.29g",
+            "sugar": "8.96g",
             "thermo": "COLD"
           }
         },
         {
-          "dietCaloriesMealId": 3329,
+          "dietCaloriesMealId": 3327,
           "name": "Pierogi z jagodami i porzeczkowym sosem",
           "label": "PREMIUM",
-          "info": "258 kcal • B:5g • W:50g • T:4g",
+          "info": "424 kcal • B:9g • W:83g • T:6g",
           "thermo": "WARM",
           "reviewsNumber": 12,
           "reviewsScore": 83.33,
@@ -4776,22 +4776,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "258.05 kcal / 1079 kJ",
-            "carbohydrate": "50.46g",
-            "dietaryFiber": "3.31g",
-            "fat": "3.52g",
-            "protein": "5.46g",
-            "salt": "0.4g",
+            "calories": "424.26 kcal / 1775 kJ",
+            "carbohydrate": "82.83g",
+            "dietaryFiber": "4.77g",
+            "fat": "5.85g",
+            "protein": "8.96g",
+            "salt": "0.66g",
             "saturatedFattyAcids": "0.0g",
-            "sugar": "20.66g",
+            "sugar": "33.16g",
             "thermo": "WARM"
           }
         },
         {
-          "dietCaloriesMealId": 4323,
+          "dietCaloriesMealId": 4326,
           "name": "Sałatka z jajkiem, groszkiem zielonym, winegretem i grzankami",
           "label": "NISKI IG",
-          "info": "264 kcal • B:9g • W:16g • T:19g",
+          "info": "412 kcal • B:17g • W:33g • T:24g",
           "thermo": "COLD",
           "reviewsNumber": 29,
           "reviewsScore": 100,
@@ -4883,6 +4883,17 @@
                 "exclusion": []
               },
               {
+                "name": "Migdały w płatkach",
+                "major": false,
+                "exclusion": [
+                  {
+                    "dietaryExclusionId": 338,
+                    "name": "migdały",
+                    "chosen": false
+                  }
+                ]
+              },
+              {
                 "name": "Musztarda (Gorczyca)",
                 "major": true,
                 "exclusion": [
@@ -4932,17 +4943,6 @@
                 ]
               },
               {
-                "name": "Migdały w płatkach",
-                "major": false,
-                "exclusion": [
-                  {
-                    "dietaryExclusionId": 338,
-                    "name": "migdały",
-                    "chosen": false
-                  }
-                ]
-              },
-              {
                 "name": "Sok z cytryny",
                 "major": false,
                 "exclusion": [
@@ -4977,22 +4977,22 @@
               }
             ],
             "imageUrl": "",
-            "calories": "264.27 kcal / 1105 kJ",
-            "carbohydrate": "15.71g",
-            "dietaryFiber": "5.1g",
-            "fat": "18.59g",
-            "protein": "8.64g",
-            "salt": "0.37g",
-            "saturatedFattyAcids": "3.28g",
-            "sugar": "4.27g",
+            "calories": "411.65 kcal / 1722 kJ",
+            "carbohydrate": "32.75g",
+            "dietaryFiber": "10.13g",
+            "fat": "23.78g",
+            "protein": "16.89g",
+            "salt": "0.75g",
+            "saturatedFattyAcids": "4.54g",
+            "sugar": "7.83g",
             "thermo": "COLD"
           }
         },
         {
-          "dietCaloriesMealId": 4502,
+          "dietCaloriesMealId": 4499,
           "name": "Sałatka makaronowa z pomidorkami, młodym szpinakiem i pieczonym udźcem indyka",
           "label": "WYSOKOBIAŁKOWA",
-          "info": "306 kcal • B:28g • W:17g • T:14g",
+          "info": "459 kcal • B:42g • W:26g • T:20g",
           "thermo": "COLD",
           "reviewsNumber": 20,
           "reviewsScore": 100,
@@ -5137,14 +5137,14 @@
               }
             ],
             "imageUrl": "",
-            "calories": "306.3 kcal / 1281 kJ",
-            "carbohydrate": "17.26g",
-            "dietaryFiber": "5.73g",
-            "fat": "13.58g",
-            "protein": "27.67g",
-            "salt": "0.85g",
-            "saturatedFattyAcids": "3.65g",
-            "sugar": "2.44g",
+            "calories": "459.44 kcal / 1922 kJ",
+            "carbohydrate": "25.88g",
+            "dietaryFiber": "8.59g",
+            "fat": "20.37g",
+            "protein": "41.51g",
+            "salt": "1.27g",
+            "saturatedFattyAcids": "5.47g",
+            "sugar": "3.65g",
             "thermo": "COLD"
           }
         }
